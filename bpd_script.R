@@ -355,3 +355,288 @@ tiff(file="rodent_human_BPD_GO_ORA.tiff",
      width=12, height=8, units="in", res=100)
 rodent_human_bpd_compare
 dev.off()
+
+
+
+
+
+
+
+
+
+================================
+  #FGSEA
+===============================  
+https://biostatsquid.com/fgsea-tutorial-gsea/  
+gene_sets_df <- msigdbr(species = 'Homo sapiens', category = 'H')
+================================
+#G profiler
+===============================  
+library(gprofiler2)
+
+gostres <- gost(
+    gene_list_human,
+    organism = "hsapiens",
+    ordered_query = TRUE,
+    multi_query = FALSE,
+    significant = TRUE,
+    exclude_iea = TRUE,
+    measure_underrepresentation = TRUE,
+    evcodes = FALSE,
+    user_threshold = 0.05,
+    correction_method = c("fdr"),
+    domain_scope = c("annotated"),
+    custom_bg = NULL,
+    numeric_ns = "",
+    sources = c("GO:MF", "GO:CC", "GO:BP", "KEGG", "REAC", "WP"),
+    as_short_link = FALSE,
+    highlight = FALSE
+  )
+
+gostplot(
+gostres,
+capped = FALSE,
+interactive = FALSE,
+pal = c(`GO:MF` = "#dc3912", `GO:BP` = "#ff9900", `GO:CC` = "#109618", KEGG ="#dd4477", REAC = "#3366cc", WP = "#0099c6")
+)
+
+
+
+===================
+  GSEA() Human
+
+====================
+library("org.Hs.eg.db")
+symbols <- mapIds(org.Hs.eg.db, keys = ensemblsIDS, keytype = "ENSEMBL", column="SYMBOL")
+
+
+d = read.csv("human_genelist.csv")
+genes = d$gene
+entrez_human <- mapIds(org.Hs.eg.db, keys = genes, keytype="SYMBOL", column = "ENTREZID")
+geneList_n = d[,2]
+names(geneList_n) = entrez_human
+human_geneList = sort(geneList_n, decreasing = TRUE)
+
+#GO GSEA
+
+ego3 <- gseGO(geneList     = human_geneList,
+              OrgDb        = org.Hs.eg.db,
+              ont          = "BP",
+              minGSSize    = 10,
+              maxGSSize    = 500,
+              pvalueCutoff = 0.05,
+              verbose      = FALSE)
+
+human_go_gsea_dotplot <- dotplot(ego3,showCategory=20,font.size=10,label_format=70)+
+  scale_size_continuous(range=c(1, 7))+
+  theme_minimal() +
+  ggtitle("GO:BP GSEA of Human BPD genes")
+#image
+tiff(file="human_GO_BP_gsea.tiff",
+     width=12, height=8, units="in", res=100)
+human_go_gsea_dotplot
+dev.off()
+human_go_gsea_dotplot
+
+
+#Reactome GSEA
+human_reacty <- gsePathway(human_geneList, 
+                pvalueCutoff = 0.05,
+                pAdjustMethod = "BH", 
+                verbose = FALSE)
+
+human_react_gsea_dotplot <- dotplot(human_reacty,showCategory=20,font.size=10,label_format=70)+
+  scale_size_continuous(range=c(1, 7))+
+  theme_minimal() +
+  ggtitle("Reactome GSEA of Human BPD genes")
+#image
+tiff(file="human_Reactome_gsea.tiff",
+     width=12, height=8, units="in", res=100)
+human_react_gsea_dotplot
+dev.off()
+human_react_gsea_dotplot
+
+
+
+#image individual pathways, where 1 is the first pathway in the list
+
+react1 <- gseaplot(human_reacty, geneSetID = 1, by = "runningScore", title = human_reacty$Description[1])
+tiff(file="human_Reactome_gsea_1.tiff",
+     width=12, height=8, units="in", res=100)
+react1
+dev.off()
+react1
+
+
+react1_7 <- gseaplot2(human_reacty, geneSetID = 1:7)
+tiff(file="human_Reactome_gsea_1_7.tiff",
+     width=12, height=8, units="in", res=100)
+react1_7
+dev.off()
+react1_7
+
+gseaplot2(human_reacty, geneSetID = 1, title = human_reacty$Description[1])
+
+gseaplot2(human_reacty, geneSetID = 1:7)
+#KEGG GSEA
+kk2 <- gseKEGG(geneList     = geneList,
+               organism     = 'hsa',
+               minGSSize    = 120,
+               pvalueCutoff = 0.05,
+               verbose      = FALSE)
+
+human_kegg_gsea_dotplot <- dotplot(kk2,showCategory=20,font.size=10,label_format=70)+
+  scale_size_continuous(range=c(1, 7))+
+  theme_minimal() +
+  ggtitle("KEGG GSEA of Human BPD genes")
+#image
+tiff(file="human_kegg_gsea.tiff",
+     width=12, height=8, units="in", res=100)
+human_kegg_gsea_dotplot
+dev.off()
+human_kegg_gsea_dotplot
+
+
+
+===============
+GSEA() rodent
+===============
+library("org.Hs.eg.db")
+symbols <- mapIds(org.Hs.eg.db, keys = ensemblsIDS, keytype = "ENSEMBL", column="SYMBOL")
+
+
+d = read.csv("rodent_genelist.csv")
+genes = d$gene
+entrez_rodent <- mapIds(org.Hs.eg.db, keys = genes, keytype="SYMBOL", column = "ENTREZID")
+geneList_n = d[,2]
+names(geneList_n) = entrez_rodent
+rodent_geneList = sort(geneList_n, decreasing = TRUE)
+
+#GO GSEA
+
+ego3 <- gseGO(geneList     = rodent_geneList,
+              OrgDb        = org.Hs.eg.db,
+              ont          = "BP",
+              minGSSize    = 10,
+              maxGSSize    = 500,
+              pvalueCutoff = 0.05,
+              verbose      = FALSE)
+
+rodent_go_gsea_dotplot <- dotplot(ego3,showCategory=20,font.size=10,label_format=70)+
+  scale_size_continuous(range=c(1, 7))+
+  theme_minimal() +
+  ggtitle("GO:BP GSEA of Rodent BPD genes")
+#image
+tiff(file="rodent_GO_BP_gsea.tiff",
+     width=12, height=8, units="in", res=100)
+rodent_go_gsea_dotplot
+dev.off()
+rodent_go_gsea_dotplot
+
+
+#Reactome GSEA
+rodent_reacty <- gsePathway(rodent_geneList, 
+                            pvalueCutoff = 0.05,
+                            pAdjustMethod = "BH", 
+                            verbose = FALSE)
+
+rodent_react_gsea_dotplot <- dotplot(rodent_reacty,showCategory=20,font.size=10,label_format=70)+
+  scale_size_continuous(range=c(1, 7))+
+  theme_minimal() +
+  ggtitle("Reactome GSEA of Rodent BPD genes")
+#image
+tiff(file="rodent_Reactome_gsea.tiff",
+     width=12, height=8, units="in", res=100)
+rodent_react_gsea_dotplot
+dev.off()
+rodent_react_gsea_dotplot
+
+rreact1_10 <- gseaplot2(rodent_reacty, geneSetID = 1:10)
+tiff(file="rodent_Reactome_gsea_1_10.tiff",
+     width=12, height=8, units="in", res=100)
+rreact1_10
+dev.off()
+rreact1_10
+
+
+
+
+#KEGG GSEA
+kk2 <- gseKEGG(geneList     = rodent_geneList,
+               organism     = 'hsa',
+               minGSSize    = 120,
+               pvalueCutoff = 0.05,
+               verbose      = FALSE)
+
+rodent_kegg_gsea_dotplot <- dotplot(kk2,showCategory=20,font.size=10,label_format=70)+
+  scale_size_continuous(range=c(1, 7))+
+  theme_minimal() +
+  ggtitle("KEGG GSEA of rodent BPD genes")
+#image
+tiff(file="rodent_kegg_gsea.tiff",
+     width=12, height=8, units="in", res=100)
+rodent_kegg_gsea_dotplot
+dev.off()
+rodent_kegg_gsea_dotplot
+
+
+
+==============
+  #PPI overlap
+=============
+library(ggvenn)
+
+hdegree <- (read.csv("human_bpd_ppi/human_bpd_100_degree.csv", skip = 1, header=T))$Name 
+hdmnc <- (read.csv("human_bpd_ppi/human_bpd_100_dmnc.csv", skip = 1, header=T))$Name 
+hepc <- (read.csv("human_bpd_ppi/human_bpd_100_epc.csv", skip = 1, header=T))$Name 
+hmcc <- (read.csv("human_bpd_ppi/human_bpd_100_mcc.csv", skip = 1, header=T))$Name
+hmnc <- (read.csv("human_bpd_ppi/human_bpd_100_mnc.csv", skip = 1, header=T))$Name
+
+venndata <- list(hdegree, hepc, hmcc, hmnc, hdmnc)
+hppi_upset <- ggVennDiagram(venndata, force_upset = TRUE, order.set.by = "name", category.names = c("Degree","EPC","MCC", "MNC", "DMNC"))
+
+tiff(file="hppi_upset.tiff",
+     width=12, height=8, units="in", res=100)
+hppi_upset 
+dev.off()
+hppi_upset 
+
+write.table(
+  overlap_all,
+  file = "overlapping_genes_human_ppi_hub.txt",
+  quote = FALSE,     # don't add quotes around values
+  row.names = FALSE, # don't write row numbers
+  col.names = FALSE  # don't write a header
+)
+
+
+rdegree <- (read.csv("rodent_bpd_ppi/rodent_bpd_100_degree.csv", skip = 1, header=T))$Name 
+rdmnc <- (read.csv("rodent_bpd_ppi/rodent_bpd_100_dmnc.csv", skip = 1, header=T))$Name 
+repc <- (read.csv("rodent_bpd_ppi/rodent_bpd_100_epc.csv", skip = 1, header=T))$Name 
+rmcc <- (read.csv("rodent_bpd_ppi/rodent_bpd_100_mcc.csv", skip = 1, header=T))$Name
+rmnc <- (read.csv("rodent_bpd_ppi/rodent_bpd_100_mnc.csv", skip = 1, header=T))$Name
+
+venndata <- list(rdegree, repc, rmcc, rmnc, rdmnc)
+hppi_upset_r <- ggVennDiagram(venndata, force_upset = TRUE, order.set.by = "name", category.names = c("Degree","EPC","MCC", "MNC", "DMNC"))
+overlap_all <- Reduce(intersect, venndata)
+tiff(file="rppi_upset.tiff",
+     width=12, height=8, units="in", res=100)
+hppi_upset_r
+dev.off()
+hppi_upset_r
+
+write.table(
+  overlap_all,
+  file = "overlapping_genes_rodent_ppi_hub.txt",
+  quote = FALSE,     # don't add quotes around values
+  row.names = FALSE, # don't write row numbers
+  col.names = FALSE  # don't write a header
+)
+
+
+==========
+  #STRING
+=========  
+human_priority_p_mapped <- string_db$map( human_priority_genes, "gene", removeUnmappedRows = TRUE )
+
+
