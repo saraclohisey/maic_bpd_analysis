@@ -1,0 +1,4 @@
+#clustering method	cluster number	cluster color	hex color	gene count	primary description	secondary description	tertiary description	protein names
+MCL	1	Red	#ff0000	11	TNFs bind their physiological receptors, and T cell modulation in pancreatic cancer	-	-	CCR7, IL7, PRF1, CD40LG, TNFRSF9, ICOS, CD28, CD27, CXCR5, TNFRSF8, TNFSF4
+MCL	2	Green	#a3ff65	9	Mixed, incl. non-Langerhans-cell histiocytosis, and T cell receptor complex	-	-	CD1C, CD83, CD5, CR2, CD24, TCL1A, CD1B, CD79B, POU2AF1
+MCL	3	Blue	#008eb2	8	Dysgammaglobulinemia, and Immunoglobulin domain	-	-	CD3E, CD48, CD96, CD3G, SH2D1A, CD6, SLAMF1, CD52
