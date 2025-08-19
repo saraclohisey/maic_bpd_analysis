@@ -1,0 +1,15 @@
+Microarray
+Natarajan_28851267_down	
+RANKED	
+NAMED_GENES
+mouse
+Mki67
+Hist1h2ab
+Depdc1a
+Aplnr
+Stfa1
+Hist1h2ag
+Gypa
+Prss35
+Frem1
+Slc27a6

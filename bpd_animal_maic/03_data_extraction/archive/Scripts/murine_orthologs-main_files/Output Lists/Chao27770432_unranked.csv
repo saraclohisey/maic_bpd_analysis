@@ -1,0 +1,105 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Gm9920,not found,,,
+Dancr,not found,,,
+9330159M07Rik,not found,,,
+Firre,not found,,,
+Gm14188,not found,,,
+Creg1,ENSG00000143162,ortholog_one2one,76.8182,87.2727
+Cfh,not found,,,
+4933438K21Rik,not found,,,
+Rnase10,ENSG00000182545,ortholog_one2one,63.8889,77.7778
+Gm10689,not found,,,
+Gm26619,not found,,,
+Rny3,ENSG00000202354,ortholog_one2one,95.098,95.098
+Cirbp,ENSG00000099622,ortholog_one2one,53.5354,54.5455
+Gm11412,not found,,,
+Hist1h4h,not found,,,
+E330020D12Rik,not found,,,
+1700066C05Rik,not found,,,
+Bax,ENSG00000167034,ortholog_one2one,64.5299,71.7949
+Gm10376,not found,,,
+Gm5316,not found,,,
+Rnu3b4,ENSG00000212321,ortholog_many2many,73.1818,73.1818
+Rnu3b4,ENSG00000277754,ortholog_many2many,82.4074,82.4074
+Zfp114,ENSG00000159915,ortholog_one2many,39.8507,50
+533D426P16Rik,error - retries exceeded,,,
+Gm22D42,error - retries exceeded,,,
+Pign,ENSG00000197563,ortholog_one2one,87.4329,92.3738
+Adra1b,ENSG00000170214,ortholog_one2one,95.3846,96.9231
+ENSMUSG00000103057,error - retries exceeded,,,
+Gm14963,not found,,,
+Zfp64D,error - retries exceeded,,,
+Fmn2,ENSG00000155816,ortholog_one2one,73.8676,77.7003
+Speer7-ps1,not found,,,
+Zfp691,ENSG00000164011,ortholog_one2one,76.5079,79.3651
+E4f1,ENSG00000167967,ortholog_one2one,87.8827,91.199
+573D419FD3Rik,error - retries exceeded,,,
+Gm12576,not found,,,
+Pixna2,error - retries exceeded,,,
+Gm4425,not found,,,
+Krt222,ENSG00000213424,ortholog_one2one,88.1356,94.5763
+4933405E24Rik,not found,,,
+Oacyl,not found,,,
+Slc8a3,ENSG00000100678,ortholog_one2one,95.0054,97.2856
+Olfr150D,error - retries exceeded,,,
+Gm2005,not found,,,
+Smo,ENSG00000088826,ortholog_one2one,95.1351,96.7568
+Smck3b,error - retries exceeded,,,
+Rabgap1,ENSG00000011454,ortholog_one2one,97.1936,98.4097
+D3Ertd751e,ENSG00000151470,ortholog_one2one,78.8945,88.9447
+Ulk3,ENSG00000140474,ortholog_one2one,94.0678,97.6695
+Dnase2a,ENSG00000105612,ortholog_one2one,69.7222,81.1111
+Lhx6,ENSG00000106852,ortholog_one2one,97.9592,99.7449
+Hsd3b2,ENSG00000203859,ortholog_many2many,70.6989,83.871
+Hsd3b2,ENSG00000203857,ortholog_many2many,71.0456,84.7185
+H2-Q4,not found,,,
+Pdzm3,error - retries exceeded,,,
+Nr1i3,ENSG00000143257,ortholog_one2one,74.4253,85.9195
+Tdgf1,ENSG00000225366,ortholog_one2many,63.2979,71.2766
+Tdgf1,ENSG00000241186,ortholog_one2many,62.766,70.7447
+Tbx22,ENSG00000122145,ortholog_one2one,71.7308,80.3846
+Shc4,ENSG00000185634,ortholog_one2one,79.8413,86.5079
+Cherp,ENSG00000085872,ortholog_one2one,94.6507,96.7249
+St6galnac1,ENSG00000070526,ortholog_one2one,58.8333,67.1667
+Rs1,ENSG00000215695,ortholog_one2many,54.6191,65.6402
+Slfn9,ENSG00000154760,ortholog_one2many,63.0992,75.5853
+BC030870,ENSG00000248771,ortholog_one2one,61.9718,84.507
+Akap7,ENSG00000118507,ortholog_one2one,70.977,79.8851
+Gm41B1,error - retries exceeded,,,
+Itgam,ENSG00000169896,ortholog_one2one,73.4375,85.7639
+Pde4c,ENSG00000105650,ortholog_one2one,69.5588,76.6176
+Mcidas,ENSG00000234602,ortholog_one2one,78.1818,83.8961
+Idua,ENSG00000127415,ortholog_one2one,77.4885,84.3798
+Cabp5,ENSG00000105507,ortholog_one2one,88.4393,94.2197
+Btnl10,not found,,,
+Fgf23,ENSG00000118972,ortholog_one2one,69.7211,79.6813
+Zfp663,not found,,,
+Snap23,ENSG00000092531,ortholog_one2one,87.2038,93.8389
+Tacr2,ENSG00000075073,ortholog_one2one,82.4121,86.4322
+Proser3,ENSG00000167595,ortholog_one2one,49.8619,58.2873
+Kira1,error - retries exceeded,,,
+Slc17a5,ENSG00000119899,ortholog_one2one,85.8586,92.3232
+A_30_p01018533,error - retries exceeded,,,
+Gm29055,not found,,,
+Pdcd4,ENSG00000150593,ortholog_one2one,96.8017,98.5075
+Cdk15,ENSG00000138395,ortholog_one2one,89.6552,93.1034
+Opm1,error - retries exceeded,,,
+Triobp,ENSG00000100106,ortholog_one2one,62.1564,67.7801
+Hexi2,error - retries exceeded,,,
+Pura,ENSG00000185129,ortholog_one2one,99.3789,99.3789
+Snap25,ENSG00000132639,ortholog_one2one,100,100
+Gm15614,not found,,,
+Gm1305,not found,,,
+Fgd4,ENSG00000139132,ortholog_one2one,71.4286,76.8549
+Ttc19,ENSG00000011295,ortholog_one2one,80.7895,87.1053
+Gm10631,not found,,,
+Siglech,ENSG00000105383,ortholog_many2many,41.7582,50.8242
+Siglech,ENSG00000105492,ortholog_many2many,32.8918,40.3974
+Aoc2,ENSG00000131480,ortholog_one2one,80.9524,88.0952
+Gla,ENSG00000102393,ortholog_one2one,76.2238,85.7809
+9230110C19Rik,ENSG00000137691,ortholog_one2one,83.1461,92.1348
+Mar-01,error - retries exceeded,,,
+Gm21897,error - retries exceeded,,,
+Fbxo31,ENSG00000112029,ortholog_one2one,63.7584,73.3781
+Gm14888,error - retries exceeded,,,
+Pinc1,error - retries exceeded,,,

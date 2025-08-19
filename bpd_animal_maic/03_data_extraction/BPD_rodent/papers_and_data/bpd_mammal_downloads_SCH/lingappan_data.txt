@@ -1,0 +1,29 @@
+Affymetrix ID	Symbol	Chromosome	log2FC
+10579331	Gdf15	chr8	3.36
+10498024	Slc7a11	chr3	3.18
+10534667	Serpine1	chr5	2.87
+10545672	Mthfd2	chr6	2.78
+10467191	Ankrd1	chr19	2.74
+10361091	Atf3	chr1	2.69
+10495675	F3	chr3	2.46
+10598976	Timp1	chrX	2.42
+10523182	Areg	chr5	2.40
+10424400	Myc	chr15	2.36
+10543067	Asns	chr6	2.16
+10556297	Adm	chr7	2.16
+10537146	Akr1b8	chr6	2.15
+10513739	Tnc	chr4	2.15
+10350516	Ptgs2	chr1	2.09
+10448307	Tnfrsf12a	chr17	2.08
+10467136	Ch25h	chr19	2.05
+10582275	Slc7a5	chr8	2.03
+10545130	Gadd45a	chr6	2.03
+
+Males only (≥2 fold change)
+10543017	Pdk4	chr6	1.50
+10507908	Fhl3	chr4	1.29
+10587323	Gsta1	chr9	1.25
+10517067	Sfn	chr4	1.17
+
+Females only (≥2 fold change)
+10574427	Impdh2	chr8	1.03

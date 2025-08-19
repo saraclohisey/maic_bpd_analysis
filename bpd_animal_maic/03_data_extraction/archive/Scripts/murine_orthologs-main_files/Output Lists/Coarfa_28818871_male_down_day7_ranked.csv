@@ -1,0 +1,10 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Isx,ENSG00000175329,ortholog_one2one,48.5714,57.551
+Noto,ENSG00000214513,ortholog_one2one,55.3785,62.9482
+Upb1,ENSG00000100024,ortholog_one2one,85.1562,90.625
+Ptchd1,ENSG00000165186,ortholog_one2one,98.0856,99.0991
+Sox8,ENSG00000005513,ortholog_one2one,83.6323,87.4439
+Mdga2,ENSG00000139915,ortholog_one2one,97.0732,98.1463
+Samd7,ENSG00000187033,ortholog_one2one,65.4709,74.2152
+Adra1a,ENSG00000120907,ortholog_one2one,91.4163,94.8498
+Myt1,ENSG00000196132,ortholog_one2one,90.901,93.8448

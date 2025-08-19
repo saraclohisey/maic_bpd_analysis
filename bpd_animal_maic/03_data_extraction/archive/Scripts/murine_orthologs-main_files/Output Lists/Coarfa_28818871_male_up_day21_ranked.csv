@@ -1,0 +1,11 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Phgr1,not found,,,
+Pirt,ENSG00000233670,ortholog_one2one,78.1022,86.1314
+Creg2,ENSG00000175874,ortholog_one2one,82.7586,88.9655
+Mboat4,ENSG00000177669,ortholog_one2one,78.6207,87.5862
+Klkb1,ENSG00000164344,ortholog_one2one,75.8621,86.5204
+Cdh20,ENSG00000101542,ortholog_one2one,96.2547,98.1273
+Slc12a3,ENSG00000070915,ortholog_one2one,89.716,93.5358
+Gp2,ENSG00000169347,ortholog_one2one,61.4232,72.4719
+Cdhr1,ENSG00000148600,ortholog_one2one,84.9825,91.1525
+Ern2,ENSG00000134398,ortholog_one2one,80.7775,86.7171

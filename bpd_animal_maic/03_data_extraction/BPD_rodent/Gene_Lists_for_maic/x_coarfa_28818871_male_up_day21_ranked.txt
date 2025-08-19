@@ -1,0 +1,15 @@
+RNAseq	
+Coarfa_28818871_male_up_day21	
+RANKED	
+NAMED_GENES
+mouse
+Pirt
+Gp2
+Cdh20
+Slc12a3
+Klkb1
+Mboat4
+Ern2
+Creg2
+Phgr1
+Cdhr1

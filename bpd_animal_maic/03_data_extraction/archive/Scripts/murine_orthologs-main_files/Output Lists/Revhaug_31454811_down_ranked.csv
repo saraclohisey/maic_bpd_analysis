@@ -1,0 +1,42 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Ifi27l2a,not found,,,
+Retn,ENSG00000104918,ortholog_one2one,55.5556,70.3704
+Iglc3,ENSG00000211685,ortholog_many2many,63.2075,84.9057
+Hamp,ENSG00000105697,ortholog_one2one,58.3333,71.4286
+Pi16,ENSG00000164530,ortholog_one2one,65.8747,76.0259
+Igsf1,ENSG00000147255,ortholog_one2one,86.1527,92.2156
+Mybphl,ENSG00000221986,ortholog_one2one,83.3333,90.9604
+Gzmm,ENSG00000197540,ortholog_one2one,68.4825,79.7665
+Art1,ENSG00000129744,ortholog_one2one,76.4526,83.1804
+Art3,ENSG00000156219,ortholog_one2one,52.4422,63.4961
+Fgf12,ENSG00000114279,ortholog_one2one,97.7901,97.7901
+Ly6d,ENSG00000167656,ortholog_one2one,59.375,72.6562
+Klra4,not found,,,
+Ms4a1,ENSG00000156738,ortholog_one2one,73.064,84.1751
+Asb11,ENSG00000165192,ortholog_one2one,90.4025,93.8081
+Pou2af1,ENSG00000110777,ortholog_one2one,89.4531,91.7969
+Cd19,ENSG00000177455,ortholog_one2one,65.8273,74.8201
+Bank1,ENSG00000153064,ortholog_one2one,66.7516,78.4713
+Muc20,ENSG00000176945,ortholog_one2one,30.4654,39.6333
+Cd79b,ENSG00000007312,ortholog_one2one,68.1223,79.9127
+Bcl11a,ENSG00000119866,ortholog_one2one,99.521,99.6407
+Txk,ENSG00000074966,ortholog_one2one,82.7324,91.6509
+Asb10,ENSG00000146926,ortholog_one2one,83.7259,89.7216
+Hcst,ENSG00000126264,ortholog_one2one,63.4409,70.9677
+Mgst2,ENSG00000085871,ortholog_one2one,74.8299,88.4354
+Vpreb3,ENSG00000128218,ortholog_one2one,58.5366,70.7317
+Cd24a,ENSG00000272398,ortholog_one2one,41.25,56.25
+Rasgrp1,ENSG00000172575,ortholog_one2one,90.2133,93.0991
+Skap1,ENSG00000141293,ortholog_one2one,81.0585,88.5794
+Klra22,error - retries exceeded,,,
+Mzb1,ENSG00000170476,ortholog_one2one,71.4286,82.5397
+Klra16,error - retries exceeded,,,
+Cyfip2,ENSG00000055163,ortholog_one2one,99.9202,100
+Cxcr5,ENSG00000160683,ortholog_one2one,83.3333,90.8602
+Gmfg,ENSG00000130755,ortholog_one2one,93.662,97.1831
+Epor,ENSG00000187266,ortholog_one2one,81.2992,86.0236
+Blnk,ENSG00000095585,ortholog_one2one,85.5263,90.3509
+Klra15,error - retries exceeded,,,
+Spn,ENSG00000197471,ortholog_one2one,50,58.5
+Cdc42se2,ENSG00000158985,ortholog_one2one,100,100
+Ankrd44,ENSG00000065413,ortholog_one2one,94.3605,96.0725

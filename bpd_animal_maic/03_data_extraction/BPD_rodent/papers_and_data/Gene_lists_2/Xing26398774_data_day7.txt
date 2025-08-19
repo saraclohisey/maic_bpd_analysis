@@ -1,0 +1,12 @@
+rno-miR-674-3p
+rno-miR-188-5p
+rno-miR-542-5p
+rno-miR-15b-5p
+rno-miR-190a-5p
+rno-miR-33-5p
+rno-miR-99a-3p
+rno-miR-335
+rno-miR-708-3p
+rno-miR-208a-3p
+rno-miR-139-5p
+rno-miR-3584-3p

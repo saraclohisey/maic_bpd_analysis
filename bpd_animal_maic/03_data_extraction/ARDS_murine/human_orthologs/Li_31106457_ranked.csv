@@ -1,0 +1,21 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Itgam,ENSG00000169896,ortholog_one2one,73.4375,85.7639
+Dstn,ENSG00000125868,ortholog_one2one,95.7576,96.3636
+Fkbp5,ENSG00000096060,ortholog_one2one,86.8709,91.4661
+Rnf157,ENSG00000141576,ortholog_one2one,92.9308,95.4345
+Ccny,ENSG00000108100,ortholog_one2one,98.2405,98.827
+Zbtb16,ENSG00000109906,ortholog_one2one,96.7311,97.6226
+Zbtb16,ENSG00000109906,ortholog_one2one,96.7311,97.6226
+Ankrd42,ENSG00000137494,ortholog_one2one,78.1784,86.5275
+Adgrf5,ENSG00000069122,ortholog_one2one,72.0654,81.7979
+Alas1,ENSG00000023330,ortholog_one2one,91.7188,96.7188
+Klhl29,ENSG00000119771,ortholog_one2one,97.0286,97.9429
+Khdrbs1,ENSG00000121774,ortholog_one2one,94.3567,96.614
+Ccny,ENSG00000108100,ortholog_one2one,98.2405,98.827
+Wrnip1,ENSG00000124535,ortholog_one2one,95.0376,96.9925
+Prkd1,ENSG00000184304,ortholog_one2one,93.3114,95.8333
+Kansl1l,ENSG00000144445,ortholog_one2one,77.001,84.9037
+Cacna1a,ENSG00000141837,ortholog_one2one,87.4302,89.3057
+C3,ENSG00000125730,ortholog_one2one,77.0295,87.9134
+Bach1,ENSG00000156273,ortholog_one2one,80.5707,87.2283
+Dennd61,error - retries exceeded,,,

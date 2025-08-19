@@ -1,0 +1,12 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Slco4c1,ENSG00000173930,ortholog_one2one,81.2155,89.2265
+Cyp11a1,ENSG00000140459,ortholog_one2one,75.2399,85.6046
+Slc38a4,ENSG00000139209,ortholog_one2one,87.0201,93.2358
+Aacs,ENSG00000081760,ortholog_one2one,89.7321,95.2381
+Ncor2,ENSG00000196498,ortholog_one2one,87.3508,90.7717
+Tns1,ENSG00000079308,ortholog_one2one,88.0914,91.6803
+Fry,ENSG00000073910,ortholog_one2one,96.7474,98.6392
+Ttk,ENSG00000112742,ortholog_one2one,73.7456,83.8973
+Slc35a5,ENSG00000138459,ortholog_one2one,85.8491,91.2736
+Elp1,ENSG00000159023,ortholog_one2one,89.1204,92.0139
+Tnfrsf1,error - retries exceeded,,,

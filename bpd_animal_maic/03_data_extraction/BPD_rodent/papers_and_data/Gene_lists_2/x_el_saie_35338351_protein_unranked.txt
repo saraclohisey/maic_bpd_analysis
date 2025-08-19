@@ -1,0 +1,54 @@
+Metabolomics
+x_el_saie_35338351_protein
+UNRANKED
+NAMED_GENES
+mouse
+Malic acid
+3-phosph-serine
+Fumaric acid
+Betaine
+Choline
+Glutamine
+Allo-threonine
+Lysine
+Isoleucine
+Ergothioneine
+Acetyl carnitine
+N, N-dimethyl glycine
+Octonyl carnitine
+Cystathionine
+dCMP
+Xanthosine-5-phosphate
+N-acetyl-glutamine
+Methyl alanine
+Creatine
+N-acetylalanine
+Cyclic AMP
+Glycerol 3-phosphate
+Succinate
+Pyroglutamic acid
+2-Methylbutyrylcarnitine
+dGMP
+5-CMP
+1-Methyl tryptophan
+Myristoleic acid
+2-Hydroxypyridine
+Citrulline
+Aspartame
+Hypoxanthine
+Urea
+Phenyl alanine
+Valine
+Acetylcholine
+Carnitine
+Dimethyl arginine
+Butryl carnitine
+Glycerophosphocholine
+Allantoin
+Octanoic acid
+UDP-D-glucuronate
+Uridine
+Glucose-6-phosphate
+Glycine
+Maltose
+Maltotetraose

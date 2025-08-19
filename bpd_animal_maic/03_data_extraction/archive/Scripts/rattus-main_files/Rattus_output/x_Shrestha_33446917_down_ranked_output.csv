@@ -1,0 +1,21 @@
+Rat Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Treml4,ENSG00000188056,ortholog_one2one,51,64.5
+Gimap4,ENSG00000133574,ortholog_one2one,55.9271,68.997
+Klf2,ENSG00000127528,ortholog_one2one,87.6056,89.5775
+Cd8a,ENSG00000153563,ortholog_one2one,48.9362,59.1489
+Gimap9,not found,,,
+Lef1,ENSG00000138795,ortholog_one2one,94.4862,95.99
+S1pr5,ENSG00000180739,ortholog_one2one,86.1809,89.9497
+Gjb2,ENSG00000165474,ortholog_one2one,93.8053,98.2301
+Satb1,ENSG00000182568,ortholog_one2one,98.1651,98.8204
+Cd3e,ENSG00000198851,ortholog_one2one,57.4879,68.1159
+Serpinb10,ENSG00000242550,ortholog_one2one,72.0403,84.8867
+Mal,ENSG00000172005,ortholog_one2one,88.8889,96.0784
+Alox15,ENSG00000161905,ortholog_one2one,70.8459,82.1752
+Dgka,ENSG00000065357,ortholog_one2one,82.7211,88.8435
+Cd27,ENSG00000139193,ortholog_one2one,50.7692,54.6154
+Ebf1,ENSG00000164330,ortholog_one2one,100,100
+Qrfpr,ENSG00000186867,ortholog_one2many,83.9907,90.2552
+Eno3,ENSG00000108515,ortholog_one2one,98.1567,99.5392
+Tcrb,error - retries exceeded,,,
+RGD1565252,error - retries exceeded,,,

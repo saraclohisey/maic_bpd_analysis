@@ -1,0 +1,43 @@
+Rat Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+MT2,ENSG00000134640,ortholog_one2one,78.7293,83.1492
+Mt3,ENSG00000087250,ortholog_one2one,83.8235,91.1765
+Lcn2,ENSG00000148346,ortholog_one2one,53.5354,67.1717
+Hpgd,ENSG00000164120,ortholog_one2one,88.3459,92.4812
+Retnla,ENSG00000163515,ortholog_one2many,48.6486,68.4685
+E41L1,error - retries exceeded,,,
+DIDH,error - retries exceeded,,,
+Lgals3,ENSG00000131981,ortholog_one2one,79.6,86
+C4a,ENSG00000244731,ortholog_many2many,79.6445,88.7041
+Gpnmb,ENSG00000136235,ortholog_one2one,70.3571,83.9286
+Fetub,ENSG00000090512,ortholog_one2one,61.7801,75.9162
+Ctgf,ENSG00000118523,ortholog_one2one,91.1175,95.4155
+C1qb,ENSG00000173369,ortholog_one2one,78.4861,86.8526
+Sod2,ENSG00000291237,ortholog_one2one,87.8378,90.991
+RS27,error - retries exceeded,,,
+Mapk13,ENSG00000156711,ortholog_one2one,92.8767,97.2603
+Clca2,not found,,,
+Tas2r1,ENSG00000169777,ortholog_one2one,50.8361,67.893
+Fabp5,ENSG00000164687,ortholog_one2many,69.6296,79.2593
+Atp1b1,ENSG00000143153,ortholog_one2one,94.3894,97.3597
+Ldha,not found,,,
+Actg2,ENSG00000163017,ortholog_one2one,100,100
+Basp1,ENSG00000176788,ortholog_one2one,68.2819,75.7709
+Aoc3,error - retries exceeded,,,
+Ebf1,ENSG00000164330,ortholog_one2one,100,100
+Admr,ENSG00000166856,ortholog_one2one,72.0297,82.1782
+Vim,ENSG00000026025,ortholog_one2one,88.8412,90.1288
+TIMP1,ENSG00000102265,ortholog_one2one,70.5314,82.6087
+Sftpd,ENSG00000133661,ortholog_one2one,74.6667,86.1333
+Gstp2,ENSG00000084207,ortholog_one2many,85.7143,94.2857
+Gapdh,ENSG00000111640,ortholog_one2many,91.9403,95.5224
+S100a10,ENSG00000197747,ortholog_one2one,86.5979,90.7216
+Pgk1,ENSG00000102144,ortholog_one2many,97.3621,98.801
+Des,ENSG00000175084,ortholog_one2one,98.0851,99.1489
+Sep-03,error - retries exceeded,,,
+Sp4,ENSG00000105866,ortholog_one2one,97.1939,98.0867
+Prkaa2,ENSG00000162409,ortholog_one2one,93.2971,94.2029
+Lr8,ENSG00000106565,ortholog_one2one,50,64.8148
+S100,error - retries exceeded,,,
+Prdx1,not found,,,
+IGF1,ENSG00000017427,ortholog_one2one,83.0065,85.6209
+Homer1,ENSG00000152413,ortholog_one2one,97.4576,99.7175

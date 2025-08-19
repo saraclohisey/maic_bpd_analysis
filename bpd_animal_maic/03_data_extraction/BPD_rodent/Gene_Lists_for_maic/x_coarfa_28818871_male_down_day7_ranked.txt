@@ -1,0 +1,14 @@
+RNAseq	
+Coarfa_28818871_male_down_day7
+RANKED	
+NAMED_GENES
+mouse
+Mdga2
+Samd7
+Myt1
+Sox8
+Adra1a
+Isx
+Noto
+Ptchd1
+Upb1

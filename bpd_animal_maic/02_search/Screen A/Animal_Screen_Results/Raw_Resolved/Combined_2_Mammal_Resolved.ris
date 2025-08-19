@@ -1,0 +1,368 @@
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2014>
+TI  - The genome-wide transcriptional response to neonatal hyperoxia identifies Ahr as a key regulator.
+DO  - https://dx.doi.org/10.1152/ajplung.00200.2014
+AU  - Bhattacharya, Soumyaroop
+AU  - Zhou, Zhongyang
+AU  - Yee, Min
+AU  - Chu, Chin-Yi
+AU  - Lopez, Ashley M
+AU  - Lunger, Valerie A
+AU  - Solleti, Siva Kumar
+AU  - Resseguie, Emily
+AU  - Buczynski, Bradley
+AU  - Mariani, Thomas J
+AU  - O'Reilly, Michael A
+Y1  - 2014//
+Y2  - 20140822//
+KW  - Animals
+KW  - Animals, Newborn
+KW  - Basic Helix-Loop-Helix Transcription Factors/ge [Genetics]
+KW  - *Basic Helix-Loop-Helix Transcription Factors/me [Metabolism]
+KW  - Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - Cell Line
+KW  - Cluster Analysis
+KW  - Gene Expression Regulation
+KW  - Gene Regulatory Networks
+KW  - Genome
+KW  - Humans
+KW  - Hyperoxia/ge [Genetics]
+KW  - *Hyperoxia/me [Metabolism]
+KW  - Lung/me [Metabolism]
+KW  - Mice
+KW  - Mice, Inbred C57BL
+KW  - Receptors, Aryl Hydrocarbon/ge [Genetics]
+KW  - *Receptors, Aryl Hydrocarbon/me [Metabolism]
+KW  - Signal Transduction
+KW  - *Transcriptome
+T2  - American journal of physiology. Lung cellular and molecular physiology
+VL  - 307
+IS  - 7
+SN  - 1040-0605
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med11&NEWS=N&AN=25150061
+AD  - United States
+AB  - Premature infants requiring supplemental oxygen are at increased risk for developing bronchopulmonary dysplasia (BPD). Rodent models involving neonatal exposure to excessive oxygen concentrations (hyperoxia) have helped to identify mechanisms of BPD-associated pathology. Genome-wide assessments of the effects of hyperoxia in neonatal mouse lungs could identify novel BPD-related genes and pathways. Newborn C57BL/6 mice were exposed to 100% oxygen for 10 days, and whole lung tissue RNA was used for high-throughput, sequencing-based transcriptomic analysis (RNA-Seq). Significance Analysis of Microarrays and Ingenuity Pathway Analysis were used to identify genes and pathways affected. Expression patterns for selected genes were validated by qPCR. Mechanistic relationships between genes were further tested in cultured mouse lung epithelial cells. We identified 300 genes significantly and substantially affected following acute neonatal hyperoxia. Canonical pathways dysregulated in hyperoxia lungs included nuclear factor (erythryoid-derived-2)-like 2-mediated oxidative stress signaling, p53 signaling, eNOS signaling, and aryl hydrocarbon receptor (Ahr) pathways. Cluster analysis identified Ccnd1, Cdkn1a, and Ahr as critical regulatory nodes in the response to hyperoxia, with Ahr serving as the major effector node. A mechanistic role for Ahr was assessed in lung epithelial cells, and we confirmed its ability to regulate the expression of multiple hyperoxia markers, including Cdkn1a, Pdgfrb, and A2m. We conclude that a global assessment of gene regulation in the acute neonatal hyperoxia model of BPD-like pathology has identified Ahr as one driver of gene dysregulation. Copyright © 2014 the American Physiological Society.
+LB  - Included by Chris
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) PubMed-not-MEDLINE
+TI  - Selenium Deficiency Exacerbates Hyperoxia-Induced Lung Injury in Newborn C3H/HeN Mice.
+DO  - https://dx.doi.org/10.3390/antiox13040391
+AU  - Bailey-Downs, Lora C
+AU  - Sherlock, Laura G
+AU  - Crossley, Michaela N
+AU  - Rivera Negron, Aristides
+AU  - Pierce, Paul T
+AU  - Wang, Shirley
+AU  - Zhong, Hua
+AU  - Carter, Cynthia
+AU  - Burge, Kathryn
+AU  - Eckert, Jeffrey V
+AU  - Rogers, Lynette K
+AU  - Vitiello, Peter F
+AU  - Tipple, Trent E
+Y1  - 2024//
+Y2  - 20240325//
+T2  - Antioxidants (Basel, Switzerland)
+VL  - 13
+IS  - 4
+SN  - 2076-3921
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm&NEWS=N&AN=38671839
+AD  - Switzerland
+AB  - Extremely preterm infants are often treated with supraphysiological oxygen, which contributes to the development of bronchopulmonary dysplasia (BPD). These same infants exhibit compromised antioxidant capacities due in part to selenium (Se) deficiency. Se is essential for basal and inducible antioxidant responses. The present study utilized a perinatal Se deficiency (SeD) mouse model to identify the combined effects of newborn hyperoxia exposure and SeD on alveolarization and antioxidant responses, including the identification of affected developmental pathways. Se-sufficient (SeS) and SeD C3H/HeN breeding pairs were generated, and pups were exposed to room air or 85% O2 from birth to 14 d. Survival, antioxidant protein expression, and RNA seq analyses were performed. Greater than 40% mortality was observed in hyperoxia-exposed SeD pups. Surviving SeD pups had greater lung growth deficits than hyperoxia-exposed SeS pups. Gpx2 and 4 protein and Gpx activity were significantly decreased in SeD pups. Nrf2-regulated proteins, Nqo1 and Gclc were increased in SeD pups exposed to hyperoxia. RNA seq revealed significant decreases in the Wnt/beta-catenin and Notch pathways. Se is a biologically relevant modulator of perinatal lung development and antioxidant responses, especially in the context of hyperoxia exposure. The RNA seq analyses suggest pathways essential for normal lung development are dysregulated by Se deficiency.
+LB  - Included by Chris
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) PubMed-not-MEDLINE <2023>
+TI  - Platelet Activating Factor Activity Modulates Hyperoxic Neonatal Lung Injury Severity.
+DO  - https://dx.doi.org/10.1101/2023.03.14.532697
+AU  - Yee, Aaron J
+AU  - Kandasamy, Jegen
+AU  - Ambalavanan, Namasivayam
+AU  - Ren, Changchun
+AU  - Halloran, Brian
+AU  - Olave, Nelida
+AU  - Nicola, Teodora
+AU  - Jilling, Tamas
+Y1  - 2023//
+Y2  - 20230315//
+T2  - bioRxiv : the preprint server for biology
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=36993203
+AD  - United States
+AB  - Hyperoxia-induced inflammation contributes significantly to developmental lung injury and bronchopulmonary dysplasia (BPD) in preterm infants. Platelet activating factor (PAF) is known to be a major driver of inflammation in lung diseases such as asthma and pulmonary fibrosis, but its role in BPD has not been previously investigated. Therefore, to determine whether PAF signaling independently modulates neonatal hyperoxic lung injury and BPD pathogenesis, lung structure was assessed in 14 day-old C57BL/6 wild-type (WT) and PAF receptor knockout (PTAFR KO) mice that were exposed to 21% (normoxia) or 85% O 2 (hyperoxia) from postnatal day 4. Lung morphometry showed that PTAFR KO mice had attenuated hyperoxia-induced alveolar simplification when compared to WT mice. Functional analysis of gene expression data from hyperoxia-exposed vs. normoxia-exposed lungs of WT and PTAFR KO showed that the most upregulated pathways were the hypercytokinemia/hyperchemokinemia pathway in WT mice, NAD signaling pathway in PTAFR KO mice, and agranulocyte adhesion and diapedesis as well as other pro-fibrotic pathways such as tumor microenvironment and oncostatin-M signaling in both mice strains, indicating that PAF signaling may contribute to inflammation but may not be a significant mediator of fibrotic processes during hyperoxic neonatal lung injury. Gene expression analysis also indicated increased expression of pro-inflammatory genes such as CXCL1, CCL2 and IL-6 in the lungs of hyperoxia-exposed WT mice and metabolic regulators such as HMGCS2 and SIRT3 in the lungs of PTAFR KO mice, suggesting that PAF signaling may modulate BPD risk through changes in pulmonary inflammation and/or metabolic reprogramming in preterm infants.
+LB  - Included by Chris
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) Epub Ahead of Print
+TI  - PC (16:0/14:0) ameliorates hyperoxia-induced bronchopulmonary dysplasia by upregulating claudin-1 and promoting alveolar type II cell repair.
+DO  - https://dx.doi.org/10.1016/j.biocel.2024.106587
+AU  - Hou, Weiwei
+AU  - Yu, Boshi
+AU  - Li, Yubai
+AU  - Yan, Xudong
+AU  - Su, Qian
+AU  - Fang, Xiaoyan
+AU  - Zhou, Xiaoguang
+AU  - Yu, Zhangbin
+Y1  - 2024//
+Y2  - 20240511//
+T2  - The international journal of biochemistry & cell biology
+VL  - 172
+SN  - 1357-2725
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=medp&NEWS=N&AN=38740281
+AD  - Netherlands
+AB  - Bronchopulmonary dysplasia (BPD) remains a significant challenge in neonatal care, the pathogenesis of which potentially involves altered lipid metabolism. Given the critical role of lipids in lung development and the injury response, we hypothesized that specific lipid species could serve as therapeutic agents in BPD. This study aimed to investigate the role of the lipid Phosphatidylcholine (PC) (16:0/14:0) in modulating BPD pathology and to elucidate its underlying mechanisms of action. Our approach integrated in vitro and in vivo methodologies to assess the effects of PC (16:0/14:0) on the histopathology, cellular proliferation, apoptosis, and molecular markers in lung tissue. In a hyperoxia-induced BPD rat model, we observed a reduction in alveolar number and an enlargement in alveolar size, which were ameliorated by PC (16:0/14:0) treatment. Correspondingly, in BPD cell models, PC (16:0/14:0) intervention led to increased cell viability, enhanced proliferation, reduced apoptosis, and elevated surfactant protein C (SPC) expression. RNA sequencing revealed significant gene expression differences between BPD and PC (16:0/14:0) treated groups, with a particular focus on Cldn1 (encoding claudin 1), which was significantly enriched in our analysis. Our findings suggest that PC (16:0/14:0) might protect against hyperoxia-induced alveolar type II cell damage by upregulating CLDN1 expression, potentially serving as a novel therapeutic target for BPD. This study not only advances our understanding of the role of lipids in BPD pathogenesis, but also highlights the significance of PC (16:0/14:0) in the prevention and treatment of BPD, offering new avenues for future research and therapeutic development. Copyright © 2024 Elsevier Ltd. All rights reserved.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) PubMed-not-MEDLINE <2023>
+TI  - Mitochondrial DNA Variations Modulate Alveolar Epithelial Mitochondrial Function and Oxidative Stress in Newborn Mice Exposed to Hyperoxia.
+DO  - https://dx.doi.org/10.1101/2023.05.17.541177
+AU  - Kandasamy, Jegen
+AU  - Li, Rui
+AU  - Vamesu, Bianca M
+AU  - Olave, Nelida
+AU  - Halloran, Brian
+AU  - Jilling, Tamas
+AU  - Ballinger, Scott W
+AU  - Ambalavanan, Namasivayam
+Y1  - 2023//
+Y2  - 20230517//
+T2  - bioRxiv : the preprint server for biology
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm8&NEWS=N&AN=37292719
+AD  - United States
+AB  - Oxidative stress is an important contributor to bronchopulmonary dysplasia (BPD), a form of chronic lung disease that is the most common morbidity in very preterm infants. Mitochondrial functional differences due to inherited and acquired mutations influence the pathogenesis of disorders in which oxidative stress plays a critical role. We previously showed using mitochondrial-nuclear exchange (MNX) mice that mitochondrial DNA (mtDNA) variations modulate hyperoxia-induced lung injury severity in a model of BPD. In this study, we studied the effects of mtDNA variations on mitochondrial function including mitophagy in alveolar epithelial cells (AT2) from MNX mice. We also investigated oxidant and inflammatory stress as well as transcriptomic profiles in lung tissue in mice and expression of proteins such as PINK1, Parkin and SIRT3 in infants with BPD. Our results indicate that AT2 from mice with C57 mtDNA had decreased mitochondrial bioenergetic function and inner membrane potential, increased mitochondrial membrane permeability and were exposed to higher levels of oxidant stress during hyperoxia compared to AT2 from mice with C3H mtDNA. Lungs from hyperoxia-exposed mice with C57 mtDNA also had higher levels of pro-inflammatory cytokines compared to lungs from mice with C3H mtDNA. We also noted changes in KEGG pathways related to inflammation, PPAR and glutamatergic signaling, and mitophagy in mice with certain mito-nuclear combinations but not others. Mitophagy was decreased by hyperoxia in all mice strains, but to a greater degree in AT2 and neonatal mice lung fibroblasts from hyperoxia-exposed mice with C57 mtDNA compared to C3H mtDNA. Finally, mtDNA haplogroups vary with ethnicity, and Black infants with BPD had lower levels of PINK1, Parkin and SIRT3 expression in HUVEC at birth and tracheal aspirates at 28 days of life when compared to White infants with BPD. These results indicate that predisposition to neonatal lung injury may be modulated by variations in mtDNA and mito-nuclear interactions need to be investigated to discover novel pathogenic mechanisms for BPD.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2022>
+TI  - Metabolome and microbiome multi-omics integration from a murine lung inflammation model of bronchopulmonary dysplasia.
+DO  - https://dx.doi.org/10.1038/s41390-022-02002-1
+AU  - El Saie, Ahmed
+AU  - Fu, Chenlian
+AU  - Grimm, Sandra L
+AU  - Robertson, Matthew J
+AU  - Hoffman, Kristi
+AU  - Putluri, Vasanta
+AU  - Ambati, Chandra Shekar R
+AU  - Putluri, Nagireddy
+AU  - Shivanna, Binoy
+AU  - Coarfa, Cristian
+AU  - Pammi, Mohan
+Y1  - 2022//
+Y2  - 20220325//
+KW  - Animals
+KW  - Infant, Newborn
+KW  - Humans
+KW  - Mice
+KW  - Bronchopulmonary Dysplasia/et [Etiology]
+KW  - *Bronchopulmonary Dysplasia
+KW  - Hyperoxia/co [Complications]
+KW  - Hyperoxia/me [Metabolism]
+KW  - *Hyperoxia
+KW  - Animals, Newborn
+KW  - Dysbiosis
+KW  - Lipopolysaccharides/me [Metabolism]
+KW  - Multiomics
+KW  - Infant, Premature
+KW  - Lung/me [Metabolism]
+KW  - Pneumonia/me [Metabolism]
+KW  - *Pneumonia
+KW  - *Microbiota
+KW  - Inflammation/me [Metabolism]
+KW  - Metabolome
+KW  - Disease Models, Animal
+T2  - Pediatric research
+VL  - 92
+IS  - 6
+SN  - 0031-3998
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med21&NEWS=N&AN=35338351
+AD  - United States
+AB  - BACKGROUND: Respiratory tract microbial dysbiosis can exacerbate inflammation and conversely inflammation may cause dysbiosis. Dysbiotic microbiome metabolites may lead to bronchopulmonary dysplasia (BPD). Hyperoxia and lipopolysaccharide (LPS) interaction alters lung microbiome and metabolome, mediating BPD lung injury sequence., METHODS: C57BL6/J mice were exposed to 21% (normoxia) or 70% (hyperoxia) oxygen during postnatal days (PND) 1-14. Pups were injected with LPS (6 mg/kg) or equal PBS volume, intraperitoneally on PND 3, 5, and 7. At PND14, the lungs were collected for microbiome and metabolomic analyses (n = 5/group)., RESULTS: Microbiome alpha and beta diversity were similar between groups. Metabolic changes included hyperoxia 31 up/18 down, LPS 7 up/4 down, exposure interaction 8. Hyperoxia increased Intestinimonas abundance, whereas LPS decreased Clostridiales, Dorea, and Intestinimonas; exposure interaction affected Blautia. Differential co-expression analysis on multi-omics data identified exposure-altered modules. Hyperoxia metabolomics response was integrated with a published matching transcriptome, identifying four induced genes (ALDOA, GAA, NEU1, RENBP), which positively correlated with BPD severity in a published human newborn cohort., CONCLUSIONS: We report hyperoxia and LPS lung microbiome and metabolome signatures in a clinically relevant BPD model. We identified four genes correlating with BPD status in preterm infants that are promising targets for therapy and prevention., IMPACT: Using multi-omics, we identified and correlated key biomarkers of hyperoxia and LPS on murine lung micro-landscape and examined their potential clinical implication, which shows strong clinical relevance for future research. Using a double-hit model of clinical relevance to bronchopulmonary dysplasia, we are the first to report integrated metabolomic/microbiome landscape changes and identify novel disease biomarker candidates. Copyright © 2022. The Author(s), under exclusive licence to the International Pediatric Research Foundation, Inc.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2015>
+TI  - Impaired alveolarization and intra-uterine growth restriction in rats: a postnatal genome-wide analysis.
+DO  - https://dx.doi.org/10.1002/path.4470
+AU  - Zana-Taieb, E
+AU  - Pham, H
+AU  - Franco-Montoya, M L
+AU  - Jacques, S
+AU  - Letourneur, F
+AU  - Baud, O
+AU  - Jarreau, P H
+AU  - Vaiman, D
+Y1  - 2015//
+KW  - Aging/ph [Physiology]
+KW  - Animals
+KW  - *Animals, Newborn/gd [Growth & Development]
+KW  - Animals, Newborn/ph [Physiology]
+KW  - Bronchopulmonary Dysplasia/et [Etiology]
+KW  - Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - *Bronchopulmonary Dysplasia/pp [Physiopathology]
+KW  - Cell Adhesion Molecules/ph [Physiology]
+KW  - Diet, Protein-Restricted/ae [Adverse Effects]
+KW  - Disease Models, Animal
+KW  - Female
+KW  - Fetal Growth Retardation/ge [Genetics]
+KW  - *Fetal Growth Retardation/pp [Physiopathology]
+KW  - *Gene Expression Regulation, Developmental/ph [Physiology]
+KW  - *Genome-Wide Association Study
+KW  - Heart/ph [Physiology]
+KW  - Muscle Contraction/ph [Physiology]
+KW  - Neovascularization, Physiologic/ge [Genetics]
+KW  - Neovascularization, Physiologic/ph [Physiology]
+KW  - Peroxisome Proliferator-Activated Receptors/ph [Physiology]
+KW  - Pregnancy
+KW  - Prenatal Exposure Delayed Effects/ge [Genetics]
+KW  - Prenatal Exposure Delayed Effects/pp [Physiopathology]
+KW  - Pulmonary Alveoli/bs [Blood Supply]
+KW  - *Pulmonary Alveoli/gd [Growth & Development]
+KW  - *Pulmonary Alveoli/pp [Physiopathology]
+KW  - Rats
+KW  - Rats, Sprague-Dawley
+KW  - Signal Transduction/ph [Physiology]
+T2  - The Journal of pathology
+VL  - 235
+IS  - 3
+SN  - 0022-3417
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med12&NEWS=N&AN=25347958
+AD  - England
+AB  - Intra-uterine growth restriction (IUGR) dramatically increases the risk of bronchopulmonary dysplasia in preterm babies, a disease characterized by arrested alveolarization and abnormal microvascular angiogenesis. We have previously described a rodent low protein diet (LPD) model of IUGR inducing impaired alveolarization, but failed to demonstrate any modification of the classical factors involved in lung development. We performed a genome-wide microarray analysis in 120 rat pups with LPD-induced IUGR and their controls, at three key time points of the alveolarization process: postnatal day 4 (P4): start of alveolarization; P10: peak of the alveolarization process and P21: end of the alveolarization process. Results were analysed using Arraymining, DAVID and KEGG software and validated by qRT-PCR and western blots. Considering a cut-off of 2:1 as significant, 67 transcripts at P4, 102 transcripts at P10 and 451 transcripts at P21 were up-regulated, and 89 transcripts at P4, 25 transcripts at P10 and 585 transcripts at P21 were down-regulated. Automatic functional classification identified three main modified pathways, 'cell adhesion molecules', 'cardiac muscle contraction' and 'peroxisome proliferator-activated receptor' (PPAR). Protein analysis confirmed involvement of the PPAR pathway, with an increase of FABP4, an activator of this pathway, at P4 and an increase of adiponectin at P21. Other data also suggest involvement of the PPAR pathway in impaired alveolarization. Our results show that deregulation of the PPAR pathway may be an important component of the mechanism inducing impaired alveolarization observed in IUGR. The complete dataset is available as GEO profiles on the Gene Expression Omnibus (GEO) database ( www.ncbi.nih.gov/geo/, GEO Accession No. GSE56956). Copyright © 2014 Pathological Society of Great Britain and Ireland. Published by John Wiley & Sons, Ltd.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2012>
+TI  - Identification of microRNAs changed in the neonatal lungs in response to hyperoxia exposure.
+DO  - https://dx.doi.org/10.1152/physiolgenomics.00145.2011
+AU  - Bhaskaran, Manoj
+AU  - Xi, Dong
+AU  - Wang, Yang
+AU  - Huang, Chaoqun
+AU  - Narasaraju, Telugu
+AU  - Shu, Weiqun
+AU  - Zhao, Chunling
+AU  - Xiao, Xiao
+AU  - More, Sunil
+AU  - Breshears, Melanie
+AU  - Liu, Lin
+Y1  - 2012//
+Y2  - 20120821//
+KW  - 3' Untranslated Regions
+KW  - Animals
+KW  - Animals, Newborn
+KW  - Binding Sites
+KW  - Bronchopulmonary Dysplasia/di [Diagnosis]
+KW  - Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - Cell Line
+KW  - Disease Models, Animal
+KW  - Genes, Reporter
+KW  - Humans
+KW  - *Hyperoxia/ge [Genetics]
+KW  - Hyperoxia/me [Metabolism]
+KW  - Infant, Newborn
+KW  - *Lung/me [Metabolism]
+KW  - Lung/pa [Pathology]
+KW  - Membrane Glycoproteins/me [Metabolism]
+KW  - *MicroRNAs/me [Metabolism]
+KW  - Models, Biological
+KW  - Oligonucleotide Array Sequence Analysis
+KW  - Rats
+KW  - Rats, Sprague-Dawley
+T2  - Physiological genomics
+VL  - 44
+IS  - 20
+SN  - 1094-8341
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med9&NEWS=N&AN=22911455
+AD  - United States
+AB  - Bronchopulmonary dysplasia (BPD) is a multifactorial chronic lung disease of premature infants. BPD can be attributed to the dysregulation of normal lung development due to ventilation and oxygen toxicity, resulting in pathologic complications of impaired alveolarization and vascularization. MicroRNAs (miRNA) are small noncoding RNAs that regulate gene expression posttranscriptionally and are implicated in diverse biological processes and diseases. The objectives of this study are to identify the changed miRNAs and their target genes in neonatal rat lungs in response to hyperoxia exposure. Using miRNA microarray and real-time PCR analyses, we found downregulation of five miRNAs, miR-342, miR-335, miR-150, miR-126*, and miR-151*, and upregulation of two miRNAs, miR-21 and miR-34a. Some of these miRNAs had the highest expression during embryonic and early postnatal development. DNA microarray analysis yielded several genes with conserved binding sites for these altered miRNAs. Glycoprotein nonmetastatic melanoma protein b (GPNMB) was experimentally verified as a target of miR-150. In summary, we identified seven miRNAs that were changed in hyperoxia-exposed neonatal lungs. These results provide a basis for deciphering the mechanisms involved in the spatial and temporal regulation of proteins that contribute to the pathogenesis of BPD.
+LB  - Included by Chris
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2013>
+TI  - Human umbilical cord blood mononuclear cells in a double-hit model of bronchopulmonary dysplasia in neonatal mice.
+DO  - https://dx.doi.org/10.1371/journal.pone.0074740
+AU  - Monz, Dominik
+AU  - Tutdibi, Erol
+AU  - Mildau, Celine
+AU  - Shen, Jie
+AU  - Kasoha, Mariz
+AU  - Laschke, Matthias W
+AU  - Roolfs, Torge
+AU  - Schmiedl, Andreas
+AU  - Tschernig, Thomas
+AU  - Bieback, Karen
+AU  - Gortner, Ludwig
+Y1  - 2013//
+Y2  - 20130919//
+KW  - Alveolar Epithelial Cells/pa [Pathology]
+KW  - Alveolar Epithelial Cells/ul [Ultrastructure]
+KW  - Animals
+KW  - Animals, Newborn
+KW  - Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - *Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - Bronchopulmonary Dysplasia/pa [Pathology]
+KW  - *Bronchopulmonary Dysplasia/th [Therapy]
+KW  - Cord Blood Stem Cell Transplantation
+KW  - Cytokines/me [Metabolism]
+KW  - Disease Models, Animal
+KW  - *Fetal Blood/cy [Cytology]
+KW  - Gene Expression Profiling
+KW  - Gene Expression Regulation
+KW  - Humans
+KW  - Hyperoxia
+KW  - *Leukocytes, Mononuclear/me [Metabolism]
+KW  - *Leukocytes, Mononuclear/tr [Transplantation]
+KW  - Lung/me [Metabolism]
+KW  - Lung/pa [Pathology]
+KW  - Mice
+T2  - PloS one
+VL  - 8
+IS  - 9
+SN  - 1932-6203
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med10&NEWS=N&AN=24069341
+AD  - United States
+AB  - BACKGROUND: Bronchopulmonary dysplasia (BPD) presents a major threat of very preterm birth and treatment options are still limited. Stem cells from different sources have been used successfully in experimental BPD, induced by postnatal hyperoxia., OBJECTIVES: We investigated the effect of umbilical cord blood mononuclear cells (MNCs) in a new double-hit mouse model of BPD., METHODS: For the double-hit, date mated mice were subjected to hypoxia and thereafter the offspring was exposed to hyperoxia. Human umbilical cord blood MNCs were given intraperitoneally by day P7. As outcome variables were defined: physical development (auxology), lung structure (histomorphometry), expression of markers for lung maturation and inflammation on mRNA and protein level. Pre- and postnatal normoxic pups and sham treated double-hit pups served as control groups., RESULTS: Compared to normoxic controls, sham treated double-hit animals showed impaired physical and lung development with reduced alveolarization and increased thickness of septa. Electron microscopy revealed reduced volume density of lamellar bodies. Pulmonary expression of mRNA for surfactant proteins B and C, Mtor and Crabp1 was reduced. Expression of Igf1 was increased. Treatment with umbilical cord blood MNCs normalized thickness of septa and mRNA expression of Mtor to levels of normoxic controls. Tgfb3 mRNA expression and pro-inflammatory IL-1beta protein concentration were decreased., CONCLUSION: The results of our study demonstrate the therapeutic potential of umbilical cord blood MNCs in a new double-hit model of BPD in newborn mice. We found improved lung structure and effects on molecular level. Further studies are needed to address the role of systemic administration of MNCs in experimental BPD.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2019>
+TI  - Caffeine is associated with improved alveolarization and angiogenesis in male mice following hyperoxia induced lung injury.
+DO  - https://dx.doi.org/10.1186/s12890-019-0903-x
+AU  - Dumpa, Vikramaditya
+AU  - Nielsen, Lori
+AU  - Wang, Huamei
+AU  - Kumar, Vasantha H S
+Y1  - 2019//
+Y2  - 20190730//
+KW  - Angiopoietin-1/me [Metabolism]
+KW  - Animals
+KW  - Animals, Newborn
+KW  - Basic Helix-Loop-Helix Transcription Factors/me [Metabolism]
+KW  - Bronchopulmonary Dysplasia/dt [Drug Therapy]
+KW  - Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - *Caffeine/pd [Pharmacology]
+KW  - Disease Models, Animal
+KW  - *Hyperoxia/co [Complications]
+KW  - Lung/pa [Pathology]
+KW  - *Lung Injury/dt [Drug Therapy]
+KW  - Lung Injury/me [Metabolism]
+KW  - Male
+KW  - Mice
+KW  - Mice, Inbred C57BL
+KW  - *Neovascularization, Physiologic
+KW  - *Pulmonary Alveoli/de [Drug Effects]
+KW  - Pulmonary Alveoli/me [Metabolism]
+KW  - Random Allocation
+KW  - Vascular Endothelial Growth Factor Receptor-1/me [Metabolism]
+T2  - BMC pulmonary medicine
+VL  - 19
+IS  - 1
+SN  - 1471-2466
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med16&NEWS=N&AN=31362742
+AD  - England
+AB  - BACKGROUND: Caffeine therapy for apnea of prematurity reduces the incidence of bronchopulmonary dysplasia (BPD) in premature neonates. Several mechanisms, including improvement in pulmonary mechanics underly beneficial effects of caffeine in BPD. As vascular development promotes alveologenesis, we hypothesized that caffeine might enhance angiogenesis in the lung, promoting lung growth, thereby attenuating BPD., METHODS: C57Bl/6 mice litters were randomized within 12 h of birth to room air (RA) or 95%O2 to receive caffeine (20 mg/kg/day) or placebo for 4 days and recovered in RA for 12wks. The lung mRNA and protein expression for hypoxia-inducible factors (HIF) and angiogenic genes performed on day 5. Lung morphometry and vascular remodeling assessed on inflation fixed lungs at 12wks., RESULTS: Caffeine and hyperoxia in itself upregulate HIF-2alpha and vascular endothelial growth factor gene expression. Protein expression of HIF-2alpha and VEGFR1 were higher in hyperoxia/caffeine and angiopoietin-1 lower in hyperoxia. An increase in radial alveolar count, secondary septal count, and septal length with a decrease in mean linear intercept indicate an amelioration of hyperoxic lung injury by caffeine. An increase in vessel surface area and a significant reduction in smooth muscle thickness of the pulmonary arterioles may suggest a beneficial effect of caffeine on vascular remodeling in hyperoxia, especially in male mice., CONCLUSIONS: Postnatal caffeine by modulating angiogenic gene expression early in lung development may restore the pulmonary microvasculature and alveolarization in adult lung.
+LB  - Included by Other
+ER  -

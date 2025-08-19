@@ -1,0 +1,48 @@
+rodent_bpd <- read.table(file="/Users/sclohise/Dropbox/03_BPD/bpd_animal_maic/04_maic_input/250210_bpd/MAIC_input_2025-02-10-2025-02-10--21-39/250210_maic_rodent_raw", sep=',', header = TRUE)
+
+inflection_point(rodent_bpd)
+
+inflection_point_plot(rodent_bpd)
+
+rodent_bpd_priority <- ARDSMAICR::inflection_point(rodent_bpd)
+
+
+rodent_bpd_slice <- rodent_bpd_priority$gene_number
+
+rodent_bpd_priority_genes <- rodent_bpd |>
+  dplyr::slice(1:rodent_bpd_slice) |>
+  dplyr::pull(gene)
+
+
+
+  overlap_animal_prioritised <- rodent_bpd_priority_genes[rodent_bpd_priority_genes %in% human_bpd_priority_genes]
+
+
+  euler_plot <- function(eu_obj) {
+  plot <- plot(eu_obj,
+               quantities = list(type = "counts"),
+               shape = "ellipse")
+  return(plot)
+}
+
+gross_list_genes <- list(Human = human_bpd_genes, Rodent = rodent_bpd_genes)
+
+gross_eu_genes <- eulerr::euler(gross_list_genes)
+
+euler_plot(gross_eu_genes)
+
+prioritised_list_genes <- list(Human = human_bpd_priority_genes, Rodent = rodent_bpd_priority_genes)
+
+prioritised_eu_genes <- eulerr::euler(prioritised_list_genes)
+
+euler_plot(prioritised_eu_genes)
+
+
+
+
+
+prioritised_prioritised_list_genes <- list(BPD_ARDS = 'overlap_prioritised', Human_Rodent = 'overlap_animal_prioritised')
+
+prioritised_prioritised_eu_genes <- eulerr::euler(prioritised_prioritised_list_genes)
+
+euler_plot(prioritised_prioritised_eu_genes)

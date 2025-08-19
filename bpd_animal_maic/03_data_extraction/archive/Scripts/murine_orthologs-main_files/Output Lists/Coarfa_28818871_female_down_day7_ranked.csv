@@ -1,0 +1,10 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Cyp2e1,ENSG00000130649,ortholog_one2one,78.0933,90.2637
+Fabp1,ENSG00000163586,ortholog_one2one,84.252,91.3386
+Hoxb1,ENSG00000120094,ortholog_one2one,85.0498,88.3721
+Shc3,ENSG00000148082,ortholog_one2one,91.2458,93.9394
+Pou4f1,ENSG00000152192,ortholog_one2one,99.284,99.284
+Tat,ENSG00000198650,ortholog_one2one,92.0705,96.696
+Lhcgr,ENSG00000138039,ortholog_one2one,81.9743,88.412
+Chrna7,ENSG00000175344,ortholog_one2many,93.2271,96.8128
+Tmem90b,ENSG00000101463,ortholog_one2one,93.0233,95.3488

@@ -1,0 +1,31 @@
+CRITERIA:
+
+INCLUSION:
+Bronchopulmonary Dysplasia
+Hyaline Membrane Disease
+Respiratory Distress Disorder
+
+Humans
+Human studies - in vivo, in vitro, primary human cells and tissues
+Any/all treatment administered to patients before sample collection
+
+Mammals (non-human)
+Animal Studies: must be *in-vivo* but any species
+Models of Bronchopulmonary Dysplasia
+
+Accepted methodologies:
+CRISPR screen;
+RNAi screen;
+Protein-protein interaction study;
+Genome-wide association study;
+Transcriptomic study;
+Proteomic study;
+Selected gene-set screens;
+
+
+EXCLUSION:
+- Term babies, Children, Adults
+- Meta-analyses, *in-silico* analyses, or re-analysis of previously published data
+- Excluded methodologies:
+      - Candidate *in-vivo* or *in-vitro* transcriptomic or proteomic studies (defined as those investigating < 50 genes)
+      - Candidate gene association studies

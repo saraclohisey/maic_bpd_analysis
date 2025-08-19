@@ -1,0 +1,8 @@
+Teng_33961683_ranked	RP23-338E5.2,Gas5,Zfas1,RP23-146O20.1,Gas5,Snhg1	
+Li_31106457_ranked	Zbtb16,Ccny	
+Feng_37553691	Lrg1	
+Leikauf_23590305_Unranked	Alox5,Mbd4	
+Lv_2621618_Unranked	Csf3,Cxcl11,Cxcl1,Adamts4,Ccl19,Mpo,Prok2,Elane,Pydc4,Irg1,Csf3,Cxcl1,Ccl2,Gpr84,Adamts4,Mpo,Cxcl11,Saa3,Oas3	
+Yue_31373289_ranked	Kng1,Mup2,Pkm,Tpm3,H2-D1,Iglv1,Igh-VJ558,Serpina1d	('Cavin2', 'CAVIN2'),('Adgrf5', 'ADGRF5'),('Hbb-bt', 'HBB'),('Hist2h2aa1', 'H2AC18'),('Chia1', 'CHIA'),('Arhgap45', 'ARHGAP45'),('Cyb5a', 'CYB5A'),('Cavin1', 'CAVIN1'),('Jchain', 'JCHAIN'),('Rida', 'RIDA'),('Adgre5', 'ADGRE5'),('Selenop', 'SELENOP'),('Naxe', 'NAXE'),('Lyz1', 'LYZ'),('Chil1', 'CHI3L1'),('Gm20899', 'GAPDH'),('Mbl1', 'MBL2'),('Mtap4', 'MAP4'),('Rab1a', 'RAB1A'),('Mtap1s', 'MAP1S'),('Serpina3k', 'SERPINA3'),('Pgcp', 'CPQ'),('Sptbn1', 'SPTBN1'),('Rack1', 'RACK1'),('Diaph1', 'DIAPH1'),('Saa2', 'SAA1'),('C1s', 'C1S'),('Spta1', 'SPTA1'),('Krt72-ps', 'KRT72'),('Pdcd5', 'PDCD5'),('Sptan1', 'SPTAN1'),('Stk26', 'STK26'),('LOC102634437', 'YWHAQ'),Spnb1
+Altemeir_16116230_Unranked	Ccl2,Cdkn1a,Gadd45α	
+Jia_34917127_ranked		('Cxcl2', 'CXCL3')

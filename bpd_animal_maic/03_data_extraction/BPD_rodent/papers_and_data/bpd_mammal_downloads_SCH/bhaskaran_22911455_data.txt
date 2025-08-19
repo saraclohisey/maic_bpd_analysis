@@ -1,0 +1,43 @@
+GeneName	GenID	Description	FoldChange	
+Mt3 NM_053968 metallothionein 3 4.50
+Lcn2 X13295 lipocalin 2 4.21
+C4a U42719 complement component 4a 3.58
+Lgals3 NM_031832 lectin, galactose binding, soluble 3 3.60
+C1qb NM_019262 complement component 1, q subcomponent, beta polypeptide 2.71
+Gpnmb AF184983 glycoprotein (transmembrane) nmb 3.29
+Fabp5 U13253 fatty acid binding protein 5, epidermal 2.38
+Ctgf NM_022266 connective tissue growth factor 2.81
+Mapk13 NM_019231 mitogen activated protein kinase 13 2.43
+Clca2 AF077303 chloride channel calcium activated 2 2.43
+Atp1b1 NM_013113 ATPase, Na/K transporting, beta 1 polypeptide 2.37
+Sod2 NM_017051 superoxide dismutase 2, mitochondrial 2.61
+Basp1 NM_022300 brain abundant, membrane attached signal protein 1 2.25
+Retnla NM_053333 resistin like alpha 4.12
+Actg2 NM_012893 actin, gamma 2 2.28
+Fetub NM_053348 fetuin beta 2.85
+Prkaa2 NM_023991 protein kinase, AMP-activated, alpha 2 catalytic subunit 2.00
+RS27 X59375 ribosomal protein s27 2.44
+Lr8 AF370882 LR8 protein 2.00
+Des NM_022531 desmin 2.04
+Sp4 NM_012761 Sp4 transcription factor 2.01
+MT2 M11794 metallothionein 2 5.02
+S100 g NM_012521 S100 calcium binding protein G 2.00
+Prdx1 NM_057114 peroxiredoxin 1 2.00
+Sftpd NM_012878 surfactant associated protein D 2.15
+Ebf1 NM_053820 early B-cell factor 1 2.18
+Sept3 AF111180 septin 3 2.04
+S100a10 NM_031114 S100 calcium binding protein A10 (calpactin) 2.07
+Homer1 NM_031707_1 Homer homolog 1 (Drosophila) 1.96
+Gapdh NM_017008_11 glyceraldehyde-3-phosphate dehydrogenase 2.12
+Vim NM_031140 vimentin 2.16
+TIMP1 NM_053819_1 tissue inhibitor of metallopeptidase 1 2.16
+Pgk1 NM_053291 phosphoglycerate kinase 1 2.05
+IGF1 M15650 insulin-like growth factor 1 2.00
+Ldha NM_017025 lactate dehydrogenase A 2.34
+Gstp2 X02904 glutathione S-transferase, pi 2 2.13
+Hpgd NM_024390 hydroxyprostaglandin dehydrogenase 15 (NAD) 0.24
+DIDH S57790 3 alpha-hydroxysteroid dehydrogenase 0.26
+E41L1 NM_021681_1 hypothetical protein loc59317; rat brain 4.1 
+Tas2r1 NM_023993 taste receptor, type 2, member 1 0.42
+Admr NM_053302 adrenomedullin receptor 0.46
+Aoc3 U72632 amine oxidase, copper containing 3 0.45

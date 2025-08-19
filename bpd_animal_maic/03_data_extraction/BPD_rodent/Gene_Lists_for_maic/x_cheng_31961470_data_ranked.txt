@@ -1,0 +1,15 @@
+RNAseq	
+Cheng_31961470	
+RANKED	
+NAMED_GENES
+rat
+Col3a1
+Tbcel
+Fndc3b
+Ipmk
+Galnt18
+Mfng
+Wnk1
+Taok2
+Taok2
+Nop58

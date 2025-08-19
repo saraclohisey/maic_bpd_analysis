@@ -1,0 +1,64 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Cxcl11,not found,,,
+Cxcl1,ENSG00000163734,ortholog_one2many,54.2056,66.3551
+Serpina3f,ENSG00000196136,ortholog_one2many,57.6832,71.8676
+Saa3,not found,,,
+Ccl19,ENSG00000172724,ortholog_one2one,74.4898,84.6939
+Sectm1b,ENSG00000141574,ortholog_one2many,27.0161,36.6936
+Oas3,ENSG00000111331,ortholog_one2one,70.4692,79.8528
+Ccl7,ENSG00000108688,ortholog_one2one,61.6162,71.7172
+Pydc4,not found,,,
+Tnfrsf9,ENSG00000049249,ortholog_one2one,56.4706,69.4118
+Adamts4,ENSG00000158859,ortholog_one2one,90.4421,93.0705
+Ubd,ENSG00000213886,ortholog_one2one,69.0909,80.6061
+Mpo,ENSG00000005381,ortholog_one2one,83.2215,88.5906
+Cxcl11,not found,,,
+Csf3,ENSG00000108342,ortholog_one2one,73.5294,79.4118
+Csf3,ENSG00000108342,ortholog_one2one,73.5294,79.4118
+Cxcl1,ENSG00000163734,ortholog_one2many,54.2056,66.3551
+Rgs16,ENSG00000143333,ortholog_one2one,84.6535,88.6139
+Ccl2,not found,,,
+Rasl10b,ENSG00000270885,ortholog_one2one,99.0148,99.0148
+Gm4841,not found,,,
+Mpo,ENSG00000005381,ortholog_one2one,83.2215,88.5906
+Prtn3,ENSG00000196415,ortholog_one2one,63.6719,76.9531
+Elane,ENSG00000197561,ortholog_one2one,71.9101,81.2734
+Gm12250,not found,,,
+Prok2,ENSG00000163421,ortholog_one2one,85.2713,90.6977
+Prok2,ENSG00000163421,ortholog_one2one,85.2713,90.6977
+Mmp8,ENSG00000118113,ortholog_one2one,73.4475,83.2976
+Acod1,ENSG00000102794,ortholog_one2one,82.3285,89.8129
+Ifi213,not found,,,
+Lce3a,not found,,,
+Elane,ENSG00000197561,ortholog_one2one,71.9101,81.2734
+Krtdap,ENSG00000188508,ortholog_one2one,55.5556,70.7071
+Ifi204,ENSG00000163563,ortholog_one2many,42.7518,60.4423
+Irg1,ENSG00000102794,ortholog_one2one,82.3285,89.8129
+Tnnc2,ENSG00000101470,ortholog_one2one,98.75,99.375
+Cxcl10,ENSG00000169245,ortholog_one2one,68.3673,80.6122
+Ccl19,ENSG00000172724,ortholog_one2one,74.4898,84.6939
+Cxcl1,ENSG00000163734,ortholog_one2many,54.2056,66.3551
+Slfn4,ENSG00000172123,ortholog_many2many,42.7336,58.3045
+Slfn4,ENSG00000205045,ortholog_many2many,39.7059,55.0654
+Gpr84,not found,,,
+Ccl2,not found,,,
+Ccl3,ENSG00000275385,ortholog_one2many,57.3034,68.5393
+Ccl3,ENSG00000277632,ortholog_one2many,76.087,86.9565
+Ccl3,ENSG00000276085,ortholog_one2many,75.2688,84.9462
+Gpr84,not found,,,
+Serpina3c,ENSG00000196136,ortholog_one2many,58.6288,74.2317
+Mpo,ENSG00000005381,ortholog_one2one,83.2215,88.5906
+Cxcl9,ENSG00000138755,ortholog_one2one,69.6,81.6
+Cxcl11,not found,,,
+Csf3,ENSG00000108342,ortholog_one2one,73.5294,79.4118
+Adamts4,ENSG00000158859,ortholog_one2one,90.4421,93.0705
+Oas3,ENSG00000111331,ortholog_one2one,70.4692,79.8528
+Saa3,not found,,,
+Adamts4,ENSG00000158859,ortholog_one2one,90.4421,93.0705
+A530064D06Rik,not found,,,
+Ctsg,ENSG00000100448,ortholog_one2one,67.8431,79.6078
+I830077J02Rik,ENSG00000143110,ortholog_one2one,55.3846,64.6154
+Tnf,ENSG00000232810,ortholog_one2one,79.3991,90.1288
+Ebi3,ENSG00000105246,ortholog_one2one,60.6987,73.3624
+Calhm6,ENSG00000188820,ortholog_one2one,68.254,81.5873
+Tcstv4,error - retries exceeded,,,

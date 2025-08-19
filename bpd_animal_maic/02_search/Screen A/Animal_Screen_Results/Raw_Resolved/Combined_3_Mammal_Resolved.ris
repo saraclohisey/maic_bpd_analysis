@@ -1,0 +1,1113 @@
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 641648253
+TI  - The Role of Secreted Frizzled-Related Protein 1 in Lung Development and Bronchopulmonary Dysplasia
+AU  - Rai N.A.
+AU  - Unachukwu U.J.
+AU  - Imai K.
+AU  - D'Armiento J.M.
+Y1  - 2023//
+KW  - adult
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - canonical Wnt signaling
+KW  - conference abstract
+KW  - controlled study
+KW  - embryo
+KW  - fibroblast
+KW  - gene expression
+KW  - genomics
+KW  - human
+KW  - hyperoxia
+KW  - immunofluorescence
+KW  - immunolocalization
+KW  - in vivo study
+KW  - lung alveolus
+KW  - *lung development
+KW  - *lung dysplasia
+KW  - lung injury
+KW  - lung parenchyma
+KW  - male
+KW  - mesenchyme cell
+KW  - mouse
+KW  - newborn
+KW  - nonhuman
+KW  - Northern blotting
+KW  - protein expression
+KW  - *protein function
+KW  - respiratory epithelium
+KW  - signal transduction
+KW  - single cell RNA seq
+KW  - smoke
+KW  - tissue section
+KW  - upregulation
+KW  - wild type mouse
+KW  - Wnt signaling
+KW  - endogenous compound
+KW  - oxygen
+KW  - *secreted frizzled related protein 1
+KW  - Wnt protein
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - N.A. Rai, Pediatric Pulmonology, NewYork Presbyterian Hospital, Columbia University Medical Center, New York, NY, United States. E-mail: nr2640@cumc.columbia.edu
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A5762
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641648253
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.C71
+AB  - Rationale: Bronchopulmonary dysplasia (BPD), a pattern of chronic lung disease in premature infants, is associated with increased mortality and respiratory morbidity. Currently, treatment for BPD is largely supportive. To find targeted therapies that specifically promote lung growth and reduce respiratory illness, a deeper understanding of in utero lung development and postnatal repair is required. The Wnt/beta-catenin signaling pathway is essential for normal lung development, and aberrant Wnt signaling is linked to BPD in humans and murine hyperoxia models of BPD. Our group identified a Wnt inhibitory modulator, secreted frizzled-related protein 1 (SFRP1), as an important factor in early distal airway morphology. Genetic ablation of Sfrp1 in mice leads to dilated alveolar ducts and increased mean linear intercept, compared to wild type mice. We hypothesize that SFRP1 is important in normal lung development and that it is aberrantly expressed in a hyperoxic lung injury model of BPD. Method(s): Mouse lung tissue sections at 10.5, 12.5, 13.5, 14.5, 15.5, 16.5, 17.5, and 18.5 days post coitum (dpc) were collected and stained with immunofluorescent SFRP1 antibody in order to localize SFRP1 at various timepoints in development. Publicly available single cell RNA sequencing data from embryonic mouse lung (12 and 15 dpc) were analyzed using CLC Genomics Workbench to detect Sfrp1 expression. Adult mice were exposed to 85% O2 for 3 and 5 days in a chamber (Coy Laboratory) and Sfrp1 expression in the lung was assessed via northern blot. Result(s): Immunolocalization studies reveal presence of SFRP1 in the distal airway epithelium and surrounding mesenchyme from 13.5 to 15.5 dpc. Single cell RNA sequencing analysis revealed Sfrp1 expression is highest from 12-15 dpc, and almost entirely in mesenchymal cells. The majority of Sfrp1 expressing cells are Wnt2+ fibroblasts and adventitial fibroblasts. 3 and 5 days of exposure to 85% O2 led to upregulation of Sfrp1 compared to controls, and this was not seen in an acute inflammatory injury model or in a chronic smoke exposure model. Conclusion(s): Sfrp1 is expressed by mesenchymal cells, predominantly Wnt2+ fibroblasts and adventitial fibroblasts, between 13 and 15 dpc, corresponding to the pseudoglandular stage of lung development. Based on immunolocalization studies and sequencing data, SFRP1 may be involved in mesenchymal to epithelial signaling during development. In vivo studies reveal upregulation of Sfrp1 after hyperoxic injury in adult mice. Future studies will explore the expression pattern and function of Sfrp1 in a neonatal hyperoxic injury model of BPD.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 641647698
+TI  - Sex-specific Differences in Cell-cell Communication Patterns and Receptor-ligand Interactions in the Developing Lung: Implications for Bronchopulmonary Dysplasia
+AU  - Lingappan K.
+AU  - Cantu A.
+AU  - Gutierrez M.
+Y1  - 2023//
+KW  - ambient air
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - apoptosis
+KW  - C57BL/6N mouse
+KW  - *cell communication
+KW  - cell interaction
+KW  - cell subpopulation
+KW  - conference abstract
+KW  - endothelium cell
+KW  - female
+KW  - fluorescence activated cell sorting
+KW  - fraction of inspired oxygen
+KW  - human
+KW  - hyperoxia
+KW  - immunocompetent cell
+KW  - injury
+KW  - *lung alveolus cell
+KW  - *lung dysplasia
+KW  - macrophage
+KW  - male
+KW  - marker gene
+KW  - mouse
+KW  - newborn
+KW  - nonhuman
+KW  - phenotype
+KW  - signal transduction
+KW  - single cell RNA seq
+KW  - CD200 antigen
+KW  - cell adhesion molecule 1
+KW  - endogenous compound
+KW  - protein S
+KW  - semaphorin
+KW  - transforming growth factor beta
+KW  - tumor necrosis factor
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - K. Lingappan, Pediatrics, Children's Hospital of Philadelphia, Philadelphia, PA, United States. E-mail: kritmeds@gmail.com
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A3649
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641647698
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.B54
+AB  - Rationale: Premature female neonates are less susceptible to the development of bronchopulmonary dysplasia (BPD), but the underlying is unknown. We have shown remarkable sex-specific differences in the neonatal murine lung when subjected to hyperoxia. We hypothesized that distinct cell-cell communication patterns modulate the injury phenotype in the male and female lung. scRNA-seq was used to elucidate the sex-specific transcriptomic differences in different lung cell sub-populations and decipher the novel cell-cell interaction and receptor-ligand interactions in the male and female neonatal lung. Method(s): Neonatal WT (C57BL/6N) mice were exposed to hyperoxia (95% FiO2, PND 1-4: saccular stage) or room air and euthanized on PND7. Viable single cells were isolated by FACS at PND5 (n=3/gp). Library preparation was completed on the Chromium 10X system. Sequencing data were mapped to mm10 and quantified using GENCODE. Data normalization, doublet removal, cell type clustering, and marker gene identification, and hyperoxia response gene signatures were performed using Seurat. RNA velocity estimation was done using velocyto, then scVelo. Cell-cell communication was analyzed using Cellchat (version 1.4.0) on room air and hyperoxia samples. Result(s): scRNAseq identified 22 distinct cell clusters from 35,934 cells in both hyperoxia-exposed and control lungs consistent with distinct populations of endothelial, epithelial, mesenchymal, and immune cells. Upon exposure to hyperoxia, a distinct population of distal lung endothelial cells (reactive aCaps) predicted to be arising from the gCaP (general capillary) cells were identified. Between the immune and endothelial cells, in the hyperoxia-exposed lung, reactive aCaPs (sender)- interstitial macrophage (receiver) was identified as one of the main signaling networks (greater in females than males) with ligands involving Pros 1 (Protein S), Sema 6 (Semaphorin 6) and CD200, all of which are known to modulate the inflammatory phenotype of macrophages. Interestingly, (TNF)-related apoptosis-inducing ligand (Trail) and Cell adhesion molecule 1 (Cadm1) were identified as male-specific ligands upon exposure to hyperoxia from reactive aCaPs. Reactive aCaPs were also the main senders between the endothelial-epithelial cell interaction networks. Reactive aCaP (sender) and Lyz1+ AT2 (receiver) interaction were exclusive to the female lung and the number of interactions was greater in the female lung compared to the male lung. Semaphorin 3 was a female-specific ligand, while Tgf-beta was a male-specific ligand in this interaction. Conclusion(s): Cell-cell communication and ligand-receptor interactions are different in the hyperoxia-exposed male and female neonatal lung. Differences in cell-cell interaction may underlie the differences in disease phenotype with implications for human disease. (Figure Presented).
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Embase Preprint
+AN  - 2020672658
+TI  - Remarkable sex-specific differences at Single-Cell Resolution in Neonatal Hyperoxic Lung Injury
+AU  - Cantu A.
+AU  - Cantu M.
+AU  - Dong X.
+AU  - Leek C.
+AU  - Sajti E.
+AU  - Lingappan K.
+Y1  - 2022//
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - C57BL 6 mouse
+KW  - capillary endothelial cell
+KW  - cell communication
+KW  - cell population
+KW  - cell subpopulation
+KW  - controlled study
+KW  - female
+KW  - fraction of inspired oxygen
+KW  - genetic transcription
+KW  - human
+KW  - hyperoxia
+KW  - immunocompetent cell
+KW  - intercellular signaling
+KW  - lung alveolus cell
+KW  - lung development
+KW  - *lung injury
+KW  - male
+KW  - mouse
+KW  - myeloid-derived suppressor cell
+KW  - neutrophil
+KW  - newborn
+KW  - nonhuman
+KW  - *prematurity
+KW  - *sex difference
+KW  - single cell RNA seq
+KW  - transcription initiation
+T2  - bioRxiv
+LA  - English
+SP  -
+PB  - bioRxiv
+SN  - 2692-8205
+AD  - K. Lingappan, 3401 Civic center Blvd, Philadelphia, PA 19104, United States. E-mail: lingappank@chop.edu
+UR  - https://www.biorxiv.org
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=empp&NEWS=N&AN=2020672658
+DO  - https://dx.doi.org/10.1101/2022.08.19.504541
+AB  - Exposure to supraphysiological concentrations of oxygen (hyperoxia) predisposes to bronchopulmonary dysplasia (BPD), which is characterized by abnormal alveolarization and pulmonary vascular development, in preterm neonates. Neonatal hyperoxia exposure is used to recapitulate the phenotype of human BPD in murine models. Male sex is considered an independent predictor for the development of BPD, but the main mechanisms underlying sexually dimorphic outcomes are unknown. Our objective was to investigate sex-specific and cell-type specific transcriptional changes that drive injury in the neonatal lung exposed to hyperoxia at single-cell resolution and delineate the changes in cell-cell communication networks in the developing lung. We used single cell RNA sequencing (scRNAseq) to generate transcriptional profiles of >35000 cells isolated from the lungs of neonatal male and female C57BL/6 mice exposed to 95% FiO2 between PND1-5 (saccular stage of lung development) or normoxia and euthanized at PND7 (alveolar stage of lung development). ScRNAseq identified 22 cell clusters with distinct populations of endothelial, epithelial, mesenchymal, and immune cells. Our data identified that the distal lung vascular endothelium (composed of aerocytes and general capillary endothelial cells) is exquisitely sensitive to hyperoxia exposure with the emergence of an intermediate capillary endothelial population with both aCaP and gCaP markers. We also identified a myeloid derived suppressor cell population from the lung neutrophils. Sexual dimorphism was evident in all lung cell subpopulations but was striking among the lung immune cells. Finally, we identified that the specific intercellular communication networks and the ligand-receptor pairs that are impacted by neonatal hyperoxia exposure.Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. All rights reserved. No reuse allowed without permission.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) PubMed-not-MEDLINE <2013 to 2016>
+TI  - Potential therapeutic targets in Nrf2-dependent protection against neonatal respiratory distress disease predicted by cDNA microarray analysis and bioinformatics tools.
+DO  - https://dx.doi.org/10.1016/j.cotox.2016.10.006
+AU  - Cho, Hye-Youn
+AU  - Wang, Xuting
+AU  - Li, Jianying
+AU  - Bell, Douglas A
+AU  - Kleeberger, Steven R
+Y1  - 2016//
+Y2  - 20161029//
+T2  - Current opinion in toxicology
+VL  - 1
+SN  - 2468-2020
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=pmnm3&NEWS=N&AN=28920101
+AD  - Netherlands
+AB  - Hyperoxia exposure of newborn rodents has served as a model for bronchopulmonary dysplasia (BPD) phenotypes found in a sub-population of human premature infants. We previously demonstrated that Nrf2 modulates molecular events during saccular-to-alveolar lung maturation and also has a protective role in the pathogenesis of hyperoxia-induced acute lung injury, mortality, arrest of saccular-to-alveolar transition, and lung injury, using Nrf2-deficient and wild-type neonate mice. In this review, we describe how whole-genome transcriptome analyses can identify the means through which Nrf2 transcriptionally modulates organ injury and morphology, cellular growth/proliferation, vasculature development, and immune response during BPD-like pathogenesis. We illustrate how recently developed bioinformatics tools can be used to identify sets of Nrf2-dependently modulated genes in the BPD model, and elucidate direct Nrf2 downstream targets and chemicals/drugs that may act on them. These approaches will provide significant insights into promising therapeutic agents for Nrf2-dependent treatments of complications of preterm birth like BPD.
+LB  - Included by Chris
+ER  -
+TY  - JFULL
+DB  - Embase Preprint
+AN  - 2019769574
+TI  - Neonatal hyperoxia induces sex-dependent pulmonary cellular and transcriptomic changes in an experimental mouse model of bronchopulmonary dysplasia
+AU  - Xia S.
+AU  - Ellis L.V.
+AU  - Winkley K.
+AU  - Menden H.
+AU  - Mabry S.M.
+AU  - Louiselle D.
+AU  - Gibson M.
+AU  - Grundberg E.
+AU  - Chen J.
+AU  - Sampath V.
+Y1  - 2022//
+KW  - airway remodeling
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - controlled study
+KW  - endothelium
+KW  - *experimental mouse
+KW  - female
+KW  - fibroblast
+KW  - gene expression
+KW  - *hyperoxia
+KW  - in vitro study
+KW  - inflammation
+KW  - lipogenesis
+KW  - lung alveolus cell type 1
+KW  - lung alveolus cell type 2
+KW  - *lung dysplasia
+KW  - lung fibrosis
+KW  - male
+KW  - mesenchyme cell
+KW  - mitochondrial gene
+KW  - mouse
+KW  - myofibroblast
+KW  - newborn
+KW  - nonhuman
+KW  - protein expression
+KW  - signal transduction
+KW  - single cell RNA seq
+KW  - stem cell
+KW  - VEGF signaling
+KW  - endogenous compound
+KW  - growth factor
+T2  - bioRxiv
+LA  - English
+SP  -
+PB  - bioRxiv
+SN  - 2692-8205
+AD  - V. Sampath, Neonatology Research Division of Neonatology, 2401 Gillham Rd, Kansas City, MO 64108, United States. E-mail: vsampath@cmh.edu
+UR  - https://www.biorxiv.org
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=empp&NEWS=N&AN=2019769574
+DO  - https://dx.doi.org/10.1101/2022.07.12.499826
+AB  - Hyperoxia (HOX) disrupts lung development in mice and causes bronchopulmonary dysplasia (BPD) in neonates. To investigate sex-dependent molecular and cellular programming involved in HOX, we surveyed the mouse lung using single cell RNA sequencing (scRNA-seq), and validated our findings in human neonatal lung cells in vitro. HOX-induced inflammation in alveolar type (AT) 2 cells gave rise to damage associated transient progenitors (DATP). It also induced a new subpopulation of AT1 cells with reduced expression of growth factors normally secreted by AT1 cells, but increased mitochondrial gene expression. Female alveolar epithelial cells had less EMT and pulmonary fibrosis signaling in HOX. In the endothelium, expansion of Car4+ EC (Cap2) was seen in HOX along with an emergent subpopulation of Cap2 with repressed VEGF signaling. This regenerative response was increased in females exposed to HOX. Mesenchymal cells had inflammatory signatures in HOX, with a new distal interstitial fibroblast subcluster characterized by repressed lipid biosynthesis and a transcriptomic signature resembling myofibroblasts. HOX-induced gene expression signatures in human neonatal fibroblasts and alveolar epithelial cells in vitro resembled mouse scRNA-seq data. These findings suggest that neonatal exposure to HOX programs distinct sex-specific stem cell progenitor and cellular reparative responses that underpin lung remodeling in BPD.Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. All rights reserved. No reuse allowed without permission.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 641644435
+TI  - Neonatal Hyperoxia Induces Alveolar Macrophage Dysfunction and Dysregulated Type 1 Interferon Responses in Experimental Bronchopulmonary Dysplasia
+AU  - Cui T.X.
+AU  - Zhang Y.
+AU  - Valenzuela J.
+AU  - Popova A.P.
+Y1  - 2023//
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - bronchoalveolar lavage fluid
+KW  - conference abstract
+KW  - controlled study
+KW  - flow cytometry
+KW  - gene expression
+KW  - genetic transcription
+KW  - human
+KW  - *hyperoxia
+KW  - immunocompetent cell
+KW  - immunohistochemistry
+KW  - inflammation
+KW  - *lung alveolus macrophage
+KW  - *lung dysplasia
+KW  - macrophage count
+KW  - male
+KW  - mesenchymal stroma cell
+KW  - morphometry
+KW  - mouse
+KW  - newborn
+KW  - nonhuman
+KW  - phagocyte
+KW  - phenotype
+KW  - pneumonia
+KW  - *protein expression
+KW  - protein function
+KW  - repressor gene
+KW  - Rhinovirus
+KW  - Rhinovirus infection
+KW  - tissue injury
+KW  - transcription initiation
+KW  - alpha interferon
+KW  - beta interferon
+KW  - endogenous compound
+KW  - growth factor receptor
+KW  - *interferon
+KW  - mannose receptor
+KW  - messenger RNA
+KW  - ovalbumin
+KW  - oxygen
+KW  - platelet derived growth factor alpha receptor
+KW  - platelet derived growth factor beta receptor
+KW  - platelet derived growth factor receptor
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - T.X. Cui, University of Michigan Medical School, Ann Arbor, MI, United States
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A4424
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641644435
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.B108
+AB  - Rationale: Bronchopulmonary dysplasia (BPD), a chronic pulmonary disease of premature infants, is characterized by hypoalveolarization, airway hyperresponsiveness, and increased susceptibility to respiratory viral infections. Early-life cumulative oxygen exposure and pulmonary inflammation correlate with development of BPD and chronic respiratory symptoms, however the mechanisms driving respiratory morbidity in survivors of prematurity are ill-defined. We have shown that hyperoxic exposure of neonatal mice (a model of BPD) increases lung inflammation and airway responsiveness following infection with rhinovirus (RV). Hyperoxia also decreases type I interferon (IFN), including IFN-alpha and IFN-beta expression. Alveolar macrophages (AMs) are the primary producer of type I IFNs in pulmonary viral infections. AMs modulate inflammation and promote repair of tissue damage. We hypothesize that neonatal hyperoxia induces AM dysfunction and decreases expression of type I IFNs, and this mediates pulmonary inflammation and hypoalveolarization. Method(s): Two-day-old mice were exposed to air or 75% oxygen for up to 14 days. Subsequently, some mice were inoculated with intranasal RV or PBS. In selected experiments, neonatal mice were treated with recombinant IFN-beta. Lung immune cells were assessed by flow cytometry. Lung gene expression was analyzed by qPCR. Bronchoalveolar lavage fluid cells were analyzed by flow cytometry, immunostaining, and qPCR. Alveolar growth was assessed by morphometry. Result(s): Unlike air-exposed mice, lungs of hyperoxia-exposed mice showed reduced IFN-alpha and IFN-beta mRNA expression and fewer IFN-alpha+ and IFN-beta+ AMs. Hyperoxic lung AMs had lower phagocytic receptor CD206 expression and reduced phagocytic capacity for FITC-ovalbumin antigen. Whole lung and sorted AMs mRNA expression of the interferon response genes Ifi35 and Oasl1 was decreased. Notably, Atf3 mRNA expression, transcriptional repressor of type I IFNs, was increased after hyperoxia. Recombinant IFN-beta treatment attenuated hyperoxia-induced Ccl2 mRNA expression following RV infection, blocked hyperoxia-induced chord length increase, a measure of hypoalveolarization, and partially restored the AM numbers. Based on previous findings that IFN-beta induces the expression of plateletderived growth factor receptor alpha (PDGFRA), a gene required for alveolarization, we tested the effects of type I IFNs on PDGFR expression in human mesenchymal stromal cells (MSCs) from infants developing BPD. IFN-alpha and IFN-beta induced PDGFRA and PDGFRB mRNA expression in BPD MSCs. Conclusion(s): Our findings demonstrate that neonatal hyperoxia induces AM dysfunction and reduced type I IFN responses. Recombinant IFN-beta partially rescued the hyperoxia-induced phenotype. Future studies will examine the molecular mechanisms underlying these events and their long-term impact on lung health in infants with BPD.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 641647003
+TI  - Neonatal Hyperoxia Causes Vascular Smooth Muscle Specific Transcriptomic Changes and Pulmonary Hypertension
+AU  - Dinh D.T.
+AU  - Barnes E.A.
+AU  - Ito R.
+AU  - Knutsen C.
+AU  - Che X.
+AU  - Zanini F.
+AU  - Alvira C.M.
+AU  - Cornfield D.N.
+Y1  - 2023//
+KW  - angiogenesis
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - blood vessel reactivity
+KW  - cancer model
+KW  - catheterization
+KW  - cell population
+KW  - cell proliferation
+KW  - conference abstract
+KW  - controlled study
+KW  - differential gene expression
+KW  - echocardiography
+KW  - fraction of inspired oxygen
+KW  - gene expression
+KW  - genetic transcription
+KW  - heart right ventricle
+KW  - histology
+KW  - histopathology
+KW  - *hyperoxia
+KW  - hypoxic lung vasoconstriction
+KW  - in situ hybridization
+KW  - lung alveolus
+KW  - lung dysplasia
+KW  - lung injury
+KW  - male
+KW  - mesenchyme cell
+KW  - mouse
+KW  - murine model
+KW  - newborn
+KW  - nonhuman
+KW  - preclinical study
+KW  - *pulmonary hypertension
+KW  - single cell RNA seq
+KW  - systolic blood pressure
+KW  - thickness
+KW  - upregulation
+KW  - vascular remodeling
+KW  - *vascular smooth muscle
+KW  - vascular smooth muscle cell
+KW  - collagen type 18
+KW  - cyclin dependent kinase inhibitor 1A
+KW  - early growth response factor 1
+KW  - endogenous compound
+KW  - platelet derived growth factor beta receptor
+KW  - smooth muscle actin
+KW  - transcriptome
+KW  - transgelin
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - D.T. Dinh, Division of Pediatric Pulmonology, Stanford University School of Medicine, Palo Alto, CA, United States. E-mail: dtdinh@stanford.edu
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A4657
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641647003
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.C26
+AB  - Background: Premature infants can develop bronchopulmonary dysplasia (BPD), a chronic lung disease of infancy characterized by an arrest of secondary septation, compromised angiogenesis, and, often, pulmonary hypertension (PH). Though pulmonary vascular smooth muscle cells (PVSMC) play a central role in neonatal PH, insight into the cell-specific transcriptomic alterations that might drive proliferation, migration, and contractility remains limited. Objective(s): To test the hypothesis that single cell RNA-sequencing would identify a PVSMC-specific transcriptomic signature in a murine model of hyperoxia-induced neonatal lung injury. Method(s): Pulmonary mesenchymal cells (MC; 5493 cells) were isolated from mice at early saccular (E18.5), late saccular (P1), early alveolar (P7) and late alveolar (P21) stages of development, and from P21 mice exposed to chronic hyperoxia (H;FiO2=0.8 x 7d), a preclinical model of bronchopulmonary dysplasia (BPD). Single MC were sequenced on Illumina Nova Seq at a depth of ~107 reads per cell. MC populations and genes of interest were validated with in situ hybridization. In separate experiments, lung histology, right ventricular systolic pressures (RVSP) and vascular reactivity were measured at 6 weeks (echocardiogram) and 12 weeks (catheterization)Results: Unsupervised clustering identified 14 transcriptionally distinct MC clusters, with dynamic changes in diversity across development. PVSMC were identified by coexpression of smooth muscle (Tagln, Acta2) and mural (Pdgfrb) genes. In most lung MC, differential gene expression (DEG) from P21 H compared to normoxic (N) mice was relatively conserved, including upregulation of known antiproliferative genes Cdkn1a, Junb, and Btg2, a signature was absent in H PVSMC. The most DEG in H (n=73 cells) compared to N (n=81 cells) PVSMC were relatively unique with decreases in Btg2 (16-fold), Egr1 (8-fold), and increase in Cnn1 (8-fold), and Col18a1 (8-fold) molecules encoding proteins that are anti-proliferative, involved in injury repair, procontractile, and anti-angiogenic, respectively. Medial wall thickness, RVSP, and hypoxic pulmonary vasoconstriction (HPV) were greater in H, compared to N at 6 (p<0.01; n=9 N; n=10 H) mice and 12 (p<0.01; n=9 N; n=10 H) weeks Conclusion(s): In the lung, neonatal MC transcriptome demonstrates progressive increases in cellular diversity and dynamic changes in gene expression. Neonatal hyperoxia caused vascular remodeling, pulmonary hypertension and accentuated HPV. Hyperoxic PVSMC demonstrated a unique transcriptomic signature with dynamic changes in genes that play roles in cell proliferation, injury response, contraction, and angiogenesis. These results provide molecular insights and potential therapeutic targets to address the vascular remodeling that underlies neonatal PH.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Embase
+AN  - 642634629
+TI  - MicroRNA 29 Family Serves a Key Role in Lung Development and the Prevention of Lung Pathology
+AU  - Mishra R.
+AU  - Mendelson C.R.
+Y1  - 2021//
+KW  - adult
+KW  - animal experiment
+KW  - animal model
+KW  - cell differentiation
+KW  - conference abstract
+KW  - controlled study
+KW  - fetus lung
+KW  - gene expression
+KW  - growth curve
+KW  - hyperoxia
+KW  - lung cancer
+KW  - *lung development
+KW  - *lung disease
+KW  - lung dysplasia
+KW  - lung fibrosis
+KW  - male
+KW  - mouse
+KW  - newborn
+KW  - nonhuman
+KW  - prevention
+KW  - protein expression
+KW  - protein function
+KW  - signal transduction
+KW  - chemokine
+KW  - collagen
+KW  - CXCL2 chemokine
+KW  - cytokine
+KW  - endogenous compound
+KW  - histone deacetylase 4
+KW  - interleukin 1beta
+KW  - interleukin 6
+KW  - microRNA
+KW  - *microRNA 29
+KW  - microRNA 29a
+KW  - microRNA 29b
+KW  - oxygen
+KW  - surfactant
+KW  - transforming growth factor beta1
+KW  - transforming growth factor beta2
+KW  - transforming growth factor beta3
+KW  - tumor necrosis factor
+T2  - Journal of the Endocrine Society
+LA  - English
+VL  - 5
+IS  - Supplement 1
+PB  - Endocrine Society
+SN  - 2472-1972
+AD  - R. Mishra, University of texas Southwestern Medical Center, Dallas, TX, United States
+DO  - https://dx.doi.org/10.1210/jendso/bvab048.1036
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=642634629
+AB  - Even with remarkable advances in the care of preterm infants, chronic lung disease in the form of bronchopulmonary dysplasia (BPD) continues to be a significant pathologic consequence of prematurity. BPD is caused by the interruption of physiologic lung development and exposure of the immature newborn lung to high O2 tensions. BPD is characterized by a simplified alveolar structure, arrested lung growth, impaired vascular development and lung fibrosis (1). To identify effective treatment strategies for BPD, it is important to understand the molecular mechanisms underlying this disorder. MicroRNAs (miRNA, miR) are known to regulate growth, development and repair of the developing lung; whereas, dysregulation of miRNA expression has been associated with pulmonary disease. Specifically, members of the miR-29 family have been linked to pulmonary cancers, fibrosis, and BPD. Previous studies from our laboratory indicate that developmental induction of miR-29 expression in the fetal lung near term serves a key role in promoting surfactant-producing type II cell differentiation and function through repression of TGF-beta2 signaling (2). To understand the role of miR-29 in protection against BPD, in the present study, we created mice in which the entire miR-29 family (miR-29a/b1 and miR-29b2/c) (miR-29 dKO) was disrupted. Upon exposure of miR-29 dKO and WT neonatal mice to hyperoxia (95% O2) for 5 days immediately after birth, expression levels of the proinflammatory cytokines and chemokines, IL-1 beta, TGF-beta1, CXCL2 and IL-6, were significantly increased in the lungs of miR-29 dKO mice, compared to WT. Furthermore, lungs of miR-29 dKO adult mice manifested increased expression of their direct targets, TGF-beta2 and TGF-beta3. This was associated with increased collagen deposition, as evidenced by enhanced trichrome staining, suggesting the development of lung fibrosis. HDAC4 (a direct target of miR-29) and proinflammatory TNF-alpha, which have been implicated in pulmonary fibrosis, also were upregulated in the lungs of miR-29 dKO mice. Overall, our studies suggest a key role of the miR-29 family and its targets in prevention of inflammatory and profibrotic signaling in the neonatal lung leading to lung pathology.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2018>
+TI  - Impaired Angiogenic Supportive Capacity and Altered Gene Expression Profile of Resident CD146+ Mesenchymal Stromal Cells Isolated from Hyperoxia-Injured Neonatal Rat Lungs.
+DO  - https://dx.doi.org/10.1089/scd.2017.0145
+AU  - Collins, Jennifer J P
+AU  - Lithopoulos, Marissa A
+AU  - Dos Santos, Claudia C
+AU  - Issa, Nahla
+AU  - Mobius, Marius A
+AU  - Ito, Caryn
+AU  - Zhong, Shumei
+AU  - Vadivel, Arul
+AU  - Thebaud, Bernard
+Y1  - 2018//
+Y2  - 20180629//
+KW  - Animals
+KW  - Animals, Newborn
+KW  - Bronchopulmonary Dysplasia/et [Etiology]
+KW  - *Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - Bronchopulmonary Dysplasia/pp [Physiopathology]
+KW  - CD146 Antigen/ge [Genetics]
+KW  - Cell Proliferation/de [Drug Effects]
+KW  - Epithelial Cells/de [Drug Effects]
+KW  - Epithelial Cells/pa [Pathology]
+KW  - Gene Expression Regulation, Developmental/de [Drug Effects]
+KW  - Humans
+KW  - Lung/me [Metabolism]
+KW  - Lung/pa [Pathology]
+KW  - Lung Injury/ci [Chemically Induced]
+KW  - *Lung Injury/me [Metabolism]
+KW  - Lung Injury/pa [Pathology]
+KW  - *Mesenchymal Stem Cells/me [Metabolism]
+KW  - Mesenchymal Stem Cells/pa [Pathology]
+KW  - Oxygen/ad [Administration & Dosage]
+KW  - *Oxygen/ae [Adverse Effects]
+KW  - Rats
+KW  - T-Lymphocytes/me [Metabolism]
+KW  - T-Lymphocytes/pa [Pathology]
+T2  - Stem cells and development
+VL  - 27
+IS  - 16
+SN  - 1547-3287
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med15&NEWS=N&AN=29957134
+AD  - United States
+AB  - Bronchopulmonary dysplasia (BPD), the most common complication of extreme preterm birth, can be caused by oxygen-related lung injury and is characterized by impaired alveolar and vascular development. Mesenchymal stromal cells (MSCs) have lung protective effects. Conversely, BPD is associated with increased MSCs in tracheal aspirates. We hypothesized that endogenous lung (L-)MSCs are perturbed in a well-established oxygen-induced rat model mimicking BPD features. Rat pups were exposed to 21% or 95% oxygen from birth to postnatal day 10. On day 12, CD146+ L-MSCs were isolated and characterized according to the International Society for Cellular Therapy criteria. Epithelial and vascular repair potential were tested by scratch assay and endothelial network formation, respectively, immune function by mixed lymphocyte reaction assay. Microarray analysis was performed using the Affymetrix GeneChip and gene set enrichment analysis software. CD146+ L-MSCs isolated from rat pups exposed to hyperoxia had decreased CD73 expression and inhibited lung endothelial network formation. CD146+ L-MSCs indiscriminately promoted epithelial wound healing and limited T cell proliferation. Expression of potent antiangiogenic genes of the axonal guidance cue and CDC42 pathways was increased after in vivo hyperoxia, whereas genes of the anti-inflammatory Janus kinase (JAK)/signal transducer and activator of transcription (STAT) and lung/vascular growth-promoting fibroblast growth factor (FGF) pathways were decreased. In conclusion, in vivo hyperoxia exposure alters the proangiogenic effects and FGF expression of L-MSCs. In addition, decreased CD73 and JAK/STAT expression suggests decreased immune function. L-MSC function may be perturbed and contribute to BPD pathogenesis. These findings may lead to improvements in manufacturing exogenous MSCs with superior repair capabilities.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2019>
+TI  - Immune System Regulation Affected by a Murine Experimental Model of Bronchopulmonary Dysplasia: Genomic and Epigenetic Findings.
+DO  - https://dx.doi.org/10.1159/000501461
+AU  - Revhaug, Cecilie
+AU  - Bik-Multanowski, Miroslaw
+AU  - Zasada, Magdalena
+AU  - Rognlien, Anne Gro W
+AU  - Gunther, Clara-Cecilie
+AU  - Ksiazek, Teofila
+AU  - Madetko-Talowska, Anna
+AU  - Szewczyk, Katarzyna
+AU  - Grabowska, Agnieszka
+AU  - Kwinta, Przemko
+AU  - Pietrzyk, Jacek J
+AU  - Baumbusch, Lars O
+AU  - Saugstad, Ola D
+Y1  - 2019//
+Y2  - 20190827//
+KW  - Adaptive Immunity/ge [Genetics]
+KW  - Animals
+KW  - Animals, Newborn
+KW  - *B-Lymphocytes/im [Immunology]
+KW  - B-Lymphocytes/me [Metabolism]
+KW  - Bronchopulmonary Dysplasia/et [Etiology]
+KW  - *Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - Bronchopulmonary Dysplasia/im [Immunology]
+KW  - Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - *DNA Methylation
+KW  - Disease Models, Animal
+KW  - *Epigenesis, Genetic
+KW  - Hyperoxia/co [Complications]
+KW  - *Hyperoxia/ge [Genetics]
+KW  - Hyperoxia/im [Immunology]
+KW  - Hyperoxia/me [Metabolism]
+KW  - Immunity, Innate/ge [Genetics]
+KW  - *Lung/im [Immunology]
+KW  - Lung/me [Metabolism]
+KW  - Mice, Inbred C57BL
+KW  - Signal Transduction/ge [Genetics]
+KW  - *T-Lymphocytes/im [Immunology]
+KW  - T-Lymphocytes/me [Metabolism]
+KW  - *Transcriptome
+T2  - Neonatology
+VL  - 116
+IS  - 3
+SN  - 1661-7800
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med16&NEWS=N&AN=31454811
+AD  - Switzerland
+AB  - BACKGROUND: Bronchopulmonary dysplasia (BPD) is a common cause of abrupted lung development after preterm birth. BPD may lead to increased rehospitalization, more severe and frequent respiratory infections, and life-long reduced lung function. The gene regulation in lungs with BPD is complex, with various genetic and epigenetic factors involved., OBJECTIVES: The aim of this study was to examine the regulatory relation between gene expression and the epigenome (DNA methylation) relevant for the immune system after hyperoxia followed by a recovery period in air using a mouse model of BPD., METHODS: Newborn mice pups were subjected to an immediate hyperoxic condition from birth and kept at 85% O2 levels for 14 days followed by a 14-day period in room air. Next, mice lung tissue was used for RNA and DNA extraction with subsequent microarray-based assessment of lung transcriptome and supplementary methylome analysis., RESULTS: The immune system-related transcriptomeregulation was affected in mouse lungs after hyperoxia. A high proportion of genes relevant in the immune system exhibited significant expression alterations, e.g., B cell-specific genes central to the cytokine-cytokine receptor interaction, the PI3K-AKT, and the B cell receptor signaling pathways. The findings were accompanied by significant DNA hypermethylation observed in the PI3K-AKT pathway and immune system-relevant genes., CONCLUSIONS: Oxygen damage could be partly responsible for the increased susceptibility and abnormal response to respiratory viruses and infections seen in premature babies with BPD through dysregulated genes. Copyright © 2019 S. Karger AG, Basel.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <1996 to 2002>
+TI  - Hyperoxia induces thioredoxin and thioredoxin reductase gene expression in lungs of premature baboons with respiratory distress and bronchopulmonary dysplasia.
+AU  - Das, K C
+AU  - Guo, X L
+AU  - White, C W
+Y1  - 1999//
+KW  - Animals
+KW  - *Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - Humans
+KW  - Infant, Newborn
+KW  - *Oxygen/to [Toxicity]
+KW  - Papio
+KW  - *Respiratory Distress Syndrome, Newborn/me [Metabolism]
+KW  - *Thioredoxin-Disulfide Reductase/ge [Genetics]
+KW  - *Thioredoxins/ge [Genetics]
+T2  - Chest
+VL  - 116
+IS  - 1 Suppl
+SN  - 0012-3692
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med4&NEWS=N&AN=10424622
+AD  - United States
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Embase
+AN  - 2028484174
+TI  - Granulocyte Colony-Stimulating Factor is a Determinant of Severe Bronchopulmonary Dysplasia and Coincident Retinopathy
+AU  - Wickramasinghe L.C.
+AU  - Tsantikos E.
+AU  - Kindt A.
+AU  - Raftery A.L.
+AU  - Gottschalk T.A.
+AU  - Borger J.G.
+AU  - Malhotra A.
+AU  - Anderson G.P.
+AU  - van Wijngaarden P.
+AU  - Hilgendorff A.
+AU  - Hibbs M.L.
+Y1  - 2023//
+KW  - adult
+KW  - airway resistance
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - article
+KW  - body weight gain
+KW  - cell proliferation
+KW  - cell protection
+KW  - clinical article
+KW  - *comorbidity
+KW  - controlled study
+KW  - *disease severity
+KW  - female
+KW  - human
+KW  - human cell
+KW  - human tissue
+KW  - hyperoxia
+KW  - hyperoxia-induced lung injury
+KW  - infant
+KW  - inflammation
+KW  - leukocyte activation
+KW  - lung alveolus cell
+KW  - *lung dysplasia/et [Etiology]
+KW  - lung endothelium
+KW  - lung lavage fluid
+KW  - male
+KW  - *molecular pathology
+KW  - monocyte
+KW  - mouse
+KW  - newborn
+KW  - nonhuman
+KW  - oxidative stress
+KW  - perinatal period
+KW  - prematurity
+KW  - protein blood level
+KW  - *protein function
+KW  - pup (rodent)
+KW  - respiratory function
+KW  - respiratory tract parameters
+KW  - *retrolental fibroplasia/et [Etiology]
+KW  - subendothelium cell
+KW  - upregulation
+KW  - *granulocyte colony stimulating factor/ec [Endogenous Compound]
+KW  - alveolar resistance
+KW  - alveolar simplification
+T2  - American Journal of Pathology
+LA  - English
+VL  - 193
+IS  - 12
+PB  - Elsevier Inc.
+SN  - 1525-2191
+AD  - M.L. Hibbs, Department of Immunology and Pathology, Central Clinical School, Monash University, 89 Commercial Rd., Melbourne, VIC 3004, Australia. E-mail: margaret.hibbs@monash.edu
+UR  - http://ajp.amjpathol.org/
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=2028484174
+DO  - https://dx.doi.org/10.1016/j.ajpath.2023.07.006
+AB  - Bronchopulmonary dysplasia (BPD), also called chronic lung disease of immaturity, afflicts approximately one third of all extremely premature infants, causing lifelong lung damage. There is no effective treatment other than supportive care. Retinopathy of prematurity (ROP), which impairs vision irreversibly, is common in BPD, suggesting a related pathogenesis. However, specific mechanisms of BPD and ROP are not known. Herein, a neonatal mouse hyperoxic model of coincident BPD and retinopathy was used to screen for candidate mediators, which revealed that granulocyte colony-stimulating factor (G-CSF), also known as colony-stimulating factor 3, was up-regulated significantly in mouse lung lavage fluid and plasma at postnatal day 14 in response to hyperoxia. Preterm infants with more severe BPD had increased plasma G-CSF. G-CSF-deficient neonatal pups showed significantly reduced alveolar simplification, normalized alveolar and airway resistance, and normalized weight gain compared with wild-type pups after hyperoxic lung injury. This was associated with a marked reduction in the intensity, and activation state, of neutrophilic and monocytic inflammation and its attendant oxidative stress response, and protection of lung endothelial cells. G-CSF deficiency also provided partial protection against ROP. The findings in this study implicate G-CSF as a pathogenic mediator of BPD and ROP, and suggest the therapeutic utility of targeting G-CSF biology to treat these conditions.Copyright © 2023 American Society for Investigative Pathology
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2005 to 2007>
+TI  - GATA and Nkx factors synergistically regulate tissue-specific gene expression and development in vivo.
+DO  - https://dx.doi.org/10.1242/dev.02720
+AU  - Zhang, Yuzhen
+AU  - Rath, Nibedita
+AU  - Hannenhalli, Sridhar
+AU  - Wang, Zhishan
+AU  - Cappola, Thomas
+AU  - Kimura, Shioko
+AU  - Atochina-Vasserman, Elena
+AU  - Lu, Min Min
+AU  - Beers, Michael F
+AU  - Morrisey, Edward E
+Y1  - 2007//
+KW  - Alleles
+KW  - Animals
+KW  - Binding Sites
+KW  - Cell Differentiation
+KW  - Embryo, Mammalian/cy [Cytology]
+KW  - Epithelium/em [Embryology]
+KW  - GATA6 Transcription Factor
+KW  - *Gene Expression Regulation, Developmental
+KW  - Heterozygote
+KW  - In Situ Hybridization
+KW  - Lung/em [Embryology]
+KW  - Lung/me [Metabolism]
+KW  - Lung/ul [Ultrastructure]
+KW  - Mesoderm/cy [Cytology]
+KW  - Mesoderm/me [Metabolism]
+KW  - Mice
+KW  - Mice, Inbred C57BL
+KW  - Mice, Transgenic
+KW  - Mutation
+KW  - NIH 3T3 Cells
+KW  - Nuclear Proteins
+KW  - Oligonucleotide Array Sequence Analysis
+KW  - Phospholipids/an [Analysis]
+KW  - Promoter Regions, Genetic
+KW  - Thyroid Nuclear Factor 1
+KW  - Transcription Factors/ge [Genetics]
+KW  - *Transcription Factors/me [Metabolism]
+KW  - Transfection
+T2  - Development (Cambridge, England)
+VL  - 134
+IS  - 1
+SN  - 0950-1991
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med6&NEWS=N&AN=17164424
+AD  - England
+AB  - In vitro studies have suggested that members of the GATA and Nkx transcription factor families physically interact, and synergistically activate pulmonary epithelial- and cardiac-gene promoters. However, the relevance of this synergy has not been demonstrated in vivo. We show that Gata6-Titf1 (Gata6-Nkx2.1) double heterozygous (G6-Nkx DH) embryos and mice have severe defects in pulmonary epithelial differentiation and distal airway development, as well as reduced phospholipid production. The defects in G6-Nkx DH embryos and mice are similar to those observed in human neonates with respiratory distress syndromes, including bronchopulmonary dysplasia, and differential gene expression analysis reveals essential developmental pathways requiring synergistic regulation by both Gata6 and Titf1 (Nkx2.1). These studies indicate that Gata6 and Nkx2.1 act in a synergistic manner to direct pulmonary epithelial differentiation and development in vivo, providing direct evidence that interactions between these two transcription factor families are crucial for the development of the tissues in which they are co-expressed.
+LB  - Included by Chris
+ER  -
+TY  - JFULL
+DB  - Embase Preprint
+AN  - 2017678485
+TI  - FGF10 triggers de novo alveologenesis in a BPD model: impact on the resident mesenchymal niche cells
+AU  - Taghizadeh S.
+AU  - Chao C.-M.
+AU  - Guenther S.
+AU  - Glaser L.
+AU  - Gersmann L.
+AU  - Michel G.
+AU  - Kraut S.
+AU  - Goth K.
+AU  - Koepke J.
+AU  - Heiner M.
+AU  - Vazquez-Armendariz A.I.
+AU  - Herold S.
+AU  - Samakovolis C.
+AU  - Weissmann N.
+AU  - Ricci F.
+AU  - Aquila G.
+AU  - Boyer L.
+AU  - Ehrhardt H.
+AU  - Minoo P.
+AU  - Bellusci S.
+AU  - Rivetti S.
+Y1  - 2022//
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - coculture
+KW  - controlled study
+KW  - fluorescence activated cell sorting
+KW  - gene expression
+KW  - gene overexpression
+KW  - human
+KW  - hyperoxia
+KW  - intraperitoneal drug administration
+KW  - *lung dysplasia
+KW  - male
+KW  - *mesenchyme cell
+KW  - morphometry
+KW  - mouse
+KW  - mouse model
+KW  - nonhuman
+KW  - protein expression
+KW  - protein function
+KW  - *resident
+KW  - signal transduction
+KW  - *single cell RNA seq
+KW  - stem cell
+KW  - transgenic mouse
+KW  - axin
+KW  - endogenous compound
+KW  - *fibroblast growth factor 10
+KW  - keratinocyte growth factor
+KW  - platelet derived growth factor alpha receptor
+KW  - *repifermin
+T2  - bioRxiv
+LA  - English
+SP  -
+PB  - bioRxiv
+SN  - 2692-8205
+AD  - S. Bellusci, The Quzhou Affiliated Hospital, Wenzhou Medical University, Quzhou People's Hospital, Zhejiang, Quzhou, China. E-mail: saverio.bellusci@innere.med.uni-giessen.de
+UR  - https://www.biorxiv.org
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=empp&NEWS=N&AN=2017678485
+DO  - https://dx.doi.org/10.1101/2022.03.14.484213
+AB  - Bronchopulmonary dysplasia (BPD) is a neonatal lung disease developing in premature babies characterized by arrested alveologenesis and associated with decreased Fibroblast growth factor 10 (FGF10) expression. One-week hyperoxia (HYX) exposure of newborn mice leads to a permanent arrest in alveologenesis. To test the role of Fgf10 signaling to promote de novo alveologenesis following hyperoxia, we used transgenic mice allowing inducible expression of Fgf10 and recombinant FGF10 (rFGF10) protein delivered intraperitoneally. We carried out morphometry analysis, and IF on day 45. Alveolospheres assays were performed co-culturing AT2s from normoxia (NOX) with FACS-isolated Sca1Pos resident mesenchymal cells (rMC) from animals exposed to NOX, HYX+PBS, or HYX+FGF10. scRNAseq between rMC-Sca1Pos isolated from NOX and HYX+PBS were also carried out. Transgenic overexpression of Fgf10 and rFGF10 administration rescued the alveologenesis defects following HYX. Alveolosphere assays indicate that the activity of rMC-Sca1Pos is negatively impacted by HYX and partially rescued by rFGF10 treatment. Analysis by IF demonstrates a significant impact of rFGF10 on the activity of resident mesenchymal cells. scRNAseq results identified clusters expressing Fgf10, Fgf7, Pdgfra, and Axin2, which could represent the rMC niche cells for the AT2 stem cells. In conclusion, we demonstrate that rFGF10 administration is able to induce de-novo alveologenesis in a BPD mouse model and identified subpopulations of rMC-Sca1Pos niche cells potentially representing its cellular target.Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. All rights reserved. No reuse allowed without permission.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 641648780
+TI  - Exploring Murine Lung Alveolarization Using an Ex Vivo Isolated, Perfused and Ventilated Lung Model in Neonates
+AU  - Jamal R.
+AU  - Frank D.
+AU  - Munks J.
+AU  - Khaghani Raziabad S.
+AU  - Guenther S.
+AU  - Braun T.
+AU  - Fenner-Nau D.
+AU  - Quanz K.
+AU  - Sommer N.
+AU  - Weissmann N.
+AU  - Alejandre Alcazar M.A.
+AU  - Seeger W.
+AU  - Morty R.E.
+AU  - Ahlbrecht K.
+Y1  - 2023//
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - *artificial ventilation
+KW  - breathing
+KW  - C57BL 6 mouse
+KW  - conference abstract
+KW  - controlled study
+KW  - culture medium
+KW  - deregulation
+KW  - destruction
+KW  - down regulation
+KW  - drug delivery system
+KW  - emphysema
+KW  - *ex vivo study
+KW  - fibrosis
+KW  - gene editing
+KW  - gene expression
+KW  - gene expression profiling
+KW  - histology
+KW  - histopathology
+KW  - in vivo study
+KW  - lung disease
+KW  - lung dysplasia
+KW  - lung structure
+KW  - male
+KW  - mouse
+KW  - negative pressure ventilation
+KW  - newborn
+KW  - nonhuman
+KW  - organoid
+KW  - perfusion
+KW  - phenotype
+KW  - positive end expiratory pressure ventilation
+KW  - *positive pressure ventilation
+KW  - *pulmonary artery
+KW  - running
+KW  - tidal volume
+KW  - TNF signaling
+KW  - transgenic mouse
+KW  - upregulation
+KW  - albumin
+KW  - alpha 1 antichymotrypsin
+KW  - endogenous compound
+KW  - formaldehyde
+KW  - growth factor
+KW  - PADGEM protein
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - R. Jamal, Max Planck Institute of Heart and Lung Research, Bad Nauheim, Germany. E-mail: reshma.jamal@mpi-bn.mpg.de
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A4030
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641648780
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.B69
+AB  - BACKGROUND: Understanding lung alveolarization represents an opportunity to identify key factors for the development of new therapeutic strategies for structural lung diseases such as emphysema, fibrosis and bronchopulmonary dysplasia. RATIONALE: The use of transgenic mice to analyze alveolarization in vivo is often limited due to a global lethal phenotype. Tools such as organoids or precision-cut lung sections miss key components, including breathing movementinduced stretch. These forces were incorporated to mimic the in vivo situation by developing an isolated, perfused, ventilated lung model in neonates to study alveolarization ex vivo. Tools such as gene editing and drug delivery can be also used in this model. METHOD(S): A setup for an ex vivo isolated ventilated and perfused lung model for neonates was established providing positive pressure ventilation. C57BL/6 mice aged between postnatal day (P) 4 to P 14 were ventilated through a microvent with tidal volume of 7mul/g body mass, a PEEP of 3 cmH2O and perfused through the pulmonary artery with cell culture media including growth factors and 4% albumin. Mice were ventilated and perfused continuously for up to 6 h in a temperature-controlled chamber, after which lungs were either fixed with formalin or frozen for histology and transcriptomic studies. A setup to provide negative pressure ventilation was also established, where mouse pups were ventilated with an inspiratory pressure of -7 cmH2O, end-expiratory pressure -3 cmH2O and perfused for up to 6h. RESULT(S): P14 mice resisted positive pressure ventilation better compared to P7 mice, and maintained lung structure without destruction. However, longer durations in the ex vivo setup lead to damage to lung structure at both ages. Optimization of PEEP and a reduced running time of 4 h resulted in less lung destruction and upregulation of P-selectin, Serpina3g,Serpina3f, downregulation of Zfp663, and deregulation of the TNF signaling pathway. Using negative pressure ventilation, lung structure was less damaged and generated a gene expression profile similar to positive pressure ventilation. CONCLUSION(S): An ex vivo ventilation setup for neonates was established, generating limited destruction of lung structure but with ventilation-related transcriptomic signature. Further comparison of in vivo to ex vivo ventilation and perfusion will reveal systemic factors missing and provide ways to improvise the model for future applications using longer ventilation and perfusion time-periods to analyze alveolarization ex vivo.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Embase Preprint
+AN  - 2016899753
+TI  - Decoding the IGF1 Signaling Gene Regulatory Network Behind Alveologenesis from A Mouse Model of Bronchopulmonary Dysplasia
+AU  - Gao F.
+AU  - Li C.
+AU  - Smith S.M.
+AU  - Peinado N.
+AU  - Kohbodi G.
+AU  - Tran E.
+AU  - Loh E.
+AU  - Li W.
+AU  - Borok Z.
+AU  - Minoo P.
+Y1  - 2022//
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - bird
+KW  - chronic lung disease
+KW  - comparative study
+KW  - controlled study
+KW  - *gene regulatory network
+KW  - lung alveolus epithelium cell
+KW  - *lung dysplasia
+KW  - male
+KW  - molecularly targeted therapy
+KW  - mouse
+KW  - *mouse model
+KW  - myofibroblast
+KW  - newborn
+KW  - nonhuman
+KW  - phenotype
+KW  - protein function
+KW  - sea urchin
+KW  - *signal transduction
+KW  - transgenic mouse
+KW  - endogenous compound
+KW  - fibroblast growth factor 10
+KW  - *somatomedin C
+KW  - Wnt5a protein
+T2  - bioRxiv
+LA  - English
+SP  -
+PB  - bioRxiv
+SN  - 2692-8205
+AD  - F. Gao, Division of Neonatology, Department of Pediatrics, LAC+USC Medical Center, Children's Hospital Los Angeles, Los Angeles, CA 90033, United States. E-mail: fremontgao@gmail.com, P. Minoo, Division of Neonatology, Department of Pediatrics, LAC+USC Medical Center, Children's Hospital Los Angeles, Los Angeles, CA 90033, United States. E-mail: minoo@usc.edu
+UR  - https://www.biorxiv.org
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=empp&NEWS=N&AN=2016899753
+DO  - https://dx.doi.org/10.1101/2022.01.24.477613
+AB  - Lung development is precisely controlled by underlying Gene Regulatory Networks (GRN). Disruption of genes in the network can interrupt normal development and cause diseases such as bronchopulmonary dysplasia (BPD)-a chronic lung disease in preterm infants with morbid and sometimes lethal consequences characterized by lung immaturity and reduced alveolarization. Here, we generated a transgenic mouse exhibiting a moderate severity BPD phenotype by blocking IGF1 signaling in secondary crest myofibroblasts (SCMF) at the onset of alveologenesis. Using approaches mirroring the construction of the model GRN in sea urchin's development, we constructed the IGF1 signaling network underlying alveologenesis using this mouse model that phenocopies BPD. The constructed GRN, consisting of 43 genes, provides a bird's-eye view of how the genes downstream of IGF1 are regulatorily connected. The GRN also reveals a mechanistic interpretation of how the effects of IGF1 signaling are transduced within SCMF from its specification genes to its effector genes and then from SCMF to its neighboring alveolar epithelial cells with WNT5A and FGF10 signaling as the bridge. Consistently, blocking WNT5A signaling in mice phenocopies BPD as inferred by the network. A comparative study on human samples suggests that a GRN of similar components and wiring underlies human BPD. Our network view of alveologenesis is transforming our perspective to understand and treat BPD. This new perspective calls for the construction of the full signaling GRN underlying alveologenesis, upon which targeted therapies for this neonatal chronic lung disease can be viably developed.Copyright The copyright holder for this preprint is the author/funder, who has granted bioRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 2030124400
+TI  - Comparative transcriptomics of hyperglycaemic-induced BPD in olive baboons
+AU  - Petershack M.
+AU  - Moreira A.
+Y1  - 2024//
+KW  - *baboon
+KW  - cell adhesion
+KW  - cell respiration
+KW  - conference abstract
+KW  - controlled study
+KW  - cross linking
+KW  - differential expression analysis
+KW  - differential gene expression
+KW  - etiology
+KW  - extremely premature birth
+KW  - female
+KW  - gene ontology
+KW  - gene set enrichment analysis
+KW  - gestational age
+KW  - high throughput sequencing
+KW  - human
+KW  - *hyperglycemia
+KW  - lung dysplasia
+KW  - lung function
+KW  - lung parenchyma
+KW  - nonhuman
+KW  - *olive
+KW  - oxygen transport
+KW  - phagosome
+KW  - pregnancy
+KW  - prevalence
+KW  - RNA sequence
+KW  - RNA sequencing
+KW  - tight junction
+KW  - *transcriptomics
+KW  - upregulation
+KW  - cyclooxygenase 1
+KW  - surfactant
+T2  - American Journal of the Medical Sciences
+LA  - English
+VL  - 367
+IS  - Supplement 1
+PB  - Elsevier B.V.
+SN  - 1538-2990
+DO  - https://dx.doi.org/10.1016/S0002-9629%2824%2900668-2
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2030124400
+AD  - Netherlands
+AB  - Purpose of Study: Bronchopulmonary Dysplasia (BPD) is a prevalent lung disease in extremely premature infants. Despite its prevalence, the clinical definition of BPD lacks consensus, which has hindered our understanding of its genetic underpinnings. To delve into the genetic aspects of BPD, we have harnessed high throughput sequencing techniques to pinpoint genes and biochemical pathways contributing to this disease. Methods Used: Our study involved analyzing RNA sequencing data extracted from the lung tissue of 13 baboons, equivalent to extremely premature neonates at 25 weeks of gestation. These baboons were divided into two groups: 6 healthy controls and 7 baboons with hyperglycemia-induced BPD. The RNA-sequences were initially aligned using STAR, followed by differential gene expression analysis performed with edgeR. Subsequently, we applied a filter to select genes expressed in every sample. These data were then normalized to counts per million and further filtered for counts less than one. Genes were considered differentially expressed if they exhibited an absolute log fold change of 0.5 or greater, a p-value less than 0.05, and a false discovery rate of less than 0.05. Summary of Results: The average weight of the baboons was 376 +/-8 grams for the control compared to 390 +/-31 grams for the BPD cohort (p = 0.4). The gestational age was 127 versus 125 days for the the control and BPD groups, respectively (p = 0.07). Our DGE analysis revealed 26 differentially expressed genes (DEGs), all of whichwere upregulated in BPD. Notably, the top upregulated genes included COX1, SFTPC, MACF1, and EPAS1. COX1 is associated with cellular respiration, while SFTPC plays a crucial role in lung function by encoding a surfactant. MACF1 codes for a cytoskeletal crosslinking protein, and EPAS1 has been linked to vascular structure and oxygen transport. The DEGs were enriched for gene ontology processes, including regulation of cellular adhesion, developmental maturation, and cell-cell adhesion. Additionally, our gene set enrichment analysis indicated an upregulation of tight junctions and phagosome activity. Conclusion(s): Conclusion(s): Our study, utilizing highthroughput sequencing techniques in extremely premature baboons, revealed genetic underpinnings associated with BPD. Specifically, these genes are involved in cellular respiration, lung function, and cytoskeletal structure, contributing to our understanding of the complex molecular changes occurring in BPD-affected lung tissue and demonstrating biological and clinical plausibility. [Figure presented]Copyright © 2024 Elsevier Inc. All rights reserved.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Embase
+AN  - 642559021
+TI  - Artesunate Alleviates Chronic Hyperoxia-induced Bronchopulmonary Dysplasia by Suppressing NF-kappaB Pathway in Neonatal Mice
+AU  - Weng W.
+AU  - Wang X.
+AU  - Cui Y.
+Y1  - 2023//
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - article
+KW  - C57BL 6 mouse
+KW  - controlled study
+KW  - drug combination
+KW  - enzyme linked immunosorbent assay
+KW  - gene expression
+KW  - *hyperoxia
+KW  - *inflammation
+KW  - inflammatory infiltrate
+KW  - *lung dysplasia
+KW  - lung function
+KW  - male
+KW  - mouse
+KW  - newborn
+KW  - *NF kB signaling
+KW  - nonhuman
+KW  - protein expression
+KW  - Western blotting
+KW  - *artesunate
+KW  - endogenous compound
+KW  - eosin
+KW  - hematoxylin
+KW  - I kappa B kinase alpha
+KW  - lactic acid
+KW  - messenger RNA
+KW  - oxygen
+KW  - Ringer solution
+T2  - Combinatorial chemistry & high throughput screening
+LA  - English
+SP  -
+SN  - 1875-5402
+DO  - https://dx.doi.org/10.2174/0113862073246710231002042239
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=642559021
+AD  - United Arab Emirates
+AB  - BACKGROUND: Bronchopulmonary dysplasia (BPD) is a chronic lung condition that occurs in premature infants who undergo prolonged mechanical ventilation and oxygen therapy. Existing treatment methods have shown limited efficacy, highlighting the urgent need for new therapeutic strategies. Artesunate (AS) is a compound known for its potential anti-inflammatory properties, and studies have shown its protective effects against acute lung injury. However, its impact on BPD and the underlying mechanisms remain unclear. OBJECTIVE(S): To investigate the effect and underlying mechanism of AS on chronic hyperoxiainduced BPD in neonatal mice. METHOD(S): Full-term C57BL/6J mice were randomly assigned to the Air+lactate Ringer's solution (L/R) group, O2 + L/R group, and O2 + AS group. Analysis was performed using assay methods such as ELISA, RT-qPCR, hematoxylin-eosin staining, and Western blotting. RESULT(S): Compared with the O2+L/R group, the expression of inflammatory factors in the serum, tissue, and BALF of the O2+AS group was significantly reduced, the lung function of the mice was improved, and the inflammatory infiltrates were significantly alleviated. AS inhibited the mRNA expression of inflammatory factors in mice. We found that the expression of nuclear p65 and cytoplasmic p-IkappaBalpha in the NF-kappaB pathway was inhibited after adding AS. CONCLUSION(S): AS ameliorated chronic hyperoxia-induced BPD in neonatal mice probably by inhibiting the expression of NF-kappaB pathway and inflammatory factors.Copyright© Bentham Science Publishers; For any queries, please email at epub@benthamscience.net.
+LB  - Included by Other
+ER  -
+TY  - JFULL
+DB  - Embase Weekly Updates
+AN  - 641648282
+TI  - Alterations of Aerocyte Capillary Phenotype During Postnatal Development and in Response to Injury
+AU  - Zhang D.
+AU  - Che X.
+AU  - Knutsen C.
+AU  - Liu M.
+AU  - Suresh N.E.
+AU  - Saito T.
+AU  - Cornfield D.
+AU  - Zanini F.
+AU  - Alvira C.M.
+Y1  - 2023//
+KW  - aerobic metabolism
+KW  - angiogenesis
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - blood flow
+KW  - caveola
+KW  - cell migration
+KW  - conference abstract
+KW  - differential gene expression
+KW  - down regulation
+KW  - embryo
+KW  - fetus lung
+KW  - fluorescence activated cell sorting
+KW  - human
+KW  - hyperoxia
+KW  - *injury
+KW  - lung alveolus cell
+KW  - male
+KW  - marker gene
+KW  - mouse
+KW  - newborn
+KW  - nonhuman
+KW  - pathway analysis
+KW  - *phenotype
+KW  - *postnatal development
+KW  - preliminary data
+KW  - prenatal exposure
+KW  - protein expression
+KW  - signal transduction
+KW  - single cell RNA seq
+KW  - species differentiation
+KW  - synthesis
+KW  - adenosine triphosphate
+KW  - endogenous compound
+KW  - endothelin B receptor
+KW  - platelet endothelial cell adhesion molecule 1
+KW  - semaphorin
+KW  - somatomedin binding protein
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - D. Zhang, Pediatrics, Stanford University, Palo Alto, CA, United States. E-mail: daoqinzhang2018@gmail.com
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A5765
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641648282
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.C71
+AB  - Background: Angiogenesis is a key driver of alveolarization, and disrupted angiogenesis and alveolarization is observed in premature infants with bronchopulmonary dysplasia (BPD). Aerocytes have been recently identified as specialized lung capillary EC that highly express the enzyme carbonic anhydrase-4 (Car4), and extend along the alveolus, intimately associated with alveolar type 1 cells. However, the temporal progression of aerocyte emergence and stimuli inducing aerocyte differentiation are not known. Further, how aerocyte phenotype is altered by injuries that disrupt alveolarization has not been explored. Method(s): Single lung cells were obtained from embryonic and neonatal mice at various timepoints under control conditions, and from mice exposed to chronic hyperoxia for 14 days and analyzed at P7 (acute injury) and P21(recovery). Flow cytometry to detect CAR4 and CD31 was utilized to analyze aerocyte abundance. Deep, platebased single cell RNA sequencing (scRNA-Seq) was performed via SmartSeq2. Differentially expressed genes (DEGs) were subjected to pathway analysis using Metascape. Result(s): In the embryonic lung, aerocytes represented only 1% of total lung EC. At birth, aerocyte abundance markedly increased, comprising 18% of lung EC at P1, and 27% by P7. Exposure to chronic hyperoxia increased aerocyte abundance from 22.5 to 36.3 at P7 and 25.3 to 38.8 at P14 via FACS (p value less than 0.001, n =3-4). Upon recovery, aerocytes remained elevated at 29% in P21 mice exposed to hyperoxia vs. 11% in control mice (P=0.04, n=3). In normoxia, most aerocytes were distinguished from general capillary EC (gCAP) by unique markers. However, in hyperoxia recovery, cells exhibiting an intermediate phenotype (iCAP) characterized by a combination of aCAP (e.g. Car4, Ednrb, and Igfbp7) and gCAP marker genes (e.g. Kit and Plvap), increased from 6% to 10%. Pathway analysis of DEGs in hyperoxia-exposed aerocytes identified an enrichment of up-regulated genes related to ATP synthesis and aerobic metabolism and down-regulation of caveola assembly, semaphorin signaling, and migration at P7. Upon recovery, these same metabolic pathways were down-regulated, and up-regulated pathways included positive regulation of angiogenesis and cell migration. Conclusion(s): Aerocyte abundance markedly increases after birth coinciding with the transition from the hypoxic fetal environment to the normoxic prenatal environment. Postnatal hyperoxia increases aerocyte abundance, and alters genes important for metabolism, migration, and cell guidance. Taken together, these preliminary data suggest that physiologic stimuli at birth (e.g. hyperoxia, cyclic stretch, blood flow) may be important drivers of aerocyte speciation and highlight the sensitivity of aerocytes to injury.
+LB  - Included by both
+ER  -
+TY  - JFULL
+DB  - Ovid MEDLINE(R) <2019>
+TI  - Acid Sphingomyelinase Inhibition Attenuates Cell Death in Mechanically Ventilated Newborn Rat Lung.
+DO  - https://dx.doi.org/10.1164/rccm.201803-0583OC
+AU  - Yeganeh, Behzad
+AU  - Lee, Joyce
+AU  - Bilodeau, Claudia
+AU  - Lok, Irene
+AU  - Ermini, Leonardo
+AU  - Ackerley, Cameron
+AU  - Caniggia, Isabella
+AU  - Tibboel, Jeroen
+AU  - Kroon, Andre
+AU  - Post, Martin
+Y1  - 2019//
+N1  - Comment in (CIN)
+KW  - Animals
+KW  - Animals, Newborn
+KW  - *Cell Death/de [Drug Effects]
+KW  - *Epithelial Cells/de [Drug Effects]
+KW  - Humans
+KW  - *Infant, Newborn/ph [Physiology]
+KW  - *Lung/me [Metabolism]
+KW  - Models, Animal
+KW  - Rats
+KW  - *Respiration, Artificial
+KW  - *Sphingomyelin Phosphodiesterase/me [Metabolism]
+T2  - American journal of respiratory and critical care medicine
+VL  - 199
+IS  - 6
+SN  - 1073-449X
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med16&NEWS=N&AN=30326731
+AD  - United States
+AB  - RATIONALE: Premature infants subjected to mechanical ventilation (MV) are prone to lung injury that may result in bronchopulmonary dysplasia. MV causes epithelial cell death and halts alveolar development. The exact mechanism of MV-induced epithelial cell death is unknown., OBJECTIVES: To determine the contribution of autophagy to MV-induced epithelial cell death in newborn rat lungs., METHODS: Newborn rat lungs and fetal rat lung epithelial (FRLE) cells were exposed to MV and cyclic stretch, respectively, and were then analyzed by immunoblotting and mass spectrometry for autophagy, apoptosis, and bioactive sphingolipids., MEASUREMENTS AND MAIN RESULTS: Both MV and stretch first induce autophagy (ATG 5-12 [autophagy related 5-12] and LC3B-II [microtubule-associated proteins 1A/1B light chain 3B-II] formation) followed by extrinsic apoptosis (cleaved CASP8/3 [caspase-8/3] and PARP [poly(ADP-ribose) polymerase] formation). Stretch-induced apoptosis was attenuated by inhibiting autophagy. Coimmunoprecipitation revealed that stretch promoted an interaction between LC3B and the FAS (first apoptosis signal) cell death receptor in FRLE cells. Ceramide levels, in particular C16 ceramide, were rapidly elevated in response to ventilation and stretch, and C16 ceramide treatment of FRLE cells induced autophagy and apoptosis in a temporal pattern similar to that seen with MV and stretch. SMPD1 (sphingomyelin phosphodiesterase 1) was activated by ventilation and stretch, and its inhibition prevented ceramide production, LC3B-II formation, LC3B/first apoptosis signal interaction, caspase-3 activation, and, ultimately, FLRE cell death. SMPD1 inhibition also attenuated ventilation-induced autophagy and apoptosis in newborn rats., CONCLUSIONS: Ventilation-induced ceramides promote autophagy-mediated cell death, and identifies SMPD1 as a potential therapeutic target for the treatment of ventilation-induced lung injury in newborns.
+LB  - Included by Other
+ER  -

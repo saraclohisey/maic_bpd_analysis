@@ -1,0 +1,12 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Cacnb4,ENSG00000182389,ortholog_one2one,98.2692,99.0385
+Arhgap15,ENSG00000075884,ortholog_one2one,86.3158,92
+Acvr1,ENSG00000115170,ortholog_one2one,98.4283,99.4106
+Ccdc14,ENSG00000175455,ortholog_one2one,64.8619,77.1271
+Mgat4a,ENSG00000071073,ortholog_one2one,93.6449,97.1963
+Cop1,ENSG00000143207,ortholog_one2one,97.8112,98.0848
+Tnn,ENSG00000067445,ortholog_one2one,70.2306,79.2453
+Tgfbr3,ENSG00000069702,ortholog_one2one,81.4336,89.6592
+Mycn,ENSG00000134323,ortholog_one2many,85.1293,89.0086
+Cacybp,ENSG00000116161,ortholog_one2one,93.4211,96.9298
+Fanc1,error - retries exceeded,,,

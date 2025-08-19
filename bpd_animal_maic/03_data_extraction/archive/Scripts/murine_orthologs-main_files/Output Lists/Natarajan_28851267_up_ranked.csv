@@ -1,0 +1,11 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Ifi205,ENSG00000163563,ortholog_one2many,39.312,55.0369
+Serpina3n,ENSG00000196136,ortholog_one2many,60.9929,76.3593
+Ccdc85b,ENSG00000175602,ortholog_one2one,98.5149,98.5149
+Abcb1b,ENSG00000085563,ortholog_one2many,80.1562,90.1562
+Fmo3,ENSG00000007933,ortholog_one2one,79.5113,91.9173
+Ch25h,ENSG00000138135,ortholog_one2one,77.9412,85.2941
+Chi3l3,ENSG00000134216,ortholog_one2many,56.5126,67.6471
+Ankrd1,ENSG00000148677,ortholog_one2one,90.2821,94.9843
+Ptgs2,ENSG00000073756,ortholog_one2one,86.755,93.2119
+Mmp3,ENSG00000149968,ortholog_one2one,77.1488,87.0021

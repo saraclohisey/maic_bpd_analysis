@@ -1,0 +1,43 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Gm15056,not found,,,
+Abca8a,not found,,,
+Rnase2a,ENSG00000169397,ortholog_many2many,46.875,58.125
+Rnase2a,ENSG00000169385,ortholog_many2many,45.3416,60.2484
+Saa1,not found,,,
+Serpina3m,ENSG00000196136,ortholog_one2many,60.2837,74.2317
+Lcp1,ENSG00000136167,ortholog_one2one,96.9697,99.2026
+Adcy7,ENSG00000121281,ortholog_one2one,83.0556,88.2407
+Gsta13,not found,,,
+Mff,ENSG00000168958,ortholog_one2one,94.8454,96.9072
+Snx14,ENSG00000135317,ortholog_one2one,96.5116,97.9915
+Csf3,ENSG00000108342,ortholog_one2one,73.5294,79.4118
+Slc4a5,ENSG00000188687,ortholog_one2one,90.5442,94.38
+Ap3m2,ENSG00000070718,ortholog_one2one,98.3254,99.2823
+Cadps2,ENSG00000081803,ortholog_one2one,95.8333,97.9938
+Gpr84,not found,,,
+Cxcl2,ENSG00000163734,ortholog_one2many,59.8131,72.8972
+Cxcl3,ENSG00000163734,ortholog_one2many,52.3364,66.3551
+Lcn2,ENSG00000148346,ortholog_one2one,57.5758,73.7374
+Orm1,ENSG00000228278,ortholog_many2many,47.2637,63.1841
+Orm1,ENSG00000229314,ortholog_many2many,49.2537,67.6617
+Stfa3,ENSG00000121552,ortholog_one2many,59.1837,75.5102
+Cobl,ENSG00000106078,ortholog_one2one,66.931,77.3989
+Mt2,not found,,,
+Ces1e,not found,,,
+Scn3a,ENSG00000153253,ortholog_one2one,94.75,96.1
+Stmn2,ENSG00000104435,ortholog_one2one,100,100
+Vsnl1,ENSG00000163032,ortholog_one2one,100,100
+Trim16,ENSG00000221926,ortholog_one2one,76.9504,84.9291
+Abcc9,ENSG00000069431,ortholog_one2one,96.5784,97.7405
+Reps2,ENSG00000169891,ortholog_one2one,85.6061,89.3939
+Fat3,ENSG00000165323,ortholog_one2one,91.9372,96.2083
+Saa3,not found,,,
+Colq,ENSG00000206561,ortholog_one2one,90.989,94.5055
+Plekha6,ENSG00000143850,ortholog_one2one,92.0802,95.8969
+Scgb3a2,ENSG00000164265,ortholog_one2one,70.9677,83.871
+Faim2,ENSG00000135472,ortholog_one2one,92.0886,95.5696
+Ikbke,ENSG00000263528,ortholog_one2one,83.3799,91.2011
+Tbc1d14,ENSG00000132405,ortholog_one2one,90.6205,95.671
+Fkbp5,ENSG00000096060,ortholog_one2one,86.8709,91.4661
+Map3k12,ENSG00000139625,ortholog_one2one,95.9641,97.1973
+Pmp22,ENSG00000176894,ortholog_one2one,74.359,85.1282

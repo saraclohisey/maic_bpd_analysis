@@ -1,0 +1,11 @@
+Rat Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Col3a1,ENSG00000168542,ortholog_one2one,90.382,94.7476
+Ipmk,ENSG00000151151,ortholog_one2one,82.4519,88.4615
+Mfng,ENSG00000100060,ortholog_one2one,82.5545,88.4735
+Nop58,ENSG00000055044,ortholog_one2one,96.0302,97.5425
+Fndc3b,ENSG00000075420,ortholog_one2one,93.0233,96.3455
+Tbcel,ENSG00000154114,ortholog_one2one,96.934,99.5283
+Taok2,ENSG00000149930,ortholog_one2one,91.5789,94.251
+Taok2,ENSG00000149930,ortholog_one2one,91.5789,94.251
+Galnt18,ENSG00000110328,ortholog_one2one,98.1878,99.1763
+Wnk1,ENSG00000060237,ortholog_one2one,86.0621,89.9244

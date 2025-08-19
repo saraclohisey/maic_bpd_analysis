@@ -1,0 +1,11 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Rhox5,not found,,,
+Fxyd4,ENSG00000150201,ortholog_one2one,66.2921,76.4045
+Mas1,ENSG00000130368,ortholog_one2one,90.1538,94.7692
+Col22a1,not found,,,
+Zbtb16,ENSG00000109906,ortholog_one2one,96.7311,97.6226
+Hapln2,ENSG00000132702,ortholog_one2one,91.4706,93.8235
+TCerg1l,ENSG00000176769,ortholog_one2one,80.0341,86.1775
+Adra2a,ENSG00000150594,ortholog_one2one,92.4731,94.1936
+Slc22a2,ENSG00000112499,ortholog_one2one,83.0631,90.0901
+Gnb3,ENSG00000111664,ortholog_one2one,97.0588,98.5294

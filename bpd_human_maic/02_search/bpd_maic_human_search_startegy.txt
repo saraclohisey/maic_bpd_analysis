@@ -1,0 +1,10 @@
+1.	"Bronchopulmonary Dysplasia*".ti,ab,kf,kw.
+2.	"Respiratory Distress Syndrome, Newborn*".ti,ab,kf,kw.		
+3.	"Hyaline Membrane Disease*".ti,ab,kf,kw.		
+4.	1 or 2 or 3		
+5.	"gene*".mp.		
+6.	"genome*".mp.		
+7.	"transcript*".mp.		
+8.	"protein*".mp.		
+9.	5 or 6 or 7 or 8		
+10.	4 and 9

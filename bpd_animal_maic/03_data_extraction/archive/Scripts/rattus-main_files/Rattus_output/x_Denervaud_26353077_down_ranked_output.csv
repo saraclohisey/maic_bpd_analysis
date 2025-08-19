@@ -1,0 +1,43 @@
+Rat Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+RGD1307225,not found,,,
+Scube2,ENSG00000175356,ortholog_one2one,85.3113,88.716
+Opcml,ENSG00000183715,ortholog_one2one,94.0828,95.858
+Mdga2,ENSG00000139915,ortholog_one2one,92.0976,92.8781
+Ccdc3,ENSG00000151468,ortholog_one2one,89.2593,92.2222
+Galntl1,ENSG00000100626,ortholog_one2one,96.0574,97.8495
+Adamts5,ENSG00000154736,ortholog_one2one,90.5376,92.4731
+Cd109,ENSG00000156535,ortholog_one2one,69.6194,82.699
+Thsd7b,ENSG00000144229,ortholog_one2one,85.6787,91.9054
+Unc79,ENSG00000133958,ortholog_one2one,93.72,95.7148
+Mypn,not found,,,
+Pdgfrl,ENSG00000104213,ortholog_one2one,90.4,96.2667
+Cyp2e1,ENSG00000130649,ortholog_one2one,78.9047,92.6978
+Fam3b,ENSG00000183844,ortholog_one2one,74.8936,84.2553
+Nox4,ENSG00000086991,ortholog_one2one,84.9481,90.8305
+Trpc3,ENSG00000138741,ortholog_one2one,93.3768,95.2226
+Mark1,ENSG00000116141,ortholog_one2one,94.3396,96.9811
+Rrad,ENSG00000166592,ortholog_one2one,91.5584,94.1558
+LRRTM1,ENSG00000162951,ortholog_one2one,96.5517,97.8927
+LOC501110,not found,,,
+LOC499279,ENSG00000175018,ortholog_one2one,63.9785,73.6559
+Cilp,ENSG00000138615,ortholog_one2one,89.4426,94.0878
+Bex4,ENSG00000102409,ortholog_one2one,60.8333,76.6667
+Kcnj5,ENSG00000120457,ortholog_one2one,93.7947,96.42
+Ostn,ENSG00000188729,ortholog_one2one,73.6842,81.9549
+Esr1,ENSG00000091831,ortholog_one2one,89.2437,93.7815
+Rab3b,ENSG00000169213,ortholog_one2one,95.4338,98.6301
+Lppr1,ENSG00000148123,ortholog_one2one,96.3077,98.4615
+Olr1708,not found,,,
+Olr1710,not found,,,
+Atp1a2,ENSG00000018625,ortholog_one2one,98.2353,98.9216
+Olr1704,not found,,,
+Olr1707,not found,,,
+Olr5,error - retries exceeded,,,
+RGD1312005,ENSG00000186367,ortholog_one2one,81.0526,87.8947
+LOC308670,error - retries exceeded,,,
+Rbp7,ENSG00000162444,ortholog_one2one,67.9104,76.8657
+Olr1418,ENSG00000182783,ortholog_many2many,71.746,82.8571
+RGD1560314,error - retries exceeded,,,
+Mmp12,ENSG00000262406,ortholog_one2one,62.9787,76.383
+Clic2,ENSG00000155962,ortholog_one2one,91.9028,94.7368
+Etnk2,ENSG00000143845,ortholog_one2one,39.1192,41.1917

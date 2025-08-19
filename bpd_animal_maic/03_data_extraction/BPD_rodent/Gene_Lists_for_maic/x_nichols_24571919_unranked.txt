@@ -1,0 +1,11 @@
+GWAS
+Nichols_24571919	
+UNRANKED	
+NAMED_GENES
+mouse
+Chrm2
+Mgmt
+Cyp2j9
+Cyp2j5
+Cyp2j11
+Cyp2j6

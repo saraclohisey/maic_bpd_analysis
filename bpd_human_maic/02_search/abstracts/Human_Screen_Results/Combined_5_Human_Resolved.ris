@@ -1,0 +1,811 @@
+TY  - RPRT
+TI  - The urinary metabolome and bronchopulmonary dysplasia in preterm infants treated with inhaled nitric oxide
+T2  - American Journal of Respiratory and Critical Care Medicine
+AD  - D.G. Torgerson, Human Genetics, McGill University and Genome Quebec Innovation Center, Montreal, QC, Canada. E-mail: dara.torgerson@me.com
+AU  - Torgerson D.G.
+AU  - Keller R.
+AU  - Ballard R.
+AU  - Ballard P.
+VL  - 199
+IS  - 9
+SP -
+SN  - 1535-4970
+AB  - Rationale: Recent findings suggest that inhaled nitric oxide (iNO) decreases bronchopulmonary dysplasia (BPD) in preterm infants of maternal Black/African American race/ethnicity (AA) but not in infants of maternal non-Hispanic White race (White). We assessed whether inhaled NO therapy and the development of BPD is characterized by changes in the urinary metabolome, and whether changes in the metabolome correlate with genetic ancestry independent of race/ethnicity. Method(s):Using 171 preterm infants of three racial/ethnic groups from the Trial of Late Surfactant Study (TOLSURF), global metabolic profiles were measured on urine collected at study entry prior to iNO initiation (6-14 days postnatal age, off iNO) and again after receiving iNO at 20, 10 and 5 ppm (23-30 days postnatal age). Continental genomic ancestry was inferred from genome-wide SNP genotypes. Changes in individual metabolites (Metabolon, Inc.) were assessed using ANOVA, and shifts in the global metabolome were evaluated using a principal component analysis and random forests. Changes in metabolites that correlate with levels of African genomic ancestry were examined using linear regression adjusting by race/ethnicity, and a sensitivity analysis was performed within each racial/ethnic group. Result(s): We detected 1033 different biochemicals, of which 262 varied by postnatal age, 208 by race/ethnicity, and 52 by BPD at 36 weeks PMA (p<0.05). In AA but not White infants, BPD cases had significantly decreased levels of 3 neurotransmitters (histamine, N-acetylhistamine, serotonin with BPD Yes/No ratios of 0.20, 0.81, 0.63) and increased cystine and cysteine sulfinic acid (1.29, 1.29). Comparing time point 2 vs 1, levels of kynurenate, an inflammatory metabolite of typtophan, were significantly reduced in BPD infants of all racial/ethnic groups (0.63-0.81); in AA but not White infants, cysteine and metabolites were reduced in BPD infants (0.51-0.70), and polyamines (putrecine, spermidine, 4.43, 1.46) were increased in No BPD infants. African genomic ancestry was significantly correlated with increased levels of the xenobiotic 4-methylbenzenesulfonate following iNO therapy (p=4.6x10-6). Conclusion(s):In a cohort of high-risk premature infants, we identified individual urinary metabolites and pathways that were associated with the development of BPD in the context of iNO therapy, with several occurring in AA but not White infants. Our findings implicate differences in metabolism by race/ethnicity and African genetic ancestry that may contribute to respiratory outcome, and are consistent with observed epidemiological data on rates of BPD following iNO treatment.
+Y1  - 2019//
+KW  - adverse drug reaction
+KW  - analysis of variance
+KW  - clinical assessment
+KW  - controlled study
+KW  - drug therapy
+KW  - ethnic group
+KW  - ethnicity
+KW  - female
+KW  - genetic susceptibility
+KW  - genotype
+KW  - human
+KW  - human tissue
+KW  - infant
+KW  - linear regression analysis
+KW  - *lung dysplasia
+KW  - major clinical study
+KW  - male
+KW  - *metabolome
+KW  - *prematurity
+KW  - principal component analysis
+KW  - race
+KW  - random forest
+KW  - sensitivity analysis
+KW  - side effect
+KW  - single nucleotide polymorphism
+KW  - cysteine
+KW  - cysteine sulfinic acid
+KW  - cystine
+KW  - histamine
+KW  - kynurenic acid
+KW  - multienzyme complex
+KW  - neurotransmitter
+KW  - *nitric oxide
+KW  - serotonin
+KW  - spermidine
+KW  - surfactant
+KW  - unclassified drug
+KW  - xenobiotic agent
+KW  - conference abstract
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2019.199.1_MeetingAbstracts.A4268
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=630349980
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 613885626
+TI  - The epigenome of the lung development among preterm newborns
+AU  - Spadafora R.
+AU  - Baudeaux A.
+AU  - Shi Y.
+AU  - Lerou P.
+Y1  - 2016//
+KW  - chromatin immunoprecipitation
+KW  - chromatin structure
+KW  - clinical article
+KW  - enhancer region
+KW  - *epigenetics
+KW  - fetus lung maturation
+KW  - gene expression regulation
+KW  - human
+KW  - *lung development
+KW  - microenvironment
+KW  - morbidity
+KW  - pregnancy
+KW  - *prematurity
+KW  - promoter region
+KW  - topography
+KW  - endogenous compound
+KW  - histone
+T2  - European Journal of Pediatrics
+LA  - English
+VL  - 175
+IS  - 11
+PB  - Springer Verlag
+SN  - 1432-1076
+AD  - R. Spadafora, Brigham and Women's Hospital, Harvard Medical School, Pediatrics and Newborn Medicine, Boston, United States
+DO  - https://dx.doi.org/10.1007/s00431-016-2785-8
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed17&NEWS=N&AN=613885626
+AB  - Background and aims Bronchopulmonary Dysplasia (BPD) is caused by a combination of environmental stressors and a component of inheritability that seems to elude Mendelian inheritance mechanisms, suggesting the possibility that BPD has epigenetic origins. We suggest the use of Mesenchymal stem cells (LMSCs), derived from tracheal aspirates of intubated preterm newborns, to determine the transcriptome profile at different stages of lung development. We will also compare the chromatin landscape of patientderived LMSCs with stillborn-derived LMSCs. Our hypothesis is that genes, involved in lung development, are subjected to an environmental reprogramming process, through changes in their chromatin structure, that leads to altered gene expression and ultimately to a pathological lung. Methods Rna-Seq will be performed on patients-derived LMSCs (n=16) collected as previously reported from intubated preterm newborns at different weeks of gestation; stillborn-derived LMSCs have been purchased (n=4). Whole genome Promoters and Enhancers topography will be obtained performing ChIP-Seq for specific histone marks as previously described. Results Preliminary results show that LMSCs coherently express specific genes in accord with the stage of lung development, suggesting that these cells reflect the lung microenvironment they belong to. As expected, patientsderived LMSCs present altered expression of several genes involved in lung maturation, possibly reflecting the impact of prematurity on their regulation. Conclusions For their tissue and age-specificity LMSCs appears to be a powerful system to study the molecular aspects of the preterm lung. Promoters and enhancers genomic analysis of these lines may provide novel insights about the role that chromatin plays in preterm lung morbidities and in its altered development.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 622967894
+TI  - Signature of top omic profile in bronchopulmonary dysplasia (STOP BPD)
+AU  - Lal C.V.
+AU  - Olave N.
+AU  - Ambalavanan N.
+Y1  - 2018//
+KW  - clinical outcome
+KW  - controlled study
+KW  - extremely low birth weight
+KW  - female
+KW  - gene expression
+KW  - human
+KW  - human tissue
+KW  - infant
+KW  - liquid chromatography-mass spectrometry
+KW  - *lung dysplasia
+KW  - major clinical study
+KW  - male
+KW  - outcome assessment
+KW  - plasma
+KW  - prediction
+KW  - prematurity
+KW  - prevention
+KW  - primary prevention
+KW  - protein expression
+KW  - proteomics
+KW  - serum
+KW  - signal transduction
+KW  - trachea
+KW  - tracheal aspiration procedure
+KW  - urine sampling
+KW  - caveolin 1
+KW  - chemokine receptor CXCR4
+KW  - DNA (cytosine 5) methyltransferase 1
+KW  - endogenous compound
+KW  - endothelin 1
+KW  - epidermal growth factor receptor 2
+KW  - Hermes antigen
+KW  - hypoxia inducible factor 1alpha
+KW  - I kappa B kinase beta
+KW  - insulin
+KW  - interleukin 11
+KW  - macrophage migration inhibition factor
+KW  - messenger RNA
+KW  - microRNA
+KW  - peroxiredoxin 1
+KW  - platelet derived growth factor alpha receptor
+KW  - serine proteinase
+KW  - serine proteinase inhibitor
+KW  - sirtuin 1
+KW  - Smad4 protein
+KW  - somatomedin C receptor
+KW  - STAT5a protein
+KW  - stromelysin
+KW  - transcription factor Sox9
+KW  - transforming growth factor beta
+KW  - vasculotropin A
+KW  - conference abstract
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 197
+IS  - MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - C.V. Lal, Pediatrics, University of Alabama at Birmingham, Birmingham, AL, United States. E-mail: clal@peds.uab.edu
+UR  - https://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A7391
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=622967894
+AB  - Rationale: The overall objective of our study "STOP BPD" (Signature of Top Omic Profiles in Bronchopulmonary Dysplasia) was to prospectively define and validate clinical and "omic" signatures associated with resilience against, or risk for development of BPD, with the goal of informing the development of primary prevention strategies for BPD. Method(s): 230 extremely low birth weight (ELBW) infants were enrolled at birth. Blood/serum, tracheal aspirates and urine samples were collected within 72 hours of life. Patients were divided into four groups based on NIH BPD clinical prediction tool, and actual clinical outcomes: No BPD Concordant (Predicted to have no BPD and developed no BPD), No BPD Discordant (Predicted to have severe BPD but developed no BPD), Severe BPD Concordant (Predicted to have severe BPD, and developed severe BPD) and Severe BPD Discordant (Predicted to have no BPD, but who develop Severe BPD). In phase 1, we analyzed plasma samples collected within first 72 hours of birth for mRNA by AmpliSeq, miRNA by small RNASeq and Proteomics by Liquid chromatography-mass spectrometry (LC/MS). Result(s): A very distinct serum miRNA profile differentiated Severe BPD versus No BPD. Top miRNA in severe BPD vs no BPD was hsa-miR10a-5p (Fold change 0.6, p 0.026) which has predicted targets of HIF1A, LTGB1, CXCR4, STAT5a, DNMT1, MMP3, CDH1, EYA1, ERBB2, MIF etc. Top signaling pathways affected were PDGFR alpha, aSMA, IL-11, VEGFA, Insulin/IGF1R and AR. In No BPD Discordant versus Severe BPD Discordant infants, top differentially expressed miRNA included hsa-miR10a-5p, miR-548ar-5p, miR-448g-5p, miR-449c, miR-199a, miR-30a. Predicted targets were IkBKB, JunB, DDR1, EDN1, HIF1A, SOX9, SMAD4, CD44, ERBB2, CAV1, SIRT1, TGF Beta etc. Proteomic Analysis: Serine Protease Inhibitors were reduced in severe BPD. Distinct protein network differences (such as IGF, CRP, Prdx-1 and serine peptidase inhibitors) were seen in No BPD Discordant vs. Severe BPD Discordant infants. An 'integrated' omic analysis increased the AUC of the NICHD BPD clinical predictor by 10%. Conclusion(s): An integrated omic approach at birth in ELBW infants differentiates the 'predisposition to' or the 'resilience against' development of severe BPD. These findings may help in informing the development of early personalized prevention strategies for BPD in extremely preterm infants.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 626625020
+TI  - Protein signature stratifies severity of chronic lung disease in preterms after birth
+AU  - Dunjko A.K.
+AU  - Foerster K.
+AU  - Flemmer A.
+AU  - Oak P.
+AU  - Pomschar A.
+AU  - Wagner B.E.
+AU  - Krumsiek J.
+AU  - Hilgendorff A.
+Y1  - 2018//
+KW  - *chronic lung disease
+KW  - clinical article
+KW  - controlled study
+KW  - diagnosis
+KW  - female
+KW  - gender
+KW  - gestational age
+KW  - heart
+KW  - hospitalization
+KW  - human
+KW  - human tissue
+KW  - infection
+KW  - inflammation
+KW  - lung blood flow
+KW  - lung dysplasia
+KW  - machine learning
+KW  - male
+KW  - monitoring
+KW  - nuclear magnetic resonance imaging
+KW  - plasma
+KW  - prematurity
+KW  - protein expression
+KW  - respiratory distress
+KW  - risk factor
+KW  - sampling
+KW  - tissue injury
+KW  - biological marker
+KW  - conference abstract
+T2  - European Respiratory Journal
+LA  - English
+VL  - 52
+IS  - Supplement 62
+SP  -
+PB  - European Respiratory Society
+SN  - 1399-3003
+AD  - A.K. Dunjko
+UR  - https://erj.ersjournals.com/content/52/suppl_62/OA300
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=626625020
+DO  - https://dx.doi.org/10.1183/13993003.congress2018.OA300
+AB  - The majority of the extremely premature infants are affected by the development of chronic lung disease, i.e. bronchopulmonary dysplasia (BPD). Driven by the exposure to mechanical ventilation and oxygen treatment after birth as well as preand postnatal infections, disease incidence steadily increases with improved survival rates (Rivera, L et al., Front. Pediatr., 2016). In order to possibly alleviate the debilitating and lifelong consequences especially of severe BPD, treatment of atrisk premature infants is needed as early as possible. Since BPD is diagnosed late in a premature neonate's hospital stay, we used highend protein screening in early plasma samples (n=30 infants, sampling day of life 17) to identify early biomarkers. Machine learning approaches were used to define a set of proteins associated with disease severity of later BPD. In particular, controls and mild BPD cases were separated well from moderate and severe cases by a characteristic protein signature together with the known risk factors gestational age, gender and early infections. The identified proteins were attributed to inflammation and cardiac strain as well as coagulation activation (extrinsic pathway), the latter mirroring tissue injury. The differential protein expression was driven by postnatal injury but not the degree of acute respiratory distress. Further associations of the protein signature was shown with imaging markers (lung MRI), i.e. indicators of interstitial remodeling and altered pulmonary blood flow. In conclusion, moderate and severe BPD can be separated from mild cases and controls by characteristic protein expression, allowing for early individualized treatment and monitoring..
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 622967725
+TI  - Monocyte/Macrophage populations evolve in tracheal samples from patients at risk for bronchopulmonary dysplasia
+AU  - Eldredge L.C.
+AU  - Creasy R.S.
+AU  - Juul S.E.
+AU  - Mayock D.E.
+AU  - Ziegler S.F.
+Y1  - 2018//
+KW  - assisted ventilation
+KW  - B lymphocyte
+KW  - basophil
+KW  - case report
+KW  - CD3+ T lymphocyte
+KW  - cell count
+KW  - cell selection
+KW  - child
+KW  - clinical article
+KW  - eosinophil
+KW  - female
+KW  - gene expression
+KW  - genetic transcription
+KW  - human
+KW  - human cell
+KW  - human tissue
+KW  - infant
+KW  - inflammation
+KW  - *lung dysplasia
+KW  - *macrophage
+KW  - male
+KW  - modulation
+KW  - *monocyte
+KW  - natural killer cell
+KW  - neutrophil
+KW  - pilot study
+KW  - pregnancy
+KW  - prematurity
+KW  - prospective study
+KW  - protein expression
+KW  - real time polymerase chain reaction
+KW  - *trachea
+KW  - tracheal aspiration procedure
+KW  - Washington
+KW  - biological marker
+KW  - carcinoembryonic antigen related cell adhesion molecule 1
+KW  - CD16 antigen
+KW  - endogenous compound
+KW  - inducible nitric oxide synthase
+KW  - interleukin 10
+KW  - interleukin 12p35
+KW  - interleukin 7 receptor
+KW  - mannose receptor
+KW  - oxygen
+KW  - sialic acid binding immunoglobulin like lectin
+KW  - transcriptome
+KW  - conference abstract
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 197
+IS  - MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - L.C. Eldredge, Pediatric Pulmonology, Seattle Childrens Hospital, University of Washington, Seattle, WA, United States. E-mail: lauriech@uw.edu
+UR  - https://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A7385
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=622967725
+AB  - Introduction: Infants with Bronchopulmonary Dysplasia (BPD) have pulmonary inflammation from multiple sources including oxygen exposure. Pro- and anti-inflammatory cytokines have been measured in blood and airway lavage samples from BPD patients, but specific roles for inflammatory cells are unclear. We previously demonstrated that M2-like CD11b+ monocytes/macrophage mitigate hyperoxia-induced lung injury as a model of BPD (Eldredge, AJRCMB 2016). In this pilot study, we sought to 1) define evolving monocyte/macrophage populations in lungs of premature infants during the first month of life and 2) identify potential inflammatory biomarkers expressed by these pulmonary monocyte/macrophages to predict BPD. Method(s): Serial tracheal aspirates were prospectively collected from intubated premature infants born at less than 29 weeks gestation and hospitalized at the University of Washington NICU. Samples were collected at day of life (DOL) 0-3, 7-10, 14-17, and 28-31. Monocytes/macrophages were isolated via fluorescent activated cell sorting. RNA was extracted for QPCR and/or RNASeq analyses. BPD was classically defined as oxygen dependence on DOL 28 and classified as mild, moderate, or severe based on level of respiratory support at 36 weeks postmenstrual age. IRB approval was obtained from UW/Seattle Children's Hospital. Result(s): We analyzed 30 samples from 17 patients (of 30 expected enrollment). 2 patients had mild BPD, 2 moderate BPD, 6 severe BPD, and 4 with severity not yet determined. CD3+T cells, CD19+ B cells, Siglec8+ eosinophils, CD15+CD66b+ neutrophils, CD203+ basophils, and CD56+ NK cells were identified and gated out. Two populations of monocyte/macrophages were identified: CD14+CD16- single positive (SP) and CD14+CD16+ double positive (DP). DP cell numbers were greatest at DOL 0-3 (5.08% of CD45+ cells) and at 28-31 (7.1% of CD45+). SP cell number was greatest at DOL 7-10 (22.8% of CD45+). SP and DP cells express M2-like markers IL-10, CD206, and Arg1, whereas M1-like markers Nos2 and IL-12a were undetectable. DP cells express 30-fold more Arg1 than SP. Infants who develop severe BPD may have increased DP cells before DOL 28 than those with milder BPD. SP and DP cells from three infants who subsequently developed severe BPD had unique transcriptional signatures (Table 1, RNASeq). SP cells expressed more IL7R, TGFBI, and IL-10 than DP, and DP expressed more Arg1. Conclusion(s): We identified two M2-like monocyte/macrophage populations in noninvasive tracheal aspirates from patients at risk for BPD. These populations evolve in number and have unique transcriptomes that may impact BPD pathogenesis through modulation of type 2 inflammation. (Table pressented).
+LB  - Included by both
+ER  -
+TY  - RPRT
+TI  - Molecular characterization of tracheal epithelial cells from premature infants with evolving BPD
+T2  - American Journal of Respiratory and Critical Care Medicine
+AD  - L.C. Eldredge, Pediatric Pulmonology, University of Washington, Seattle Children's Hospital, Seattle, WA, United States. E-mail: lauriech@uw.edu
+AU  - Eldredge L.C.
+AU  - Creasy R.S.
+AU  - Debley J.S.
+AU  - Presnell S.
+AU  - Ziegler S.F.
+VL  - 199
+IS  - 9
+SP -
+SN  - 1535-4970
+AB  - Introduction: Bronchopulmonary Dysplasia (BPD) is an inflammatory chronic lung disease with major morbidity for premature infants. We previously demonstrated immunomodulatory roles for monocytes in tracheal aspirates from premature infants in the neonatal period. Cross-talk between pulmonary epithelial cells and innate immune cells in evolving BPD is not well understood. In this study, we characterized the transcriptome of pulmonary epithelial cells from patients at risk for BPD. Method(s): Tracheal aspirates were prospectively collected from intubated premature infants born at less than 29 weeks gestation and hospitalized at the UWNICU. Samples were collected at day of life (DOL) 0-3 (N=2), 7-10 (N=5), 14-17 (N=3), and 28-31 (N=7). BPD was defined as oxygen dependence on DOL 28 and classified as mild, moderate, or severe at 36 weeks postmenstrual age (PMA). CD45-EPCAM+epithelial cells were isolated by FACS for RNASeq analyses. Data analysis was performed with R, using Limma and edgeR packages. Noncoding genes and genes with counts <1 were excluded. Gene Enrichment analyses were performed with Enrichr. In parallel, submerged primary epithelial cell cultures were established from unprocessed tracheal aspirates using selective PneumaCult-EX media. Result(s): 16 samples were analyzed from 9 patients for RNASeq with 1000 CD45-EPCAM+epithelial cells per sample. EPCAM and Vimentin mRNA were highly expressed in these samples. 414 differentially expressed genes were identified between the first and second timepoints. Between DOL 0-3 and 28-31, expression of the IL-33 receptor ST2 decreased by 65-fold, and expression of IL-20RA and IL-13 RA2 increased by 271-fold and 88-fold, respectively. In addition to differences in cytokine signaling, we identified decreases in epithelial structural gene expression including DSG3 (135-fold), COL5A1 (146-fold), KRT6A (59-fold), and KRT14 (22-fold). Two GOBP processes implicated in comparisons of DOL 0-3 and 28-31 samples are cilium movement (p=4.74x10-9, q=8.65x10-6) and cilium assembly (p=1.03x10-5, q=6.29x10-3). In primary epithelial cultures from the tracheal aspirates, nearly 100% of cells were positive for EPCAM, and approximately 30% co-expressed vimentin. All study patients were diagnosed with moderate to severe BPD at 36 weeks PMA. Conclusion(s): To our knowledge, this is the first molecular characterization and establishment of primary epithelial cell cultures from human premature infants at risk for BPD. We identified several immunomodulatory (IL-33, IL-13, IL-20), structural (KRT6A, KRT14, COL5A1, DSG3), and functional (cilia) pathways of interest with changes in mRNA expression over the first month of life. Future studies will include epithelial-monocyte coculture experiments to study paracrine signaling in premature infants at risk for BPD. (Figure Preseted) .
+Y1  - 2019//
+KW  - adult
+KW  - chronic lung disease
+KW  - ciliary motility
+KW  - clinical article
+KW  - coculture
+KW  - controlled study
+KW  - data analysis
+KW  - *epithelium cell
+KW  - female
+KW  - flow cytometry
+KW  - human
+KW  - human cell
+KW  - human tissue
+KW  - lung dysplasia
+KW  - male
+KW  - monocyte
+KW  - paracrine signaling
+KW  - pregnancy
+KW  - *prematurity
+KW  - prospective study
+KW  - protein expression
+KW  - signal transduction
+KW  - structural gene
+KW  - tracheal aspiration procedure
+KW  - cytokeratin 14
+KW  - endogenous compound
+KW  - epithelial cell adhesion molecule
+KW  - interleukin 1 receptor like 1 protein
+KW  - interleukin 13
+KW  - interleukin 13 receptor alpha2
+KW  - interleukin 20
+KW  - interleukin 33
+KW  - messenger RNA
+KW  - oxygen
+KW  - receptor type tyrosine protein phosphatase C
+KW  - transcriptome
+KW  - vimentin
+KW  - conference abstract
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2019.199.1_MeetingAbstracts.A4263
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed20&NEWS=N&AN=630349694
+LB  - Included by Sara
+ER  -
+TY  - RPRT
+TI  - Lymphocyte expression biomarkers of chronic lung diseases following preterm birth
+T2  - American Journal of Respiratory and Critical Care Medicine
+AD  - S. Bhattacharya, University of Rochester, Rochester, NY, United States. E-mail: soumyaroop_bhattacharya@urmc.rochester.edu
+AU  - Bhattacharya S.
+AU  - Mereness J.
+AU  - Baran A.
+AU  - Misra R.S.
+AU  - Slaunwhite C.
+AU  - Huyck H.
+AU  - Bandyopadhyay S.
+AU  - Holden-Wiltse J.
+AU  - Peterson D.R.
+AU  - Ryan R.M.
+AU  - Reynolds A.-M.
+AU  - Pryhuber G.S.
+AU  - Mariani T.J.
+VL  - 195
+SP -
+SN  - 1535-4970
+AB  - Rationale: Prematurely born infants often develop bronchopulmonary dysplasia (BPD) in the neonatal intensive care unit (NICU) and persistent respiratory disease (PRD) over the first year of life. However, robust biomarkers capable of stratifying risk for individual subjects are lacking. Recent studies have identified lymphocyte dysfunction in preterm infants, particularly in those with respiratory morbidity. We hypothesized that analysis of sorted lymphocyte sub-populations could identify predictive markers and pathways associated with respiratory outcomes. Method(s): Transcriptomic profiles were generated from sorted CD8+ T lymphocytes obtained from peripheral blood collected at the time of first hospital discharge, from preterm and full-term infants enrolled in the NHLBI Prematurity and Respiratory Outcomes Program (PROP) at the University of Rochester and the University at Buffalo (n=145). Standard statistical approaches were used to identify gene expression patterns associated with BPD, PRD and other demographic variables. Dimension reduction strategies (supervised PCA, LASSO, pathway stratification), with cross-validation, were applied to identify gene expression predictors for outcome. Ingenuity Pathway Analysis software was used for gene set interpretation. Result(s): Among the subjects at greatest risk for BPD, those born at less than 29 weeks of gestation, (n=72), 501 genes were associated with quantitative oxygen utilization, 571 genes were differentially expressed in subjects receiving a diagnosis of BPD and 105 genes were differentially expressed in subjects who failed a room air challenge. When adjusted for gestational age at birth, 75 genes were associated with the diagnosis of BPD. A set of 92 genes classified the samples according to their BPD diagnosis with a high degree of accuracy (naive AUC=0.86, CV-AUC=0.71).Dysregulation of NRF2, HIPPO and CD40 pathways were consistently associated with BPD. Using gene expression data from all subjects with known PRD status at one year of age (n=116), a set of 34 genes, derived from 5 canonical biological pathways, predicted the PRD status with high level of accuracy (naive AUC=0.84; CV-AUC=0.73). Interestingly, gene predictors of PRD were associated with pathways involving complement activation, organic ion transport and regulation of intracellular actin organization. Summary: Gene expression from peripheral blood lymphocytes can predict respiratory outcomes in preterm infants and provides novel information on disease processes associated with disease states.
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2017.D26
+Y1  - 2017//
+KW  - actin polymerization
+KW  - ambient air
+KW  - buffalo
+KW  - CD8+ T lymphocyte
+KW  - *chronic lung disease
+KW  - complement activation
+KW  - diagnosis
+KW  - disease course
+KW  - drug therapy
+KW  - female
+KW  - gene expression
+KW  - genetic susceptibility
+KW  - gestational age
+KW  - hospital discharge
+KW  - human
+KW  - human tissue
+KW  - infant
+KW  - ion transport
+KW  - lung dysplasia
+KW  - *lymphocyte subpopulation
+KW  - major clinical study
+KW  - male
+KW  - nonhuman
+KW  - peripheral lymphocyte
+KW  - *prematurity
+KW  - software
+KW  - statistical model
+KW  - stratification
+KW  - university
+KW  - validation process
+KW  - CD40 antigen
+KW  - endogenous compound
+KW  - oxygen
+KW  - transcription factor Nrf2
+UR  - http://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2017.195.1_MeetingAbstracts.A7185
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed18&NEWS=N&AN=617710318
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 613884695
+TI  - Genome-wide association study of bronchopulmonary dysplasia
+AU  - Mahlman M.
+AU  - Karjalainen M.K.
+AU  - Huusko J.M.
+AU  - Andersson S.
+AU  - Kari M.A.
+AU  - Tammela O.K.T.
+AU  - Sankilampi U.
+AU  - Lehtonen L.
+AU  - Marttila R.H.
+AU  - Bassler D.
+AU  - Poets C.F.
+AU  - Lacaze-Masmonteil T.
+AU  - Delacourt C.
+AU  - Palotie A.
+AU  - Muglia L.J.
+AU  - Lavoie P.M.
+AU  - Ramet M.
+AU  - Hallman M.
+Y1  - 2016//
+KW  - adult
+KW  - controlled study
+KW  - DNA flanking region
+KW  - gene frequency
+KW  - gene locus
+KW  - gene mutation
+KW  - genetic susceptibility
+KW  - *genome-wide association study
+KW  - gestational age
+KW  - human
+KW  - human tissue
+KW  - inflammation
+KW  - logistic regression analysis
+KW  - *lung dysplasia
+KW  - major clinical study
+KW  - odds ratio
+KW  - plasma
+KW  - prematurity
+KW  - risk factor
+KW  - single nucleotide polymorphism
+KW  - young adult
+T2  - European Journal of Pediatrics
+LA  - English
+VL  - 175
+IS  - 11
+PB  - Springer Verlag
+SN  - 1432-1076
+AD  - M. Mahlman, Oulu UniversityHospital, Department of Children and Adolescents, Oulu, Finland
+DO  - https://dx.doi.org/10.1007/s00431-016-2785-8
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed17&NEWS=N&AN=613884695
+AB  - Background and aims Bronchopulmonary dysplasia (BPD) is a major complication of prematurity. BPD has a significant heritability, but the predisposing genes are insufficiently known. The aim of this study was to identify genetic loci associating to moderate-to-severe BPD by means of a genome-wide association study (GWAS). Methods The initial GWAS was performed on 174 Finnish preterm infants, gestational age 24-30 weeks. The most promising single-nucleotide polymorphisms (SNPs) were genotyped in both Finnish (n = 555) and non-Finnish (n = 388) replication cohorts. Results In GWAS, we detected suggestive association signals (p<10-4) for 29 SNPs. Of them rs11265269, located 44 kb upstream of the CRP gene was the strongest (odds ratio, OR = 3.22, p = 3.43x10-6). This association replicated in Finnish (OR 1.47, p = 0.029) and African (OR = 2.48, p = 0.02) populations. Other SNPs in the CRP region, including rs3093059, had nominal associations with BPD. Levels of plasma CRP during the first week of life associated with rs3093059 (p = 0.05), and with BPD (p < 10-4). In a logistic regression analysis considering the known antenatal risk factors, rs11265269 was identified as a risk factor for BPD (OR 1.82, p = 5.32 x 10-5). Conclusions In a GWAS, rs11265269 upstream of CRP gene revealed suggestive association with BPD. This association was replicated. Plasma CRP associated with BPD and several CRP-upstream SNPs associated with plasma CRP. The rs11265269 was shown to be an independent risk factor of BPD. We propose a role for CRP-associated inflammation in the pathogenesis of BPD.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 620857032
+TI  - Genetic factors predisposing to bronchopulmonary dysplasia. A pilot study by exome sequencing and pathways analysis
+AU  - Somaschini M.
+AU  - Di Resta C.
+AU  - Volonteri C.
+AU  - Castiglioni E.
+AU  - Bonfiglio S.
+AU  - Lazarevic D.
+AU  - Cittaro D.
+AU  - Stupka E.
+AU  - Ferrari M.
+AU  - Carrera P.
+Y1  - 2015//
+KW  - blood
+KW  - consensus
+KW  - female
+KW  - gene mutation
+KW  - *genetic susceptibility
+KW  - genetic variability
+KW  - gestational age
+KW  - human
+KW  - inflammation
+KW  - *lung dysplasia
+KW  - major clinical study
+KW  - male
+KW  - multicenter study
+KW  - newborn
+KW  - next generation sequencing
+KW  - oxidative stress
+KW  - *pilot study
+KW  - prematurity
+KW  - prospective study
+KW  - tissue reaction
+KW  - *whole exome sequencing
+KW  - dipeptidyl carboxypeptidase
+KW  - endogenous compound
+KW  - epoxide hydrolase
+KW  - glutathione transferase P1
+KW  - inducible nitric oxide synthase
+KW  - interstitial collagenase
+KW  - methylenetetrahydrofolate reductase (NADPH2)
+KW  - surfactant
+KW  - surfactant protein D
+KW  - toll like receptor 1
+KW  - toll like receptor 10
+KW  - toll like receptor 2
+KW  - toll like receptor 4
+KW  - toll like receptor 5
+KW  - toll like receptor 6
+KW  - conference abstract
+T2  - Italian Journal of Pediatrics
+LA  - English
+VL  - 41
+IS  - Supplement 1
+SP  -
+PB  - BioMed Central Ltd.
+SN  - 1824-7288
+AD  - M. Somaschini, Unit of Genomics for Diagnosis of Human Pathologies, Division of Genetics and Cell Biology, IRCCS Ospedale San Raffaele, Milano, Italy. E-mail: masomaschini@gmail.com
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed16&NEWS=N&AN=620857032
+AB  - Background: Bronchopulmonary Dysplasia (BPD) is a multifactorial disease with a significant genetic component. Twin studies indicate that heritability of BPD is estimated at 53 to 79% [1]. Association studies have identifiedseveral potential candidate genes encoding components of innate immune and antioxidant defenses, mechanisms of vascular and lung remodeling, matrix remodeling proteins, surfactantproteins [2,3]. We planned a prospective multicentre study aimedto identify rare genetic variants contributing to the BPD phenotypeby exome sequencing using next-generation sequencing (NGS) technology. Material(s) and Method(s): 26 unrelated newborns with a clinicaldiagnosis of severe BPDaccording with NIH Consensus Criteria [4]were selected among a collected cohort of 366premature neonates of European origin with gestational age <= 32 wfrom 12Italiancenters. Genomic DNAwas extracted from peripheral blood and exome sequencing was carried out on an IlluminaHiSeq2000 platform. In order to identify potentially interesting variants related to BPD pathogenesis, we adopted two different strategies: 1) Candidate genes previously associated with BPD in association studies 2) Prioritization analysis based on pathways potentially involved in the pathogenesis of BPD (ToppGene Prioritization tool). Result(s): 1) Candidate genes: we identified a total of 61variants in 19 candidate genes previously associated with BPD and confirmed them with Sanger; 31 are commonpolymorphism, 25 are rare and classified as dbSNPrs with a MAF <0.05and 6 are novel. Considering all the variants, the most mutated genes are those belonging to the TLR-family (TLR10, TLR1, TLR4), to oxidative stress-related genes (EPHX2, MTHFR, EPHX1)and to surfactant metabolism genes (SFTPD, ABCA3).2) Prioritizationanalysis: we decided to focus first on the list of the top 5 genes: TLR1, MMP1, NOS2, CRP and LBP. To evaluate the possible interaction between candidate genes previously associated with BPD and showing variants in our sample(ABCA3, SFTPD, SPOCK2, ACE, MTHFR, EPHX1, EPHX2, TLR5, TLR10, TLR1, TLR6, TLR4, GSTP1, MBL2, TLR10, TLR2) and the top 5 genes (NOS2, TLR1, MMP1, CRP, LBP) highlighted with prioritization analysis we usedString 9.122. The results allow the possibility of a networking with a main focus ongenes involved in inflammation (figure 1) [5]. Conclusion(s): In consideration of the results obtained in this pilot study, we canconclude that our approachmay be interesting to initiate the dissectionof genetic pathogenesis of BPD.Our study indicates that genes regarding inflammatory response and tissue remodeling may be relevant in BPD pathogenesis. These preliminary resultsneed to be confirmed and may contribute in improving knowledge of pathogenesis of BPD and targeting therapeutic interventions. Acknowledgement: We would like to thank the association "Un RespiroNelFuturoOnlus".
+LB  - Included by both
+ER  -
+TY  - RPRT
+TI  - Early biomarkers and magnetic resonance imaging for diagnosing Bronchopulmonary Dysplasia
+T2  - Monatsschrift fur Kinderheilkunde
+AD  - K. Forster, Klinikum der Universitat Munchen, Neonatologie der Kinderklinik am Perinatalzentrum Groshadern, Marchioninistrase 15, Munchen 81377, Germany
+AU  - Forster K.
+AU  - Sass S.
+AU  - Dietrich O.
+AU  - Andreas P.
+AU  - Nahrlich L.
+AU  - Oak P.
+AU  - Schulze A.
+AU  - Flemmer A.
+AU  - Herber-Jonat S.
+AU  - Ehrhardt H.
+AU  - Hubener C.
+AU  - Eickelberg O.
+AU  - Theis F.
+AU  - Ertl-Wagner B.
+AU  - Hilgendorff A.
+VL  - 164
+IS  - 2 Supplement
+SN  - 1433-0474
+AB  - Rationale: Neonatal chronic lung disease, i. e. BPD, determines long-term pulmonary and neurologic development. As to date, the diagnosis is solely stated with respect to its clinical course referring to oxygen dependency on day 28 post partum or at 36 weeks postmenstrual age (PMA). Early markers are urgently needed for timely diagnosis and personalized treatment. Objective(s): The prospective study determined structural and functional changes in the preterm lung at the time of diagnosis and identified early disease markers by proteome screening in plasma in the first week of life. Method(s): 40 preterm infants (27.7 +/- 2.09wks, 984 +/- 332 g) were included for advanced MR imaging (3-Tesla) and complemented by Infant Lung function testing (ILFT) in spontaneously breathing infants. Samples from plasma, tracheal aspirate and urine were processed for proteomic screening. Key findings were confirmed in an independent study cohort (n = 21 infants). Statistical analysis used penalized and Poisson regression analysis for protein analysis confounder effects were subtracted by lasso regression. Long-term follow-up with 2 and 5 years is intended. Result(s): Statistical analysis confirmed a high correlation of MRI and lung function variables and identified a pattern characterizing changes in the lungs of preterm infants by T2- and T1-weighed image analysis and lung volume measurements as well as ILFT. Statistical modelling using the outcome variables 'days of oxygen' or 'days of MV' instead of BPD diagnosis confirmed the analysis indicated above. Functional enrichment analysis showed overrepresentation of the GO categories 'immune function', 'extracellular matrix', 'cellular proliferation/migration', 'organ development' and 'angiogenesis' in infants with BPD. One protein was identified as a potential biomarker. Conclusion(s): We identified a structural pattern characterizing BPD by advanced MRI confirmed by ILFT. The findings reflect the characteristic picture outlined by previous studies of human tissue samples, i. e. the presence of interstitial and emphysematous changes. The identified protein indicated BPD development in the first week of life enabling personalized treatment strategies. Further investigation will be the establishment of this biomarker in a clinical study in a number of tertiary perinatal centers.
+DO  - https://dx.doi.org/10.1007/s00112-016-0091-1
+Y1  - 2016//
+KW  - angiogenesis
+KW  - breathing
+KW  - cell proliferation
+KW  - clinical article
+KW  - clinical trial
+KW  - controlled study
+KW  - diagnosis
+KW  - extracellular matrix
+KW  - follow up
+KW  - human
+KW  - human tissue
+KW  - image analysis
+KW  - infant
+KW  - *lung dysplasia
+KW  - lung function
+KW  - lung volume
+KW  - *nuclear magnetic resonance imaging
+KW  - organogenesis
+KW  - outcome variable
+KW  - plasma
+KW  - prematurity
+KW  - prospective study
+KW  - protein analysis
+KW  - regression analysis
+KW  - screening
+KW  - statistical model
+KW  - structure activity relation
+KW  - trachea
+KW  - tracheal aspiration procedure
+KW  - urine
+KW  - biological marker
+KW  - oxygen
+KW  - proteome
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed17&NEWS=N&AN=613886104
+LB  - Included by Sara
+ER  -
+TY  - RPRT
+TI  - Dna methylation changes during alveolar septation
+T2  - American Journal of Respiratory and Critical Care Medicine
+AD  - D. Chhabra, University of California, San Diego, San Diego, CA, United States. E-mail: divchhabra12@gmail.com
+AU  - Chhabra D.
+AU  - Espinoza C.
+AU  - Chan M.
+AU  - Nicola T.
+AU  - Duong T.
+AU  - Mariani T.J.
+AU  - Huyck H.L.
+AU  - Krenitsky D.
+AU  - Fisch K.
+AU  - Pryhuber G.S.
+AU  - Ambalavanan N.
+AU  - Hagood J.S.
+VL  - 197
+IS  - MeetingAbstracts
+SP -
+SN  - 1535-4970
+AB  - Rationale: Normal lung alveolar septation is a complex process that involves the integration of a number of biological pathways. The spatial and temporal regulatory processes that play a role in this complex developmental process are poorly understood. We believe that is important to understand the integration of gene expression and DNA methylation to understand the normal processes during alveolar septation which can then guide us to a better knowledge of developmental diseases such as bronchopulmonary dysplasia and lung growth abnormalities, in addition to understanding risk for COPD and interstitial lung disease. Method(s): This study was carried out as a part of the LungMAP project which seeks to develop a comprehensive cellular and molecular map of normal lung alveolar development in humans and mice. We undertook whole genome evaluation of DNA methylation using the Illumina EPIC array. Human genomic DNA from lung tissues was isolated from LCM samples (n=24) at different time points during lung development: Early time point: 1day-1 month; Mid A: 2 months-1year; Mid C: 3 to 4 years; and Late time point: 8-9 years. Data obtained was normalized and differential methylation analyses were performed using Bioconductor. Result(s): Our preliminary analyses have identified sites noted to be differentially methylated between the different time points after adjusting for sex and batch, Preliminary computational models show that there are a number of distinct temporal methylation trajectories followed by genes and their regulatory elements. In table 1 we present the sites that were most significant in the early vs late time point comparison. Of note these sites map to SEC31B, C19orf55, NRXN3, CRISPLD2 and FOXA1 genes. Many of the most differentially methylated regions are long noncoding (lnc) RNAs and genes involved in protein trafficking. Pathway analysis shows an enrichment for metabolic pathways, Pathways in cancer, PI3K-Akt signaling pathway among others. Conclusion(s): DNA methylation at a number of sites changes dynamically during human lung alveolar development, suggesting important roles for intracellular trafficking and lncRNAs. We are currently in the process of integrating murine and human data to further understand the regulation of alveolar septation. (Table Presented) .
+Y1  - 2018//
+KW  - animal experiment
+KW  - controlled study
+KW  - *DNA methylation
+KW  - genome
+KW  - lung development
+KW  - lung parenchyma
+KW  - malignant neoplasm
+KW  - mouse
+KW  - nonhuman
+KW  - Pi3K/Akt signaling
+KW  - endogenous compound
+KW  - genomic DNA
+KW  - hepatocyte nuclear factor 3alpha
+KW  - long untranslated RNA
+KW  - neurexin
+KW  - conference abstract
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A4464
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=622964803
+LB  - Included by Sara
+ER  -
+TY  - RPRT
+TI  - Diagnosis of bronchopulmonary dysplasia using novel biomarkers and magnetic resonance imaging analysis -findings from the AIRR-study
+T2  - Journal of Neonatal-Perinatal Medicine
+AD  - K. Forster, Dept. of Neonatology, Dr. von Hauner Children's Hospital, Ludwig-Maximilian-University, Munich, Germany
+AU  - Forster K.
+AU  - Sass S.
+AU  - Ehrhardt H.
+AU  - Ertl-Wagner B.
+AU  - Mous D.S.
+AU  - Rottier R.J.
+AU  - Oak P.
+AU  - Pomschar A.
+AU  - Nahrlich L.
+AU  - Schulze A.
+AU  - Flemmer A.W.
+AU  - Gronbach J.
+AU  - Hubener C.
+AU  - Eickelberg O.
+AU  - Dietrich O.
+AU  - Theis F.J.
+AU  - Hilgendorff A.
+VL  - 10
+IS  - 2
+SN  - 1878-4429
+AB  - Rationale: Neonatal chronic lung disease, i.e. bronchopulmonary dysplasia (BPD) determines long-term pulmonary and neurologic development. Early markers are urgently needed for timely diagnosis and personalized treatment. Objective(s): The prospective study determined structural and functional changes in the preterm lung at the time of diagnosis and identified early disease markers by proteome screening in plasma in the first week of life. Method(s): 40 infants (27.7 +/- 2.09 wks, 984 +/- 332 g) were included for advanced MRI measurements (3-Tesla) and complemented by infant lung function testing (ILFT) in spontaneously breathing infants. Plasma samples were processed for proteomic screening by SOMAscanTM. Key findings were confirmed in an independent study cohort. Statistical analysis used penalized and Poisson regression analysis; for protein analysis confounder effects were subtracted by lasso regression. Result(s): Statistical analysis confirmed a high correlation of MRI and lung function variables and identified a pattern characterizing changes in the lungs of preterm infants by T2- and T1-weighed image analysis and lung volume measurements as well as ILFT. Functional enrichment analysis in proteome screening results showed overrepresentation of the GO categories 'immune function', 'extracellular matrix', 'cellular proliferation/ migration', 'organ development' and 'angiogenesis' in infants with BPD in the first week of life. A panel of three proteins was identified out of these with high sensitivity and specificity for BPD. Conclusion(s): We identified a structural pattern characterizing BPD by advanced MRI confirmed by ILFT. The identified development in the first week of life enabled personalized treatment strategies.
+DO  - https://dx.doi.org/10.3233/NPM990003
+Y1  - 2017//
+KW  - angiogenesis
+KW  - breathing
+KW  - cell migration
+KW  - cell proliferation
+KW  - clinical article
+KW  - cohort analysis
+KW  - controlled study
+KW  - diagnosis
+KW  - extracellular matrix
+KW  - female
+KW  - human
+KW  - human tissue
+KW  - image analysis
+KW  - infant
+KW  - *lung dysplasia
+KW  - lung function
+KW  - lung volume
+KW  - male
+KW  - *nuclear magnetic resonance imaging
+KW  - organogenesis
+KW  - plasma
+KW  - prematurity
+KW  - prospective study
+KW  - protein analysis
+KW  - protein function
+KW  - regression analysis
+KW  - sensitivity and specificity
+KW  - *biological marker
+KW  - proteome
+KW  - conference abstract
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed18&NEWS=N&AN=624548476
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 622965936
+TI  - Association of muc-5b in pulmonary hypertension in preterm babies with bronchopulmonary dysplasia
+AU  - Siddaiah R.
+AU  - Fuentes Ortiz N.
+AU  - Kitch D.
+AU  - DiAngelo S.
+AU  - Ojimmuo C.
+AU  - Aluquin V.
+AU  - Silveyra P.
+Y1  - 2018//
+KW  - child
+KW  - clinical article
+KW  - cohort analysis
+KW  - controlled study
+KW  - diagnosis
+KW  - early diagnosis
+KW  - echocardiography
+KW  - female
+KW  - gene overexpression
+KW  - gold standard
+KW  - heart catheterization
+KW  - human
+KW  - human cell
+KW  - infant
+KW  - *lung dysplasia
+KW  - male
+KW  - mass spectrometer
+KW  - mass spectrometry
+KW  - pre B lymphocyte
+KW  - *prematurity
+KW  - protein analysis
+KW  - protein expression
+KW  - *pulmonary hypertension
+KW  - signal transduction
+KW  - software
+KW  - tracheal aspiration procedure
+KW  - biological marker
+KW  - cyclin dependent kinase inhibitor 1A
+KW  - endogenous compound
+KW  - immunoglobulin enhancer binding protein
+KW  - lactoferrin
+KW  - lysozyme
+KW  - *mucin 5B
+KW  - protein kinase C delta
+KW  - protein p53
+KW  - secretory component
+KW  - transcription factor RelA
+KW  - tumor necrosis factor
+KW  - conference abstract
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 197
+IS  - MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - R. Siddaiah, Penn State Milton S Hershey Medical Center, Hershey, PA, United States. E-mail: roopasiddaiah@gmail.com
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2018.197.1_MeetingAbstracts.A7780
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed19&NEWS=N&AN=622965936
+AB  - Background: Neonatal care has drastically improved resulting in survival of extremely premature babies and increased incidence of Bronchopulmonary Dysplasia (BPD) associated comorbidities. Among that, Pulmonary Hypertension (BPD-PH) has high mortality and morbidity. The diagnosis of BPD-PH is difficult since the symptoms overlap with severe BPD. Cardiac catheterization is a highly invasive gold standard procedure for diagnosing PH. Hypothesis: Unique inflammatory biomarkers in tracheal aspirates from preterm babies are associated with BPD-PH. These biomarkers may reflect underlying inflammatory pathways involved in development of BPD-PH. Method(s): We collected tracheal aspirates from a small cohort of infants at the Penn State Children's hospital NICU. Patients with confirmed clinical diagnosis based on NHLBI classification of severe BPD (n=6), BPD-PH (as diagnosed based on echocardiogram findings) (n=6) and term control babies (n=5) were enrolled for the study. Samples were digested; iTRAQ labeled and analyzed via mass spectrometry using ABSciex 5600 Triple TOF and protein identification was accomplished using ProteinPilotTM4.5Beta software. Significantly different proteins in the groups were analyzed with Ingenuity Pathway Analysis (IPA) software (Qiagen). Result(s): Over 700 different proteins were identified using Proteinpilot software. Applying very stringent local false discovery rate estimation; approximately 200-330 proteins were confidently identified in each sample. 22 proteins and 16 proteins were significantly differentially (either under or over expressed) expressed when comparing control vs BPD group and control vs BPD-PH groups respectively. Between these two sets of data, 4 proteins were similar but were differentially expressed (Fig 1) namely lysozyme C precursor, lactotransferrin isoform 1 precursor, polymeric immunoglobulin receptor precursor and mucin-5B precursor (MUC-5B) and MUC-5B precursor had the most statistically significant differential log ratio expression (Fig 1). IPA analysis of these 4 proteins showed relevant pathways between NFKB (complex), RELA, CDKN1A, TNF, TP53, PRKCD (Fig 1). Conclusion(s): Our pilot project revealed four proteins whose expression was significantly different in severe BPD vs. BPD-PH, and IPA analysis predicted specific underlying inflammatory pathways. Further investigation into these proteins is warranted to explore potential for biomarkers for early diagnosis and target therapies. (Figure presented) .
+LB  - Included by both
+ER  -
+TY  - RPRT
+TI  - Anti-inflammatory effects of budesonide in human fetal lung
+T2  - Journal of Maternal-Fetal and Neonatal Medicine
+AD  - P. Ballard, Department of Pediatrics, University of California,San Francisco, San Francisco, CA, United States
+AU  - Ballard P.
+AU  - Barrette A.
+AU  - Roberts J.
+AU  - Egan E.
+VL  - 29
+IS  - Supplement 1
+SN  - 1476-4954
+AB  - Introduction: Lung inflammation in premature infants contributes to development of bronchopulmonary dysplasia (BPD), a chronic lung disease with long-term sequelae. Pilot clinical trials administering the corticosteroid budesonide suspended in surfactant have found reduced BPD without apparent adverse effects as occur with systemic dexamethasone therapy. The objective of this study was to determine potency, stability and anti-inflammatory effects of budesonide in vitro to inform design of an appropriate dosing regimen of lung-targeted corticosteroid therapy for future clinical trials. Material(s) and Method(s): We used cultured explants of second trimester human fetal lung treated with either budesonide or dexamethasone and examined responses by microscopy, immunoassays, RNAseq, liquid chromatography/tandem mass spectrometry and pulsating bubble surfactometry. Clinical cases and summary results: Treatment of lung explants with budesonide suppressed secreted chemokines IL-8 and CCL2 (MCP-1) within 4 h reaching 90% decrease at 12 h, which was fully reversed 72 h after removal of steroid. Half-maximal effects occurred at 0.04- 0.05 nM, representing a 5-fold greater potency than for dexamethasone. Budesonide significantly induced 3.6% and repressed 2.8% of 14 500 sequenced mRNAs by 1.6- to 95-fold, including 119 genes that contribute to the glucocorticoid inflammatory transcriptome, 29 of these genes are known targets of NF-kappaB. By global proteomics, 22 secreted inflammatory proteins were hormonally regulated. Budesonide retained activity in the presence of surfactant and did not alter the in vitro surface properties or stability of surfactant. There was some formation of palmitate-budesonide in lung tissue, which serves as a tissue reservoir of steroid, but no detectable metabolism to inactive 16alpha-hydroxy prednisolone. Conclusion(s): We conclude that budesonide is a potent and stable antiinflammatory glucocorticoid in human fetal lung in vitro. The study provides new findings for molecular effects of budesonide that define the glucocorticoid inflammatory transcriptome, identify new potential biomarkers for both budesonide action in lung cells and the pathogenesis of BPD, and inform design of the optimal budesonide:- surfactant treatment regimen for clinical trials to prevent lung disease in premature infants.
+DO  - https://dx.doi.org/10.1080/14767058.2016.1191212
+Y1  - 2016//
+KW  - *antiinflammatory activity
+KW  - clinical study
+KW  - clinical trial
+KW  - corticosteroid therapy
+KW  - DNA transcription
+KW  - explant
+KW  - fetus
+KW  - *fetus lung
+KW  - gene inactivation
+KW  - human
+KW  - human cell
+KW  - human tissue
+KW  - immunoassay
+KW  - in vitro study
+KW  - infant
+KW  - liquid chromatography
+KW  - lung alveolus cell
+KW  - lung dysplasia
+KW  - lung parenchyma
+KW  - metabolism
+KW  - microscopy
+KW  - prematurity
+KW  - prevention
+KW  - *proteomics
+KW  - reservoir
+KW  - second trimester pregnancy
+KW  - surface property
+KW  - tandem mass spectrometry
+KW  - *budesonide
+KW  - dexamethasone
+KW  - endogenous compound
+KW  - immunoglobulin enhancer binding protein
+KW  - *interleukin 8
+KW  - monocyte chemotactic protein 1
+KW  - *surfactant
+KW  - transcriptome
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed17&NEWS=N&AN=611869748
+LB  - Included by Sara
+ER  -

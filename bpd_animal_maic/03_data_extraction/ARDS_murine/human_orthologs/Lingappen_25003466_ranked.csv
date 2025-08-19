@@ -1,0 +1,24 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Timp1,ENSG00000102265,ortholog_one2one,71.9807,85.9903
+Myc,ENSG00000136997,ortholog_one2one,89.8678,93.3921
+Areg,ENSG00000109321,ortholog_one2one,69.0476,80.5556
+Atf3,ENSG00000162772,ortholog_one2one,95.0276,98.895
+Ankrd1,ENSG00000148677,ortholog_one2one,90.2821,94.9843
+Gdf15,ENSG00000130513,ortholog_one2one,56.8182,70.4545
+Tnfrsf12a,not found,,,
+F3,ENSG00000117525,ortholog_one2one,53.2203,65.0847
+Adm,ENSG00000148926,ortholog_one2one,65.9459,71.8919
+Mthfd2,ENSG00000065911,ortholog_one2one,91.7143,95.7143
+Tnc,ENSG00000114854,ortholog_one2one,99.3789,100
+Serpine1,ENSG00000106366,ortholog_one2one,78.607,88.5572
+Slc7a11,ENSG00000151012,ortholog_one2one,89.2216,96.2076
+Gadd45a,ENSG00000116717,ortholog_one2one,94.5455,95.1515
+Gsta1,not found,,,
+Ch25h,ENSG00000138135,ortholog_one2one,77.9412,85.2941
+Ptgs2,ENSG00000073756,ortholog_one2one,86.755,93.2119
+Asns,ENSG00000070669,ortholog_one2one,93.7611,98.0392
+Sfn,ENSG00000076043,ortholog_one2one,94.0928,96.2025
+Fhl3,ENSG00000183386,ortholog_one2one,97.5,99.6429
+Slc7a5,ENSG00000103257,ortholog_one2one,91.9132,95.4635
+Akr1b8,ENSG00000198074,ortholog_one2many,80.0633,90.1899
+Pdk4,ENSG00000004799,ortholog_one2one,92.944,97.0803

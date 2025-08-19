@@ -1,0 +1,11 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Ceacam19,ENSG00000186567,ortholog_one2one,59.8662,68.5619
+Ghrh,ENSG00000118702,ortholog_one2one,55.5556,68.5185
+Mpo,ENSG00000005381,ortholog_one2one,83.2215,88.5906
+Gabra1,ENSG00000022355,ortholog_one2one,98.4649,99.1228
+Gjd2,ENSG00000159248,ortholog_one2one,98.1308,99.0654
+Tfap2c,ENSG00000087510,ortholog_one2one,86.2222,91.7778
+Tpsg1,ENSG00000116176,ortholog_one2one,68.8474,77.5701
+Ugt1a1,ENSG00000241635,ortholog_one2one,78.6116,88.9306
+Acer1,ENSG00000167769,ortholog_one2one,79.5455,89.0152
+Clec4a4,ENSG00000198178,ortholog_one2many,41.3146,60.0939

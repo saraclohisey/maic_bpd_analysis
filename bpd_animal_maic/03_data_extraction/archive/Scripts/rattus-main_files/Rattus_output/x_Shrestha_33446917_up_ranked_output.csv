@@ -1,0 +1,21 @@
+Rat Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Ccl17,ENSG00000102970,ortholog_one2one,63.8298,77.6596
+Clec10a,ENSG00000132514,ortholog_one2one,49.481,62.2837
+Timp1,ENSG00000102265,ortholog_one2one,70.5314,82.6087
+Tmem37,ENSG00000171227,ortholog_one2one,72.6316,82.6316
+Ccl22,not found,,,
+Fcgr2b,ENSG00000072694,ortholog_many2many,50,64.5161
+Dcstamp,ENSG00000164935,ortholog_one2one,73.4043,85.1064
+Dcstamp,ENSG00000164935,ortholog_one2one,73.4043,85.1064
+Cma1,ENSG00000092009,ortholog_one2one,72.4696,80.1619
+Ccl7,ENSG00000108688,ortholog_one2one,59.596,73.7374
+Nrp2,ENSG00000118257,ortholog_one2one,93.6285,97.0842
+Mmp12,ENSG00000262406,ortholog_one2one,62.9787,76.383
+A3galt2,ENSG00000184389,ortholog_one2one,68.2353,78.5294
+Ccl12,ENSG00000108700,ortholog_one2one,62.6263,77.7778
+Fabp5,ENSG00000164687,ortholog_one2many,69.6296,79.2593
+Emp1,ENSG00000134531,ortholog_one2one,75.7962,89.172
+Enpp3,ENSG00000154269,ortholog_one2one,79.0857,88.2286
+Mmp14,ENSG00000157227,ortholog_one2one,96.7354,98.2818
+Csf1,ENSG00000184371,ortholog_one2one,64.9819,76.5343
+Spp1,ENSG00000118785,ortholog_one2one,64.6497,76.7516

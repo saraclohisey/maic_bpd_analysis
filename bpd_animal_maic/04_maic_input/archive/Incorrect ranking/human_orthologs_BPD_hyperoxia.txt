@@ -1,0 +1,65 @@
+Transcriptomics	Al_Mudares_37368978_Female	RANKED	GENE_NAMES	
+
+Transcriptomics	Al_Mudares_37368978_Male	RANKED	GENE_NAMES	
+
+Transcriptomics	Bao_27137150_lncrna	UNRANKED	GENE_NAMES	
+
+Transcriptomics	Bao_27137150_mrna	UNRANKED	GENE_NAMES
+
+Transcriptomics	Bhaskaran_22911455	RANKED	GENE_NAMES
+
+Transcriptomics	Bhattacharya_25150061	RANKED	GENE_NAMES	
+
+Transcriptomics	Chao_27770432	UNRANKED	GENE_NAMES	
+
+Genomics	Chen_28689251	UNRANKED	GENE_NAMES
+
+Transcriptomics	Cheng_31961470	RANKED	GENE_NAMES
+
+Transcriptomics	Coarfa_28818871_female_down_d7	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_female_down_d21	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_female_up_d7	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_female_up_d21	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_male_down_d7	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_male_down_d21	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_male_up_d7	RANKED	GENE_NAMES	
+
+Transcriptomics	Coarfa_28818871_male_up_d21	RANKED	GENE_NAMES
+
+Transcriptomics	Dénervaud_26353077_down	RANKED	GENE_NAMES
+
+Transcriptomics	Dénervaud_26353077_up	RANKED	GENE_NAMES
+
+Transcriptomics	Dong_36157523	UNRANKED	GENE_NAMES
+
+Metabolomics	El_Saie_35338351	UNRANKED	GENE_NAMES
+
+Transcriptomics	Mcadams_23056493_down	RANKED	GENE_NAMES
+
+Transcriptomics	Mcadams_23056493_up	RANKED	GENE_NAMES
+
+Transcriptomics	Natarajan_28851267_down	RANKED	GENE_NAMES
+
+Transcriptomics	Natarajan_28851267_up	RANKED	GENE_NAMES
+
+Genomics	Nichols_24571919	UNRANKED	GENE_NAMES
+
+Transcriptomics	Rao_37310763	RANKED	GENE_NAMES
+
+Transcriptomics	Revhaug_31454811_down	RANKED	GENE_NAMES
+
+Transcriptomics	Revhaug_31454811_up	RANKED	GENE_NAMES
+
+Transcriptomics	Salaets_26317699_down	RANKED	GENE_NAMES
+
+Transcriptomics	Salaets_26317699_up	RANKED	GENE_NAMES
+
+Transcriptomics	Shrestha_33446917_down	RANKED	GENE_NAMES
+
+Transcriptomics	Shrestha_33446917_up	RANKED	GENE_NAMES

@@ -1,0 +1,7 @@
+241205 SCH
+
+Moved rabbit list to gene list 2.
+
+Removed '-3p' and '-5p' from miRNA lists.
+
+Inserted 'mouse' or 'rat' as 5th entry to enable running of MAIC_inputcheck_multispecies.py

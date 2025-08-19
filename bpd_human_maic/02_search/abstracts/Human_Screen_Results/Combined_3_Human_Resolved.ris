@@ -1,0 +1,593 @@
+TY  - ABST
+DB  - Embase Weekly Updates
+AN  - 641648236
+TI  - Whole Lung Proteomics in Bronchopulmonary Dysplasia
+AU  - Dylag A.M.
+AU  - Misra R.
+AU  - Bandyopadhyay G.
+AU  - Poole C.
+AU  - Huyck H.
+AU  - Haak J.
+AU  - Woo J.
+AU  - Olson H.
+AU  - Deutsch G.
+AU  - Katzman P.
+AU  - Purkerson J.
+AU  - Adkins J.N.
+AU  - Mariani T.J.
+AU  - Clair G.C.
+AU  - Pryhuber G.S.
+Y1  - 2023//
+KW  - analysis of variance
+KW  - child
+KW  - clinical article
+KW  - conference abstract
+KW  - controlled study
+KW  - endothelium
+KW  - ferroptosis
+KW  - fibroblast
+KW  - gene expression
+KW  - histopathology
+KW  - human
+KW  - human tissue
+KW  - immunofluorescence
+KW  - immunofluorescence microscopy
+KW  - immunohistochemistry
+KW  - infant
+KW  - *lung alveolus
+KW  - lung development
+KW  - *lung dysplasia
+KW  - lung parenchyma
+KW  - mass spectrometry
+KW  - ontology
+KW  - prediction
+KW  - prematurity
+KW  - prevention
+KW  - *proteomics
+KW  - smooth muscle
+KW  - Western blotting
+KW  - biological marker
+KW  - collagen type 15
+KW  - collagen type 18
+KW  - dipeptidyl carboxypeptidase
+KW  - endogenous compound
+KW  - endothelin B receptor
+KW  - peptide fragment
+KW  - platelet endothelial cell adhesion molecule 1
+KW  - scleroprotein
+KW  - surfactant protein C
+KW  - transgelin
+KW  - undulin
+KW  - vasculotropin receptor 1
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - A.M. Dylag, Pediatrics, University of Rochester, Rochester, NY, United States. E-mail: Andrew.dylag@urmc.rochester.edu
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A5761
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641648236
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.C71
+AB  - Rationale: Bronchopulmonary Dysplasia (BPD) is a disease of prematurity related to the arrest of normal lung development. Whole lung proteomics was performed to identify individual proteins and pathways differentially regulated in BPD after the birth hospitalization. Method(s): Pediatric human donors aged 1.3 to 3 years were classified based on history of prematurity and histopathologic severity of BPD (N=3 "Recovered" BPD [rBPD] and N=3 "Established" BPD [eBPD]) with respective full term (N=6) age-matched controls. Lung tissues were biopsied (proteomics) and/or sectioned for imaging analyses. Proteins were identified by tandem mass spectroscopy requiring >2 unique peptide fragments for confirmation and validated using Western Blot. Highly multiplexed (18 antibody panel) immunofluorescence (MxIF) microscopy was performed on lung sections to enumerate cell types and validate proteomics results. Protein abundances and MxIF cell frequencies in the different donor groups were compared using ANOVA at a significance value of p<0.01. Cell type and ontology enrichment was performed using an in-house developed enrichment tool and/or EnrichR. Result(s): Proteomics detected 5746 unique proteins, 186 upregulated and 534 down regulated in eBPD vs. Control, with less proteins differentially expressed in rBPD. Cell type enrichment analyses (EnrichRcell type enrichment using the HubMAP Anatomical Structures, Cell Types, plus Biomarkers tables) suggested a loss of alveolar Type I (decreased SCEL, AQP4), alveolar Type II (decreased ABCA3, SFTPC), endothelial/capillary (decreased PECAM1, FCN3, FLT1, ACE, ERG, EDNRB), and lymphatics (decreased ADGRG3), and increase in smooth muscle (TAGLN, LDB3, PODN, ISLR) and fibroblasts (MFAP5) that were confirmed by MxIF. Immunohistochemistry also supported protein GO pathway analyses predictions of upregulated ferroptosis and coagulation in eBPD vs. Control. Finally, several extra cellular matrix proteins were increased (Col8A1, Col14A1, Col15A1 Col18A1,) in eBPD vs. Controls. Comparative MxIF analysis demonstrates variability in BPD. Conclusion(s): There are several dysregulated proteins and pathways consistent with abnormal lung development in eBPD. rBPD has simplified lung parenchyma but fewer differentially expressed proteins compared to full term. Highly multiplexed molecular analysis of human tissue provides critical contributions to elucidation of the factors after birth that define the trajectories of BPD that are important to preventing and treating their underlying causes.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase Weekly Updates
+AN  - 641648272
+TI  - Pulmonary Live Biotherapeutic Product Reduces Neutrophilic Inflammation in Bronchopulmonary Dysplasia Through miR129-MMP-9 Pathway
+AU  - Lal C.V.
+AU  - Qiao L.
+AU  - Nicola T.
+AU  - Yang Y.
+AU  - Wenger N.
+AU  - Evans M.
+AU  - Xu X.
+AU  - Ambalavanan N.
+AU  - Gaggar A.
+Y1  - 2023//
+KW  - A-549 cell line
+KW  - animal cell
+KW  - animal experiment
+KW  - animal model
+KW  - animal tissue
+KW  - bacterial strain
+KW  - bronchiole cell
+KW  - cell culture
+KW  - cohort analysis
+KW  - conference abstract
+KW  - controlled study
+KW  - CRISPR Cas system
+KW  - dry powder
+KW  - enzyme linked immunosorbent assay
+KW  - epithelial cell line
+KW  - epithelium basal cell
+KW  - Escherichia coli
+KW  - fraction of inspired oxygen
+KW  - gene overexpression
+KW  - growth chamber
+KW  - histology
+KW  - histopathology
+KW  - human
+KW  - hyperoxia
+KW  - in vitro study
+KW  - in vivo study
+KW  - inflammation
+KW  - inhalation
+KW  - knockout mouse
+KW  - Lactobacillus
+KW  - lung alveolus
+KW  - *lung dysplasia
+KW  - lung function
+KW  - lung injury
+KW  - lung parenchyma
+KW  - lung structure
+KW  - male
+KW  - mouse
+KW  - mouse model
+KW  - neutrophil
+KW  - neutrophil count
+KW  - *neutrophilic inflammation
+KW  - nonhuman
+KW  - pregnancy
+KW  - prematurity
+KW  - *protein expression
+KW  - signal transduction
+KW  - survival rate
+KW  - tracheal aspiration procedure
+KW  - wild type
+KW  - endogenous compound
+KW  - *gelatinase B
+KW  - interleukin 6
+KW  - lipofectamine
+KW  - lipopolysaccharide
+KW  - messenger RNA
+KW  - oxygen
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 207
+IS  - 1
+SP  -
+PB  - American Thoracic Society
+SN  - 1535-4970
+AD  - C.V. Lal, Neonatology,Pediatrics, University of Alabama at Birmingham, Birmingham, AL, United States
+UR  - https://www.atsjournals.org/doi/abs/10.1164/ajrccm-conference.2023.207.1_MeetingAbstracts.A5764
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=641648272
+DO  - https://dx.doi.org/10.1164/ajrccm-conference.2023.C71
+AB  - Rationale: Disease progression in BPD is characterized by decreased lactobacillus, increased proteobacteria, neutrophilic inflammation marked by matrix metalloproteinase 9 (MMP-9) pathway activity and ECM breakdown resulting in tissue damage. We hypothesized that inhalation of live biotherapeutic AB1000 would attenuate neutrophilic inflammation in in vivo murine models of BPD lung injury. Method(s):1.Novel animal models: a) Gnotobiotic humanized mice model as published in AJRCMB (PMID:36287630) b) Hyperoxia/LPS double hit model as published in JCI Insight (PMID:29515035) c) miR129 KO mice by CRISPR/CAS.2.Animal experiments: a.All three animal models were exposed to normoxia (21% FiO2) or hyperoxia (85% FiO2) from PN3-PN14. Mice were treated with either a vehicle control or AB1000 intranasally. AB1000 composes three live Lactobacillus strains in a dry powder commercially manufactured with a fine particle fraction (FPF) that reaches deep lungs>73%. On PN14, pups were euthanized for BALF, lung tissue, blood, histology. Each group n=4-6. Neutrophil counts, MMP-9, CRP, NE, IL-6 and MPO, pulmonary function (Flexivent), RAC and MLI were measured.3.In vitro: a) Human bronchial epithelial (HBE) and A549 alveolar basal epithelial cell lines were exposed to Escherichia coli, LPS, or otherwise indicated and cultured in cell culture chamber with 85% O2 or 21% O2. b) Knock down or over expression of miR-129-5p: p-CMV-miR-129 (ectopically overexpressed) and miR-129 LNA inhibitor (knock down) were individually transfected at different concentrations into HBE cells by use of Lipofectamine 2000 reagent. miR-129-5p and MMP-9 mRNA were measured by RT-PCR. 4.Human samples: In a cohort study, human tracheal aspirate (TA) samples were collected from patients with established severe BPD and from gestation-matched full term infants. MMP-9 and miR-129 expression in these samples were assayed by Duoset ELISA assay and qRT-PCR separately. Result(s): 1.Markers of neutrophilic inflammation were significantly reduced, lung structure and function significantly improved in AB1000-treated as compared to controls, in all models.2. Decreased miR-129 was associated with increased MMP-9 in BPD infants, in vitro cell lines, and BPD mouse model. 3.miR-129 over expression down regulated MMP-9 levels and miR-129 inhibition upregulated MMP-9 levels in a dose-dependent manner. Higher MMP-9 levels, worse lung function, and lower survival rates were observed in miR-129 knockout mice compared to wild type. Conclusion(s): Administration of live biotherapeutic AB1000 to the lungs of mouse pups reduced the neutrophilic inflammatory response in BPD through the mir129-MMP9 pathway. This suggests a role for LBPs as interventions for preterm infants with chronic lung injury.
+LB  - Included by Other
+ER  -
+TY  - ABST
+DB  - Embase Preprint
+AN  - 2021629056
+TI  - Multi-omics endotype of preterm infants with bronchopulmonary dysplasia and pulmonary hypertension
+AU  - Siddaiah R.
+AU  - Oji-Mmuo C.
+AU  - Aluquin V.
+AU  - Kawasawa Y.I.
+AU  - Donnelly A.
+AU  - Rousselle D.
+AU  - Fuentes N.
+AU  - Austin E.D.
+AU  - Silveyra P.
+Y1  - 2022//
+KW  - *angiogenesis
+KW  - clinical article
+KW  - controlled study
+KW  - female
+KW  - gene expression
+KW  - genetic transcription
+KW  - human
+KW  - hyperoxia
+KW  - infant
+KW  - lung disease
+KW  - *lung dysplasia
+KW  - male
+KW  - mass spectrometry
+KW  - *multiomics
+KW  - pathway analysis
+KW  - physiological stress
+KW  - polymerase chain reaction
+KW  - *prematurity
+KW  - protein expression
+KW  - proteomics
+KW  - *pulmonary hypertension
+KW  - RNA sequencing
+KW  - *tracheal aspiration procedure
+KW  - alpha 1 antitrypsin
+KW  - aspartate aminotransferase
+KW  - endogenous compound
+KW  - galectin 3
+KW  - immunoglobulin enhancer binding protein
+KW  - interleukin 6
+KW  - microRNA
+KW  - microRNA 101
+KW  - microRNA 29a
+KW  - surfactant protein B
+KW  - vasculotropin
+T2  - medRxiv
+LA  - English
+SP  -
+PB  - medRxiv
+AD  - R. Siddaiah, 500 University Drive, Hershey, PA, United States. E-mail: rsiddaiah@pennstatehealth.psu.edu
+UR  - https://www.medrxiv.org/
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=empp&NEWS=N&AN=2021629056
+DO  - https://dx.doi.org/10.1101/2022.11.03.22281890
+AB  - Rationale: Pulmonary hypertension associated with bronchopulmonary dysplasia is a severe complication of preterm birth resulting in high mortality of up to 50% within the first 2 years of life. There is a direct relationship between bronchopulmonary dysplasia severity and incidence of associated pulmonary hypertension. However, it is challenging to clinically characterize severe bronchopulmonary dysplasia with and without pulmonary hypertension and there is need for better understanding of the two entities. Objective(s): To identify markers to help understand biological processes and endotype characterization of infants with pulmonary hypertension associated with bronchopulmonary dysplasia in tracheal aspirates. Method(s): We conducted multi-omic analysis of tracheal aspirates via miRNA PCR arrays, RNA sequencing and mass spectrometry proteomics in preterm infants with severe bronchopulmonary dysplasia with (n=21) and without (n=25) pulmonary hypertension. Result(s): Our study analysis revealed 12 miRNAs (hsa-miR-29a, has-miR-542-3p, hasmiR-624, has-miR-183, hsa-miR-501-3p, hsa-miR-101, hsa-miR-3131, hsa-miR-3683, hsa-miR-3193, hsa-miR-3672, hsa-miR-3128, and hsa-miR-1287); 6 transcripts (IL6, RPL35P5, HSD3B7, RNA5SP215, OR2A1-AS1, and RNVU1-19), and 5 proteins (CAPS, AAT, KRT5, SFTPB, and LGALS3BP) with significant differential expression in preterm infants with severe lung disease with pulmonary hypertension when compared to infants with severe lung disease but no pulmonary hypertension. Pathway analysis of the integrated multi-omic expression signatures revealed NFkB, VEGF, SERPINA1, IL6 and ERK12 as target molecules for miRNAs, and angiogenesis and hyperoxia stress as recurrent pathways of individual markers. Conclusion(s): Our multi-omic analysis of tracheal aspirates revealed a comprehensive thumbprint of miRNAs, mRNAs and proteins that could help endotype infants with severe lung disease and pulmonary hypertension.Copyright The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2018>
+TI  - Leflunomide attenuates oxidative stress in fetal human lung endothelial cells via superoxide dismutase 2 and catalase.
+DO  - https://dx.doi.org/10.1016/j.bbrc.2018.07.149
+AU  - Shrestha, Amrit Kumar
+AU  - Menon, Renuka T
+AU  - Shivanna, Binoy
+Y1  - 2018//
+Y2  - 20180802//
+KW  - *Catalase/me [Metabolism]
+KW  - Cell Survival/de [Drug Effects]
+KW  - Cells, Cultured
+KW  - Dose-Response Relationship, Drug
+KW  - *Endothelial Cells/de [Drug Effects]
+KW  - Endothelial Cells/en [Enzymology]
+KW  - Endothelial Cells/me [Metabolism]
+KW  - *Fetus/cy [Cytology]
+KW  - Humans
+KW  - Hydrogen Peroxide/an [Analysis]
+KW  - Hydrogen Peroxide/ai [Antagonists & Inhibitors]
+KW  - Hydrogen Peroxide/me [Metabolism]
+KW  - *Leflunomide/pd [Pharmacology]
+KW  - *Lung/cy [Cytology]
+KW  - *Oxidative Stress/de [Drug Effects]
+KW  - Structure-Activity Relationship
+KW  - *Superoxide Dismutase/me [Metabolism]
+T2  - Biochemical and biophysical research communications
+VL  - 503
+IS  - 3
+SN  - 0006-291X
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med15&NEWS=N&AN=30077371
+AD  - United States
+AB  - Hyperoxia-induced oxidative stress contributes to the pathogenesis of bronchopulmonary dysplasia (BPD), the most common respiratory morbidity of preterm infants. Importantly, the disease lack specific therapies and is associated with long-term cardio-pulmonary and neurodevelopmental morbidities, signifying the need to discover novel therapies and decrease the disease burden. We and others have demonstrated that leflunomide, a food and drug administration approved drug to treat humans with rheumatoid arthritis, increases the expression of the anti-oxidant enzymes, NAD(P)H quinone dehydrogenase 1 (NQO1), catalase, and superoxide dismutase (SOD). However, whether this drug can decrease oxidative stress in fetal human pulmonary arterial endothelial cells (HPAECs) is unknown. Therefore, we tested the hypothesis that leflunomide will decrease hyperoxia-induced oxidative stress by upregulating these anti-oxidant enzymes in HPAECs. Leflunomide decreased hydrogen peroxide (H2O2) levels and increased the mRNA and protein levels of catalase, NQO1, and SOD2 in HPAECs at basal conditions. Further, leflunomide-treated cells continued to have decreased H2O2 and increased SOD2 levels upon hyperoxia exposure. Leflunomide did not affect the expression of other anti-oxidant enzymes, including hemoxygenase-1 and SOD1. AhR-knockdown experiments suggested that leflunomide regulated NQO1 levels via AhR-dependent mechanisms and H2O2, catalase, and SOD2 levels via AhR-independent mechanisms. Collectively, the results support the hypothesis that leflunomide decreases oxidative stress in HPAECs via SOD2-and catalase-dependent, but AhR- and NQO1-independent mechanisms. Our findings indicate that leflunomide is a potential drug for the management of BPD in preterm infants. Copyright © 2018 Elsevier Inc. All rights reserved.
+LB  - Included by Other
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2018>
+TI  - Exome sequencing identifies gene variants and networks associated with extreme respiratory outcomes following preterm birth.
+DO  - https://dx.doi.org/10.1186/s12863-018-0679-7
+AU  - Hamvas, Aaron
+AU  - Feng, Rui
+AU  - Bi, Yingtao
+AU  - Wang, Fan
+AU  - Bhattacharya, Soumyaroop
+AU  - Mereness, Jared
+AU  - Kaushal, Madhurima
+AU  - Cotten, C Michael
+AU  - Ballard, Philip L
+AU  - Mariani, Thomas J
+AU  - Alexander B
+AU  - Chougnet C
+AU  - Gratton T
+AU  - Greenberg JM
+AU  - Grisby C
+AU  - Hardie W
+AU  - Jobe AH
+AU  - Koch B
+AU  - McDowell K
+AU  - Thornton K
+AU  - Bates P
+AU  - Cleveland C
+AU  - Ferkol T
+AU  - Hamvas A
+AU  - Hoffmann J
+AU  - Holland MR
+AU  - Kemp J
+AU  - Levy PT
+AU  - Linneman L
+AU  - Sicard-Su J
+AU  - Simpson G
+AU  - Singh GK
+AU  - Warner B
+AU  - Ballard PL
+AU  - Ballard RA
+AU  - Durand DJ
+AU  - Eichenwald EC
+AU  - Keller RL
+AU  - Khan AM
+AU  - Lusk L
+AU  - Merrill JD
+AU  - Nielson DW
+AU  - Rogers EE
+AU  - Asselin JM
+AU  - Balan S
+AU  - Burson K
+AU  - Chapin C
+AU  - Josiah-Davis E
+AU  - Garcia C
+AU  - Horneman H
+AU  - Hinojosa R
+AU  - Johnson C
+AU  - Kelley S
+AU  - Knowles KL
+AU  - Layne Lillie M
+AU  - Martin K
+AU  - Martin S
+AU  - Arldt-McAlister J
+AU  - McDavid GE
+AU  - Pacello L
+AU  - Rodgers S
+AU  - Sperry DK
+AU  - Aschner J
+AU  - Beller AB
+AU  - Fike C
+AU  - Guthrie S
+AU  - Hartert T
+AU  - Maitre N
+AU  - Moore P
+AU  - Hunt MO
+AU  - Rogers TJ
+AU  - Settles OL
+AU  - Steele S
+AU  - Summar M
+AU  - Wadley S
+AU  - D'Angio C
+AU  - Kumar V
+AU  - Mariani T
+AU  - Pryhuber G
+AU  - Ren C
+AU  - Reynolds AM
+AU  - Ryan RM
+AU  - Scheible K
+AU  - Stevens T
+AU  - Huyck H
+AU  - Lunger V
+AU  - Castiglione S
+AU  - Horan A
+AU  - Maffet D
+AU  - O'Donnell J
+AU  - Sacilowski M
+AU  - Scalise T
+AU  - Werner E
+AU  - Zayac J
+AU  - Bordeaux K
+AU  - Brown P
+AU  - Epping J
+AU  - Flattery-Walsh L
+AU  - Germuga D
+AU  - Jenks N
+AU  - Platt M
+AU  - Popplewell E
+AU  - Prentice S
+AU  - Ciccio K
+AU  - Cotten M
+AU  - Fisher K
+AU  - Sharp J
+AU  - Voynow JA
+AU  - PROP Investigators
+Y1  - 2018//
+Y2  - 20181020//
+KW  - *Bronchopulmonary Dysplasia/di [Diagnosis]
+KW  - Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - Case-Control Studies
+KW  - DNA/ch [Chemistry]
+KW  - DNA/me [Metabolism]
+KW  - Female
+KW  - Genetic Loci
+KW  - *Genetic Variation
+KW  - Genome-Wide Association Study
+KW  - Gestational Age
+KW  - Humans
+KW  - Infant, Newborn
+KW  - Infant, Premature
+KW  - Male
+KW  - Exome Sequencing
+T2  - BMC genetics
+VL  - 19
+IS  - 1
+SN  - 1471-2156
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med15&NEWS=N&AN=30342483
+AD  - England
+AB  - BACKGROUND: Previous studies have identified genetic variants associated with bronchopulmonary dysplasia (BPD) in extremely preterm infants. However, findings with genome-wide significance have been rare, and not replicated. We hypothesized that whole exome sequencing (WES) of premature subjects with extremely divergent phenotypic outcomes could facilitate the identification of genetic variants or gene networks contributing disease risk., RESULTS: The Prematurity and Respiratory Outcomes Program (PROP) recruited a cohort of > 765 extremely preterm infants for the identification of markers of respiratory morbidity. We completed WES on 146 PROP subjects (85 affected, 61 unaffected) representing extreme phenotypes of early respiratory morbidity. We tested for association between disease status and individual common variants, screened for rare variants exclusive to either affected or unaffected subjects, and tested the combined association of variants across gene loci. Pathway analysis was performed and disease-related expression patterns were assessed. Marginal association with BPD was observed for numerous common and rare variants. We identified 345 genes with variants unique to BPD-affected preterm subjects, and 292 genes with variants unique to our unaffected preterm subjects. Of these unique variants, 28 (19 in the affected cohort and 9 in unaffected cohort) replicate a prior WES study of BPD-associated variants. Pathway analysis of sets of variants, informed by disease-related gene expression, implicated protein kinase A, MAPK and Neuregulin/epidermal growth factor receptor signaling., CONCLUSIONS: We identified novel genes and associated pathways that may play an important role in susceptibility/resilience for the development of lung disease in preterm infants.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase Weekly Updates
+AN  - 2030151426
+TI  - Discovering independent genomes and their relation to newer definitions of bronchopulmonary dysplasia
+AU  - Gegel G.E.
+AU  - Arora T.
+AU  - Moreira A.
+Y1  - 2024//
+KW  - adult
+KW  - area under the curve
+KW  - bioinformatics
+KW  - cellular immunity
+KW  - clinical practice
+KW  - conference abstract
+KW  - controlled study
+KW  - differential gene expression
+KW  - extremely premature birth
+KW  - female
+KW  - forest
+KW  - human
+KW  - inflammation
+KW  - low birth weight
+KW  - lung disease
+KW  - *lung dysplasia
+KW  - machine learning
+KW  - major clinical study
+KW  - male
+KW  - nerve cell network
+KW  - newborn
+KW  - Poland
+KW  - random forest
+KW  - retrospective study
+KW  - smooth muscle tone
+KW  - supervised machine learning
+KW  - support vector machine
+KW  - very low birth weight
+KW  - biological marker
+T2  - American Journal of the Medical Sciences
+LA  - English
+VL  - 367
+IS  - Supplement 1
+PB  - Elsevier B.V.
+SN  - 1538-2990
+DO  - https://dx.doi.org/10.1016/S0002-9629%2824%2900660-8
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexb&NEWS=N&AN=2030151426
+AD  - Netherlands
+AB  - Purpose of Study: Bronchopulmonary dysplasia is the most common lung disease in extremely preterm newborns. To date, biomarkers used to predict BPD have not translated to clinical practice. Our goal was to leverage bioinformatics and machine learning to identify early transcripts that could predict neonates at risk for BPD. Methods Used: A retrospective analysis of 97 very low birth weight neonates from Poland. Whole micro array data was downloaded from a publicly available site, normalized, and differential gene expression was calculated. BPD was defined according to Jenson Et. Al.'s definition in 2019. Supervised machine learning models were created in a training data set (70%) and evaluated in the testing data set (30%). Performance metrics were assessed by the area under the receiving operating characteristic curve (AUC), all under R. Summary of Results: Neonates who develop BPD were younger (median, 25.5 weeks versus 28.0 weeks, p < 0.001) and had a lower birth weight (705 grams versus 1120 grams, p < 0.001). Random forest and support vector machine had a higher AUC then neural networks and generalized linear modeling. A stacked model was built using support vector machine and forest that was built solely using 6 genes (CD4, PNPO, UNK, IL1RN, ABHD6, KCNMB1). Performance of this model was reached at 95% (CI, 87.5%-100%). Conclusion(s): Herein, we described a set of genes at day of life 5 that accurately predict BPD. These genes are associated with T-cell immunity, inflammation, and smooth muscle tone. [Figure presented] [Table presented]Copyright © 2024 Elsevier Inc. All rights reserved.
+LB  - Included by Other
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2019>
+TI  - Comparative two time-point proteome analysis of the plasma from preterm infants with and without bronchopulmonary dysplasia.
+DO  - https://dx.doi.org/10.1186/s13052-019-0676-0
+AU  - Zasada, Magdalena
+AU  - Suski, Maciej
+AU  - Bokiniec, Renata
+AU  - Szwarc-Duma, Monika
+AU  - Borszewska-Kornacka, Maria Katarzyna
+AU  - Madej, Jozef
+AU  - Bujak-Gizycka, Beata
+AU  - Madetko-Talowska, Anna
+AU  - Revhaug, Cecilie
+AU  - Baumbusch, Lars O
+AU  - Saugstad, Ola D
+AU  - Pietrzyk, Jacek Jozef
+AU  - Kwinta, Przemko
+Y1  - 2019//
+Y2  - 20190824//
+KW  - Age Factors
+KW  - Biomarkers
+KW  - Bronchopulmonary Dysplasia/co [Complications]
+KW  - *Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - Case-Control Studies
+KW  - Female
+KW  - Gestational Age
+KW  - Humans
+KW  - Infant
+KW  - Infant, Newborn
+KW  - Infant, Premature
+KW  - Male
+KW  - *Proteome
+T2  - Italian journal of pediatrics
+VL  - 45
+IS  - 1
+SN  - 1720-8424
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med16&NEWS=N&AN=31445514
+AD  - England
+AB  - BACKGROUND: In this study, we aimed to analyze differences in plasma protein abundances between infants with and without bronchopulmonary dysplasia (BPD), to add new insights into a better understanding of the pathogenesis of this disease., METHODS: Cord and peripheral blood of neonates (<= 30 weeks gestational age) was drawn at birth and at the 36th postmenstrual week (36 PMA), respectively. Blood samples were retrospectively subdivided into BPD(+) and BPD(-) groups, according to the development of BPD., RESULTS: Children with BPD were characterized by decreased afamin, gelsolin and carboxypeptidase N subunit 2 levels in cord blood, and decreased galectin-3 binding protein and hemoglobin subunit gamma-1 levels, as well as an increased serotransferrin abundance in plasma at the 36 PMA., CONCLUSIONS: BPD development is associated with the plasma proteome changes in preterm infants, adding further evidence for the possible involvement of disturbances in vitamin E availability and impaired immunological processes in the progression of prematurity pulmonary complications. Moreover, it also points to the differences in proteins related to infection resistance and maintaining an adequate level of hematocrit in infants diagnosed with BPD.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 642636156
+TI  - Comparative Transcriptional Analysis of Patient Responders Versus Non-Responders to Glucocorticoid Treatment for Bronchopulmonary Dysplasia
+AU  - Shi V.J.
+AU  - Burale S.
+AU  - Lewis T.
+AU  - Silswal N.
+AU  - Monaghan-Nichols P.
+Y1  - 2021//
+KW  - African American
+KW  - Caucasian
+KW  - clinical article
+KW  - conference abstract
+KW  - controlled study
+KW  - degranulation
+KW  - drug efficacy
+KW  - drug therapy
+KW  - female
+KW  - gene expression
+KW  - genetic background
+KW  - *genetic transcription
+KW  - gestational age
+KW  - Hispanic
+KW  - human
+KW  - infant
+KW  - inflammation
+KW  - *lung dysplasia
+KW  - lymphocyte activation
+KW  - male
+KW  - microsome
+KW  - newborn
+KW  - pathway analysis
+KW  - prematurity
+KW  - protein expression
+KW  - quantitative analysis
+KW  - real time polymerase chain reaction
+KW  - respiratory function
+KW  - signal transduction
+KW  - software
+KW  - dexamethasone
+KW  - endogenous compound
+KW  - *glucocorticoid
+KW  - glutathione transferase
+KW  - interleukin 12 receptor beta1
+KW  - matrix metalloproteinase
+KW  - transcriptome
+T2  - Journal of the Endocrine Society
+LA  - English
+VL  - 5
+IS  - Supplement 1
+PB  - Endocrine Society
+SN  - 2472-1972
+AD  - V.J. Shi, University of Missouri, Kansas City School of Medicine, Kansas City, MO, United States
+DO  - https://dx.doi.org/10.1210/jendso/bvab048.160
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emexa&NEWS=N&AN=642636156
+AB  - Bronchopulmonary Dysplasia (BPD) is a common heterogeneous lung disease that can result from preterm birth at less than 28-weeks gestation, prenatal and postnatal inflammatory insults, ventilator associated lung injury, and oxygen-related injury. Synthetic glucocorticoids (sGCs) are commonly used pre- and postnatally to treat inflammation and improve lung physiology. Clinical responses to sGC therapy for BPD vary in patients. We hypothesize that genetic background differences in transcriptional response to sGC therapy dictate the efficacy in infants with BPD. Identifying pathways and genes that mediate these differences will allow prospective determination of which infants would respond to sGC treatment. 26 preterm infants that received sGC treatment for BPD were identified. Respiratory Severity Score (RSS), an indication of BPD severity, was measured at diagnosis, 4 days, and 7 days post-sGC treatment. Patients were stratified into Responders versus Non-Responders by improvement in respiratory function after treatment. Changes in RSS were used to discriminate Responders (R >3 decrease in RSS) to treatment from Non-Responders (NR <3 decrease). 13 Responders and 13 Non-Responders were selected. They included 7 females and 19 males with an average gestational age of 24.3 weeks, and were 46% Caucasian, 31% African American, 19% Hispanic, and 4% other. 100muL of blood was collected before and after seven days of a dexamethasone treatment course. To examine differences in transcription response between Responders (n = 13) and Non-Responders (n= 13), RNA was isolated and analyzed using the Clariom S Human Transcriptome Affymetrix array. 21,500 expressed genes were profiled. Result(s): were imported into the Transcriptome Analysis Console (TAC) software, and genes with a significant difference (fold change >1.48 or < -1.48 and p-value <0.05) in Responders and Non-Responders were identified. Of those, 133 genes were upregulated and 74 downregulated. Ingenuity Pathway Analysis (IPA) was used to identify signaling pathways and disease processes that were uniquely altered in Responders versus Non- Responders. Non-Responders showed significant activation of neuroinflammatory signaling pathways, degranulation pathways, and lymphocyte activation disease pathways. Target genes in the top dysregulated pathways were evaluated using quantitative Polymerase Chain Reaction (qPCR). Expression changes in Matrix Metalloproteinase-25, Interleukin-12 Receptor beta, and Microsomal Glutathione Transferase-1, key mediators of inflammation, were validated in independent studies using qPCR. While response to systemic glucocorticoids in neonates with BPD is variable, these studies identified pathways that are altered in Responders versus Non-Responders and are a step towards developing pre-screening tools to stratify infants for response to sGC BPD therapy.
+LB  - Included by both
+ER  -
+TY  - ABST
+DB  - Embase Preprint
+AN  - 2027602718
+TI  - Bioinformatics analyses and experimental validation of ferroptosis-related genes in bronchopulmonary dysplasia pathogenesis
+AU  - Luo Y.
+AU  - Zhang Z.
+AU  - Xi S.
+AU  - Li T.
+Y1  - 2023//
+KW  - *algorithm
+KW  - *bioinformatics
+KW  - cell infiltration
+KW  - controlled study
+KW  - differential gene expression
+KW  - *ferroptosis
+KW  - gene expression
+KW  - gene ontology
+KW  - gene set enrichment analysis
+KW  - human
+KW  - human cell
+KW  - immunocompetent cell
+KW  - language
+KW  - *lung dysplasia
+KW  - M2 macrophage
+KW  - macrophage
+KW  - mast cell
+KW  - memory
+KW  - neutrophil
+KW  - protein expression
+KW  - quantitative analysis
+KW  - real time reverse transcription polymerase chain reaction
+KW  - receiver operating characteristic
+KW  - signal transduction
+KW  - T lymphocyte
+KW  - weighted gene co expression network analysis
+KW  - CD4 antigen
+KW  - endogenous compound
+KW  - long chain fatty acid coenzyme A ligase
+KW  - messenger RNA
+KW  - mitogen activated protein kinase 14
+T2  - medRxiv
+LA  - English
+SP  -
+PB  - medRxiv
+AD  - S. Xi, Department of Pediatrics, Affiliated TaiheHospital of Hubei University of Medicine, Hubei, Shiyan, China. E-mail: xishibing2009@163.com, T. Li, Department of Pediatrics, Affiliated TaiheHospital of Hubei University of Medicine, Hubei, Shiyan, China. E-mail: 317371983@qq.com
+UR  - https://www.medrxiv.org/
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=empp&NEWS=N&AN=2027602718
+DO  - https://dx.doi.org/10.1101/2023.09.04.23295026
+AB  - Objective We aimed to study the involvement of ferroptosis in the pathogenesis of bronchopulmonary dysplasia (BPD) by conducting bioinformatics analyses and identifying and validating the associated ferroptosis-related genes to explore new directions for treating BPD. Methods The dataset GSE32472 on BPD was downloaded from the public genome database. Using R language, differentially expressed genes (DEGs) between the BPD and normal group were screened. In the present study, we adopted weighted gene correlation network analysis (WGCNA) for identifying BPD-related gene modules and ferroptosis-related genes were extracted from FerrDb. Their results were intersected to obtain the hub genes. After that, to explore the hub gene-related signaling pathways, the hub genes were exposed to gene ontology enrichment analysis. With the purpose of verifying the mRNA expression of the hub genes, a single-gene gene set enrichment analysis and quantitative reverse transcription polymerase chain reaction were conducted. Immune cell infiltration in BPD was analyzed using the CIBERSORT inverse fold product algorithm. Results A total of 606 DEGs were screened. WGCNA provided the BPD-related gene module darkgreen4. The intersection of DEGs, intramodular genes, and ferroptosis-related genes revealed six ferroptosis-associated hub genes (ACSL1, GALNT14, WIPI1, MAPK14, PROK2, and CREB5). Receiver operating characteristic curve analysis demonstrated that the hub genes screened for BPD were of good diagnostic significance. According to the results of immune infiltration analysis, the proportions of a cluster of differentiation (CD)8, CD4 naive, and memory resting T cells and M2 macrophage were elevated in the normal group, and the proportions of M0 macrophage, resting mast cell, and neutrophils were increased in the BPD group. Conclusions A total of six ferroptosis-associated hub genes in BPD were identified in this study, and they may be potential new therapeutic targets for BPD.Copyright The copyright holder for this preprint is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY 4.0 International license.
+LB  - Included by Other
+ER  -

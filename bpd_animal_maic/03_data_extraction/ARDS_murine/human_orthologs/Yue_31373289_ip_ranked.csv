@@ -1,0 +1,125 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Lcp1,ENSG00000136167,ortholog_one2one,96.9697,99.2026
+Serpina3n,ENSG00000196136,ortholog_one2many,60.9929,76.3593
+Serpina1b,ENSG00000197249,ortholog_one2many,64.3541,81.5789
+Serpina6,ENSG00000170099,ortholog_one2one,58.0247,73.3333
+Hpx,ENSG00000110169,ortholog_one2one,73.5931,82.9004
+Serpinc1,ENSG00000117601,ortholog_one2one,87.5,92.0259
+Pon1,ENSG00000005421,ortholog_one2one,82.2535,92.3944
+Apoa4,ENSG00000110244,ortholog_one2one,59.596,77.7778
+Fbln1,ENSG00000077942,ortholog_one2one,84.495,91.6074
+Il1rap,ENSG00000196083,ortholog_one2one,75.9649,87.7193
+Ctss,ENSG00000163131,ortholog_one2one,74.0181,86.4048
+Apcs,ENSG00000132703,ortholog_one2one,68.6099,81.1659
+Ighg2b,not found,,,
+Cxcl15,not found,,,
+Lpl,ENSG00000175445,ortholog_one2one,92.4211,95.1579
+Hrg,ENSG00000113905,ortholog_one2one,61.3333,71.2381
+Serpind1,ENSG00000099937,ortholog_one2one,81.5631,87.7756
+Mup11,not found,,,
+Ctsc,ENSG00000109861,ortholog_one2one,77.7538,86.6091
+Npc2,ENSG00000119655,ortholog_one2one,79.4702,86.755
+Chi3l1,ENSG00000133048,ortholog_one2one,72.0627,85.1175
+Hc,ENSG00000106804,ortholog_one2many,77.8043,89.1408
+Serpina1d,ENSG00000197249,ortholog_one2many,63.6364,80.3828
+Ces1c,ENSG00000198848,ortholog_one2many,64.6127,78.8732
+Fam3c,ENSG00000196937,ortholog_one2one,94.2731,97.7974
+Qsox1,ENSG00000116260,ortholog_one2one,72.0214,80.4552
+Chmp5,ENSG00000086065,ortholog_one2one,98.6301,99.0868
+Txn1,ENSG00000136810,ortholog_one2one,87.619,93.3333
+Hprt1,ENSG00000165704,ortholog_one2one,96.789,98.6239
+Retnla,ENSG00000163515,ortholog_one2many,50.4505,72.0721
+Hmgb1,not found,,,
+Chia1,ENSG00000134216,ortholog_one2many,80.8824,89.916
+Anp32a,ENSG00000139223,ortholog_one2many,84.7328,90.0763
+Anp32a,ENSG00000140350,ortholog_one2many,88.3534,93.9759
+AU021092,ENSG00000153446,ortholog_one2one,68.144,79.2244
+Igkv4-86,not found,,,
+Sh3bgrl3,ENSG00000142669,ortholog_one2one,95.6989,97.8495
+Itih3,ENSG00000162267,ortholog_one2one,84.9438,92.809
+Serpina7,ENSG00000123561,ortholog_one2one,76.1446,87.2289
+Mapk3,ENSG00000102882,ortholog_one2one,96.5699,96.8338
+Nrp1,ENSG00000099250,ortholog_one2one,92.9577,96.0997
+Saa1,not found,,,
+Cst3,ENSG00000101439,ortholog_one2many,69.1781,81.5069
+Ace,ENSG00000159640,ortholog_one2one,83.3078,92.9556
+Igkv12-41,not found,,,
+Naga,ENSG00000198951,ortholog_one2one,82.4818,90.2676
+Ppia,ENSG00000196262,ortholog_one2one,95.7576,96.9697
+Klkb1,ENSG00000164344,ortholog_one2one,75.8621,86.5204
+Ighg1,not found,,,
+Tppp3,ENSG00000159713,ortholog_one2one,96.5909,99.4318
+Glod4,ENSG00000167699,ortholog_one2one,91.6107,95.6376
+Igkv4-55,not found,,,
+Apoe,ENSG00000130203,ortholog_one2one,70.6625,82.6498
+Ighm,ENSG00000211899,ortholog_one2one,65.6118,77.6371
+Serpina3m,ENSG00000196136,ortholog_one2many,60.2837,74.2317
+Pcbp1,ENSG00000169564,ortholog_one2one,100,100
+Vars1,ENSG00000204394,ortholog_one2one,92.0095,95.3323
+Gsn,ENSG00000148180,ortholog_one2one,94.8016,97.948
+Aqp5,ENSG00000161798,ortholog_one2one,90.566,96.2264
+Napsa,ENSG00000131400,ortholog_one2one,70.2381,78.8095
+Sumo3,not found,,,
+Manba,ENSG00000109323,ortholog_one2one,75.6542,85.7793
+H2bc22,not found,,,
+Lyz2,not found,,,
+Ttr,ENSG00000118271,ortholog_one2one,81.6327,91.8367
+Arcn1,ENSG00000095139,ortholog_one2one,99.0215,99.8043
+Rps27a,ENSG00000143947,ortholog_one2one,99.359,99.359
+Ltf,ENSG00000012223,ortholog_one2one,70.5634,82.5352
+Lasp1,ENSG00000002834,ortholog_one2one,96.1686,98.0843
+Psma4,ENSG00000041357,ortholog_one2one,98.8506,100
+Fth1,ENSG00000167996,ortholog_one2one,91.8033,95.6284
+Il6st,ENSG00000134352,ortholog_one2one,77.1242,86.7102
+Psmd3,ENSG00000108344,ortholog_one2one,97.191,97.7528
+Spp1,ENSG00000126821,ortholog_one2one,79.8186,85.4875
+Inmt,ENSG00000241644,ortholog_one2one,58.1749,74.1445
+Sdcbp,ENSG00000137575,ortholog_one2one,88.5906,93.9597
+Serpinf1,ENSG00000132386,ortholog_one2one,85.4067,93.3014
+Pltp,ENSG00000100979,ortholog_one2one,81.9473,90.2637
+Mup1,not found,,,
+Txnl1,ENSG00000091164,ortholog_one2one,95.8477,97.2318
+Cd200,ENSG00000091972,ortholog_one2one,76.9517,87.3606
+Ppib,ENSG00000166794,ortholog_one2one,93.9815,96.7593
+Hba-a1,ENSG00000206172,ortholog_many2many,86.6197,92.2535
+Hba-a1,ENSG00000188536,ortholog_many2many,86.6197,92.2535
+Tmsb4x,not found,,,
+Ctsb,ENSG00000164733,ortholog_one2one,78.7611,87.9056
+Igkv6-17,ENSG00000211598,ortholog_one2many,64.4628,76.8595
+Cadm1,ENSG00000182985,ortholog_one2one,98.7261,98.9384
+Igkv12-44,not found,,,
+Hmgn2,not found,,,
+Lyz1,not found,,,
+Ifi30,ENSG00000216490,ortholog_one2one,61.2,74
+Rbp4,ENSG00000144231,ortholog_one2one,100,100
+Cyb5r3,ENSG00000100243,ortholog_one2one,68.7708,77.7409
+Nucks1,ENSG00000069275,ortholog_one2one,92.1811,93.8272
+Emp2,ENSG00000213853,ortholog_one2one,77.8443,89.2216
+Eef1b2,ENSG00000114942,ortholog_one2one,95.5556,98.2222
+Cyp2f2,ENSG00000197446,ortholog_one2one,81.6701,90.4277
+St13,ENSG00000100380,ortholog_one2one,94.3089,97.29
+Nap1l1,ENSG00000187109,ortholog_one2one,98.2097,100
+Man2b2,ENSG00000013288,ortholog_one2one,75.6194,83.449
+Ldlr,ENSG00000130164,ortholog_one2one,78.0233,85.814
+Pebp1,not found,,,
+Slc39a4,ENSG00000147804,ortholog_one2one,71.5611,80.2164
+H2-Q10,not found,,,
+Ighv5-12,not found,,,
+H2ac19,not found,,,
+Atox1,ENSG00000177556,ortholog_one2one,85.2941,92.6471
+Mme,ENSG00000196549,ortholog_one2one,94.1333,97.7333
+Adpgk,ENSG00000159322,ortholog_one2one,91.3481,95.9759
+Clic5,ENSG00000112782,ortholog_one2one,90.8367,94.4223
+Fgfr2,ENSG00000066468,ortholog_one2one,97.5639,98.782
+Capns1,ENSG00000126247,ortholog_one2one,94.7761,97.3881
+Fgl2,ENSG00000127951,ortholog_one2one,77.221,86.7882
+H2az1,ENSG00000164032,ortholog_one2one,100,100
+Gsta4,not found,,,
+Sftpb,ENSG00000168878,ortholog_one2one,70.6037,80.0525
+Dnaja2,ENSG00000069345,ortholog_one2one,99.5146,99.7573
+Lcat,ENSG00000213398,ortholog_one2one,85.4545,90.4545
+Anpep,ENSG00000166825,ortholog_one2one,76.2151,86.97
+Cyrib,ENSG00000153310,ortholog_one2one,99.6914,100
+Gpx3,ENSG00000211445,ortholog_one2one,89.3805,94.6903
+Vps4b,ENSG00000119541,ortholog_one2one,95.4955,97.2973
+Igk-V9,error - retries exceeded,,,

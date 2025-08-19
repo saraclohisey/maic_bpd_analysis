@@ -1,0 +1,24 @@
+Search Steps 
+
+4450 items returned from Medline and Embase search 
+
+82 non-human mammal papers progression to full text screening (from 4-8)
+
+Reasons for exclusions
+- Conference Poster (n = 38)
+- Conference Abstract (n = 6)
+- Duplicates (n = 3)
+- Knockout mice (n = 1)
+- Re-analysis of public data (n = 2)
+- Candidate study <50 genes (n = 3)
+- No English text (n = 1)
+- Human cells (n = 1) 
+- No full text available (n = 2) 
+- Not performed a genome/transcriptome wide analysis (n = 7)
+- Literature Review (n = 1)
+
+65 studies excluded 
+
+17 non-human mammal included
+
+

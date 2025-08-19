@@ -1,0 +1,15 @@
+RNAseq	
+Coarfa_28818871_female_down_day21_ranked
+RANKED	
+NAMED_GENES
+mouse
+Otop1
+Scn1a
+Epgn
+Prss57
+Esrrb
+Cyp2d26
+Crybb1
+Cebpe
+Sele
+Il1b

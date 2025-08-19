@@ -1,0 +1,27 @@
+1. Go to https://sr-accelerator.com/#/screenatron
+2. Practice using the demo library to familiarize with the hotkeys
+3. Click 'close' and start a new session
+
+4. Click 'File' -> 'Load' to load the .xml or .ris file provided
+5. Click ‘View’ -> “Show All Abstracts” from the top toolbar
+
+6. Create a 3 'Groups' (see image):
+	Exclude
+	Human
+	Mammal (non-human)
+
+7. Click the first reference in the table
+8. Begin screening
+	- Hotkeys: '1' to Exclude, '2' to Include, '3' for Undecided and to revisit later, 'A' to show abstract when a publication is selected
+	- a .txt file with keywords for inclusion/exclusion criteria is also provided
+
+8. [Important] After each session, click 'File' -> 'Save' to save your progress as a .scrn file.
+Load this file to start the next session at your last stopping point.
+9. To look further into a publication, click 'Reference' and use any of the search tools to retrieve a PDF of the publication.
+
+10. Once screening is complete, EMAIL the final .scrn file TO SARA
+	- Please keep the same filename
+
+"scrn_completed"
+
+MAJOR THANK YOU!

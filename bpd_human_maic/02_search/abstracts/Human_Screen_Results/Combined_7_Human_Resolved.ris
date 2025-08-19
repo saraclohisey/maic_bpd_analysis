@@ -1,0 +1,685 @@
+TY  - ABST
+DB  - Embase
+AN  - 70848511
+TI  - Transcriptional profiling of bronchopulmonary dysplasia (BPD) tissue reveals changes in the IGF1 pathway and mast cell accumulation are associated with disease pathogenesis
+AU  - Bhattacharya S.
+AU  - Srisuma S.
+AU  - Solleti S.K.
+AU  - Krenitsky D.
+AU  - Huyck H.L.
+AU  - Gascon J.L.
+AU  - Parnell V.
+AU  - Metlay L.
+AU  - Mariani T.J.
+AU  - Pryhuber G.S.
+Y1  - 2011//
+KW  - *lung dysplasia
+KW  - *tissues
+KW  - *mast cell
+KW  - *pathogenesis
+KW  - *society
+KW  - gene
+KW  - lung parenchyma
+KW  - genome
+KW  - human
+KW  - airway
+KW  - Student t test
+KW  - disease marker
+KW  - immunohistochemistry
+KW  - diagnosis
+KW  - morbidity
+KW  - tissue structure
+KW  - premature labor
+KW  - death
+KW  - DNA damage
+KW  - blood
+KW  - cell cycle regulation
+KW  - meconium aspiration
+KW  - lung disease
+KW  - respiratory distress syndrome
+KW  - DNA
+KW  - RNA
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 183
+IS  - 1 MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1073-449X
+AD  - S. Bhattacharya, University of Rochester, Rochester, NY, United States. E-mail: soumyaroop_bhattacharya@URMC.Rochester.edu
+UR  - http://ajrccm.atsjournals.org/cgi/reprint/183/1_MeetingAbstracts/A4204?sid=0e355b8d-d419-41a1-8e89-62ca18d439a0
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed12&NEWS=N&AN=70848511
+AB  - Rationale: Bronchopulmonary Dysplasia (BPD) is a major complication of preterm birth associated with both acute and chronic morbidity. Although recent progress has been made in the identification of diagnostic and potentially mechanistic disease markers, particularly from airway washings or peripheral blood, we currently lack a thorough understanding of the cellular and molecular defects that underly disease processes. This lack of understanding restricts attempts to reduce its incidence and impact. Method(s): Lung tissue samples from 28 subjects (including 11 BPD and 17 non-BPD) were harvested within 6 hours of death, following a standardized protocol to retain tissue structure and molecular integrity. Whole lung tissue RNA from each sample was interrogated for genome-wide expression using the Affymetrix U133 Plus 2.0 array. Ingenuity Pathway Analysis (IPA) was used for pathway and network analyses of differentially expressed genes. Gene Set Enrichment Analysis (GSEA) was performed to identify pre-defined gene sets that were statistically significant between BPD samples and controls. Global validation of array-based differential expression was carried out using quantitative RT-PCR (qPCR) and immunohistochemistry (IHC). Result(s): A total of 159 genes met test criteria for differential expression (T-Test p <0.05 and Fold Change >= 2) between 11 BPD cases and 9 non-BPD controls (5 no lung disease, 3 mild RDS, 1 meconium aspiration), and were considered for pathways analysis. The top dysregulated canonical pathways in BPD involved cell cycle control associated with DNA damage, and immune-related signaling, consistent with prior knowledge of disease-related processes. Thirty-one of these 159 genes (~20%) could be linked through a single network with IGF1 as the central node. GSEA also identified multiple IGF1-related gene sets significantly associated (p<0.05) with BPD. We confirmed significant increases in IGF1 expression in our BPD tissue, similar to previous reports. When ranked for magnitude of effect, 3 of the 5 top genes (and 9 of the top 26 probe sets) were mast cell-specific. IHC confirmed increased accumulation of mast cell in BPD tissues, particularly within the lung parenchyma. Summary: We have generated a unique set of genome-wide expression profiling data from human BPD and age matched control lung tissue. Using standard pathways analysis approaches, we were able to identify previously known, as well as novel processes associated with disease pathogenesis. Further analysis of these data should significantly expand our knowledge of BPD, and may be useful for the development of new therapeutic strategies.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 71985737
+TI  - Reduced expression of platelet-derived growth factor receptor-alpha in neonatal lung mesenchymal stromal cells from infants developing bronchopulmonary dysplasia
+AU  - Popova A.P.
+AU  - Bentley J.K.
+AU  - Bozyk P.
+AU  - Linn M.J.
+AU  - Lei J.
+AU  - Goldsmith A.M.
+AU  - Pryhuber G.S.
+AU  - Hershenson M.B.
+Y1  - 2012//
+KW  - *lung
+KW  - *mesenchymal stroma cell
+KW  - *infant
+KW  - *lung dysplasia
+KW  - *American
+KW  - *society
+KW  - human
+KW  - mouse
+KW  - prematurity
+KW  - angiogenesis
+KW  - DNA synthesis
+KW  - hyperoxia
+KW  - gene expression
+KW  - tracheal aspiration procedure
+KW  - gene
+KW  - vascular smooth muscle cell
+KW  - newborn
+KW  - model
+KW  - gene probe
+KW  - immunohistochemistry
+KW  - immunoblotting
+KW  - university
+KW  - risk
+KW  - lung parenchyma
+KW  - respiratory distress
+KW  - artificial ventilation
+KW  - phenotype
+KW  - baby
+KW  - protein expression
+KW  - cell proliferation
+KW  - *platelet derived growth factor alpha receptor
+KW  - platelet derived growth factor
+KW  - platelet derived growth factor D
+KW  - oxygen
+KW  - thymidine
+KW  - DNA
+KW  - platelet derived growth factor AA
+KW  - actin
+KW  - catenin
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 185
+IS  - MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1073-449X
+AD  - A.P. Popova, University of Michigan, Ann Arbor, MI, United States
+UR  - http://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2012.185.1_MeetingAbstracts.A1209
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed13&NEWS=N&AN=71985737
+AB  - Background: Tracheal aspirates from premature infants undergoing mechanical ventilation for respiratory distress contain mesenchymal stromal cells (MSCs), the isolation of which is associated with increased risk of developing bronchopulmonary dysplasia (BPD). Objective(s): We hypothesized that, compared to infants not developing BPD, MSCs from infants developing BPD would show stable differences in the expression of genes regulating alveolar development and myofibroblastic differentiation. We also hypothesized that differences, if present, would be reflected in the lungs of infants with BPD and hyperoxia-exposed newborn mice, a model of BPD. Design/Methods: MSCs were isolated from tracheal aspirates of premature neonates. Low passage MSCs were studied. DNA synthesis in response to platelet-derived growth factor (PDGF)-AA was assessed by [3H]-thymidine uptake. Two day-old mice were exposed to air or 75% oxygen for 14 days. Lung tissue from human infants with BPD was obtained from University of Rochester Neonatal Lung Biorepository. Gene expression was analyzed by gene array, qPCR, immunoblot and immunohistochemistry. Result(s): Compared with cells from infants not developing BPD, 199 gene probe transcripts were differentially expressed by neonatal lung MSCs from infants developing BPD. MSCs from infants developing BPD showed significantly lower expression of mRNAs encoding PDGF-R a, PDGF-Rb and PDGF-D, which are important for lung alveolarization, vascular smooth muscle cell proliferation and angiogenesis. Results were confirmed by qPCR, and immunoblots showed reduced protein expression of PDGF-Ra and PDGF-Rb. MSCs from infants developing BPD showed reduced PDGF-AA-induced DNA synthesis. Lungs from hyperoxia-exposed neonatal mice and human infants with BPD showed hypoalveolarization and lower PDGF-Ra expression. Finally, a subset of MSCs from babies developing BPD showed a myofibroblastic phenotype characterized by increased a-actin, b-catenin and phospho-GSK-3b content. Conclusion(s): MSCs from infants developing BPD demonstrate stable alterations in gene expression which favor reduced proliferation and angiogenesis, as well as myofibroblastic differentiation.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 72051955
+TI  - Lymphocyte-specific biomarkers associated with bronchopulmonary dysplasia
+AU  - Bhattacharya S.
+AU  - Misra R.
+AU  - Mereness J.
+AU  - Hyuck H.
+AU  - Slaunwhite C.
+AU  - Chu C.-Y.
+AU  - Lunger V.
+AU  - Lopez A.
+AU  - Baran A.
+AU  - Peterson D.
+AU  - Reynolds A.M.
+AU  - Ryan R.M.
+AU  - Pryhuber G.S.
+AU  - Mariani T.J.
+Y1  - 2015//
+KW  - *lymphocyte
+KW  - *lung dysplasia
+KW  - *American
+KW  - *society
+KW  - gene
+KW  - gene expression
+KW  - human
+KW  - prematurity
+KW  - infant
+KW  - blood
+KW  - gestational age
+KW  - diagnosis
+KW  - gender
+KW  - university
+KW  - pregnancy
+KW  - blood sampling
+KW  - peripheral lymphocyte
+KW  - lymphocyte proliferation
+KW  - hospital discharge
+KW  - maturation
+KW  - workshop
+KW  - risk
+KW  - flow cytometry
+KW  - computer program
+KW  - buffalo
+KW  - analysis of variance
+KW  - *biological marker
+KW  - CD8 antigen
+KW  - calpain
+KW  - oncostatin M
+KW  - RNA
+KW  - molecular marker
+KW  - transcriptome
+KW  - ciliary neurotrophic factor
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 191
+IS  - MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1073-449X
+AD  - S. Bhattacharya, University of Rochester, Rochester, NY, United States. E-mail: soumyaroop_bhattacharya@urmc.rochester.edu
+UR  - http://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2015.191.1_MeetingAbstracts.A4080
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed16&NEWS=N&AN=72051955
+AB  - Rationale: Bronchopulmonary Dysplasia (BPD) is a major complication in premature infants, particularly those born at less than 29 weeks of gestation. Comprehensive transcriptomic analysis of fractionated peripheral lymphocytes obtained from preterm infants could identify predictors of BPD, both in terms of biomarkers and pathways, and also uncover disease-related mechanisms. Method(s): Sorted CD8+ lymphocytes were isolated from peripheral blood samples collected at the time of hospital discharge from 143 preterm infants enrolled with consent in the NHLBI Prematurity and Respiratory Outcomes Program (PROP) at the University of Rochester and the University at Buffalo. RNA isolated from sorted lymphocytes was interrogated by RNA-Seq analysis. We identified age-, gender- and outcome-related gene expression patterns following standard methods (SAM-Seq, ANOVA, etc.). Ingenuity Pathway Analysis software was used for gene set interpretation. Cell purity and gene expression estimates were validated by quantitative RT-PCR. Result(s): Infant peripheral blood CD8+ lymphocytes were consistently isolated at discharge from preterm infants, ranging from 23-37 weeks gestational age at birth, with a high degree of purity as defined by flow cytometry and qPCR-based gene expression analysis. RNA-Seq analysis was completed for CD8+ cells from 79 subjects, generating an average of 9+4 million reads/sample with detection of 64+5% of the transcriptome. Gene expression patterns significantly associated with gestational age at birth, and days of life at sample collection, were identified. Gene expression was only modestly associated (6 genes) with being born at a gestational age with high risk for BPD (<29 weeks). Similarly, few genes were significantly associated with race (7 genes) or gender (14 genes). Consistent gene expression patterns associated with a diagnosis of BPD were identified. However, the magnitude of gene expression differences were highly dependent upon the criteria used to define BPD; 190 genes identified by Shennan definition, 64 genes identified by clinical diagnosis, 7 genes identified by NIH workshop definition. Regardless of BPD definition, dysregulation of Calpain-, Oncostatin M-, and CNTF-associated pathways were implicated. Summary: We have generated transcriptomic data from sort-purified peripheral blood CD8+ lymphocytes from 143 preterm infants. Our analyses have identified sets of molecular markers putatively associated with age-related lymphocyte maturation and with BPD outcome. The implication of Calpain- and Oncostatin M-related pathways with BPD suggests disease-associated differences in lymphocyte proliferation.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 71555579
+TI  - Identification of genetic variants underlying bronchopulmonary dysplasia in preterm newborns using exome sequencing
+AU  - Carrera P.
+AU  - Di Resta C.
+AU  - Somaschini M.
+AU  - Castiglioni E.
+AU  - Volonteri C.
+AU  - Bonfiglio S.
+AU  - Lazarevic D.
+AU  - Cittaro D.
+AU  - Stupka E.
+AU  - Ferrari M.
+Y1  - 2014//
+KW  - *genetic variability
+KW  - *lung dysplasia
+KW  - *newborn
+KW  - *human
+KW  - *prematurity
+KW  - *exome
+KW  - *clinical chemistry
+KW  - *laboratory
+KW  - *clinical laboratory
+KW  - *society
+KW  - gene
+KW  - pilot study
+KW  - prediction
+KW  - newborn intensive care
+KW  - heredity
+KW  - very low birth weight
+KW  - etiology
+KW  - algorithm
+KW  - filtration
+KW  - child
+KW  - pipeline
+KW  - infancy
+KW  - bioinformatics
+KW  - chronic lung disease
+KW  - diseases
+KW  - genome
+T2  - Clinical Chemistry and Laboratory Medicine
+LA  - English
+VL  - 52
+IS  - SUPPL. 1
+PB  - Walter de Gruyter GmbH and Co. KG
+SN  - 1434-6621
+AD  - P. Carrera, Genomic Unit for the Diagnosis of Human Pathologies, Center for Translational Genomics and Bioinformatics, San Raffaele Scientific Institute, Milan, Italy
+DO  - https://dx.doi.org/10.1515/cclm-2014-4004
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed15&NEWS=N&AN=71555579
+AB  - BACKGROUND: Recent development of next generation sequencing represents a great opportunity to analyse individual genomes in a short time, even if it is still challenging in multifactorial disorders. We recently approached exome sequencing for identification of genetic variants predisposing to bronchopulmonary dysplasia (BPD). BPD is the most common chronic lung disease in infancy affecting preterm children with a very low birth weight. BPD has a multifactorial aetiology and until now the genetic bases are mostly unknown. Several association studies were previously performed but they had a limited statistical power and few of these data have been replicated. In this study we planned a pilot exome sequencing analysis aimed to the identification of genetic factors underlying BPD in Italian preterm newborns, collected with the collaborative efforts of 12 Italian centres of Neonatal Intensive Care. METHOD(S): As a pilot study, we performed the exome analysis of 26 severely-affected BPD cases and of 5 individuals, previously analysed for certain genes in our lab using Sanger sequencing. The sequencing was performed on Illumina Hi-Seq2000. To manage the sequencing data, we used an automated bioinformatics pipeline, mapping reads versus the hg19 reference and filtering them on Broad Institute's latest algorithms. Polyphen 2 and Sift were used for the pathogenic prediction analysis and the prioritization study was performed with ToppGene Suite. RESULT(S): At first, data obtained using NGS have been validated with a quality analysis and with a comparison to known Sanger results. Only samples with a mean coverage15X were taken into account. We identified 3369 novel variants, with a median of 400 variations per sample, and 1524 were predicted probably damaging using the two principal pathogenic prediction tools. Moreover, looking for potentially candidate genes, we highlighted especially APOE and NOS2 using ToppGene for pathway analysis. These variants are being confirmed with Sanger sequencing. CONCLUSION(S): Today a further validation of these data is needed, with functional studies and with study segregation in families. Moreover, since the good results obtained from this pilot study, we are encourage to go on with the exome sequencing of all severe BPD cases collected.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 71840635
+TI  - Identification of biomarkers for early diagnosis in BPD
+AU  - Gimm T.
+AU  - Hoeland A.
+AU  - Schwarz M.
+AU  - Hossain H.
+AU  - Ehrhardt H.
+AU  - Gortner L.
+AU  - Scholz M.
+AU  - Reicherzer T.
+AU  - Hauck S.
+AU  - Hilgendorff A.
+Y1  - 2013//
+KW  - *early diagnosis
+KW  - *European
+KW  - *society
+KW  - urine
+KW  - fibroblast
+KW  - gene expression
+KW  - gene
+KW  - lung dysplasia
+KW  - artificial ventilation
+KW  - gestational age
+KW  - oxygen toxicity
+KW  - human
+KW  - umbilical cord blood
+KW  - lung function
+KW  - infant
+KW  - monocyte
+KW  - adulthood
+KW  - cell differentiation
+KW  - prematurity
+KW  - embryo development
+KW  - homeostasis
+KW  - risk
+KW  - diagnosis
+KW  - infection
+KW  - tracheal aspiration procedure
+KW  - *biological marker
+KW  - cytokine
+KW  - proteome
+KW  - protein
+KW  - ion
+KW  - interleukin 8
+KW  - growth factor
+KW  - transcriptome
+T2  - European Respiratory Journal
+LA  - English
+VL  - 42
+IS  - SUPPL. 57
+SP  -
+PB  - European Respiratory Society
+SN  - 0903-1936
+AD  - T. Gimm, Comprehensive Pneumology Center, Helmholtz Zentrum, Munich, Germany
+UR  - http://erj.ersjournals.com/content/42/Suppl_57/PP112.full.pdf+html?sid=3ecece04-b868-4ec9-bd7b-50f1ecd0aea5
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed14&NEWS=N&AN=71840635
+AB  - Rationale: Bronchopulmonary dysplasia (BPD), one of the most common complications in the preterm infant, is characterized by impaired alveolar and vessel development. Mechanical ventilation, oxygen toxicity and infections increase the risk for BPD with impaired pulmonary and neurologic outcome persisting into adulthood. Current definitions rely on late pulmonary function and reliable biomarkers allowing for an early diagnosis are still missing. Objective and Methods: We therefore subjected cord blood (CB) from preterms < 32 weeks gestational age with and without BPD to microarray (Code Link, cohort 1) and cytokine analysis (Luminex, cohort 2) for identification of signaling pathways and potential candidates for biomarker analysis. The results were correlated with data from fibroblasts isolated from tracheal aspirates (TA). First results from proteome analysis in urine and TA (LC-MS/MS) were compared to the results obtained by microarray and cytokine analysis. Result(s): Transcriptome analysis exhibited 102 up- and 134 down-regulated genes in preterms with BPD compared to no-BPD controls. Genes were involved in regulation of gene expression (up), or cell differentiation, embryonic development and ion homeostasis (down). Luminex analyses revealed significant differences in cytokines (sIL-1ra, IL-8, TNF-alpha, MCP-1) and growth factor expression (FGF2, EGF), correlating with functional data in fibroblasts from TA. First proteome data in urine and TA confirmed potential biomarker candidates. Conclusion(s): Gene expression and protein profiling from CB, urine and TA of preterms allows differentiation for later BPD diagnosis with increased monocyte signaling and fibroblast activation playing a central role.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2010 to 2011>
+TI  - Identification of SPOCK2 as a susceptibility gene for bronchopulmonary dysplasia.
+DO  - https://dx.doi.org/10.1164/rccm.201103-0548OC
+AU  - Hadchouel, Alice
+AU  - Durrmeyer, Xavier
+AU  - Bouzigon, Emmanuelle
+AU  - Incitti, Roberto
+AU  - Huusko, Johanna
+AU  - Jarreau, Pierre-Henri
+AU  - Lenclen, Richard
+AU  - Demenais, Florence
+AU  - Franco-Montoya, Marie-Laure
+AU  - Layouni, Ines
+AU  - Patkai, Juliana
+AU  - Bourbon, Jacques
+AU  - Hallman, Mikko
+AU  - Danan, Claude
+AU  - Delacourt, Christophe
+Y1  - 2011//
+Y2  - 20110811//
+KW  - Animals
+KW  - Animals, Newborn/ge [Genetics]
+KW  - Black People/ge [Genetics]
+KW  - *Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - Female
+KW  - Finland
+KW  - Gene Expression
+KW  - *Genetic Predisposition to Disease/ge [Genetics]
+KW  - Genome-Wide Association Study
+KW  - Genotype
+KW  - Humans
+KW  - Infant, Newborn
+KW  - Infant, Premature
+KW  - Lung/me [Metabolism]
+KW  - Male
+KW  - Polymorphism, Single Nucleotide/ge [Genetics]
+KW  - *Proteoglycans/ge [Genetics]
+KW  - Proteoglycans/ph [Physiology]
+KW  - Rats/ge [Genetics]
+KW  - White People/ge [Genetics]
+T2  - American journal of respiratory and critical care medicine
+VL  - 184
+IS  - 10
+SN  - 1073-449X
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med8&NEWS=N&AN=21836138
+AD  - United States
+AB  - RATIONALE: Bronchopulmonary dysplasia is the most common chronic respiratory disease in premature infants. Genetic factors might contribute to bronchopulmonary dysplasia susceptibility., OBJECTIVES: To identify genetic variants involved in bronchopulmonary dysplasia through a genome-wide association study., METHODS: We prospectively evaluated 418 premature neonates (gestational age <28 wk), of whom 22% developed bronchopulmonary dysplasia. Two discovery series were created, using a DNA pooling strategy in neonates from white and African ancestry. Polymorphisms associated with the disease were confirmed in an independent replication population. Genes were then explored by fine mapping and associations were replicated in an external Finnish population of 213 neonates. Validated genes expression patterns were studied in rat lung, after air or hyperoxia exposure., MEASUREMENTS AND MAIN RESULTS: SPOCK2 gene was identified by both discovery series. The most significant polymorphism (rs1245560; P = 1.66 x 10(-7)) was confirmed by individual genotyping, and in the replication population (P = 0.002). Fine mapping confirmed the association of rs1245560 with bronchopulmonary dysplasia in both white and African populations with adjusted odds ratios of 2.96 (95% confidence interval [CI], 1.37-6.40) and 4.87 (95% CI, 1.88-12.63), respectively. In white neonates, rs1049269 was also associated with the disease (odds ratio, 3.21; 95% CI, 1.51-6.82). These associations were replicated in the Finnish population. In newborn rat lungs, SPOCK2 mRNA levels markedly increased during the alveolar stage of lung development. After rat exposure to hyperoxia, SPOCK2 expression increased relative to air-exposed controls., CONCLUSIONS: We identified SPOCK2 as a new possible candidate susceptibility gene for bronchopulmonary dysplasia. Its lung expression pattern points toward a potential role in alveolarization.
+LB  - Included by Other
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2012>
+TI  - Genome-wide transcriptional profiling reveals connective tissue mast cell accumulation in bronchopulmonary dysplasia.
+DO  - https://dx.doi.org/10.1164/rccm.201203-0406OC
+AU  - Bhattacharya, Soumyaroop
+AU  - Go, Diana
+AU  - Krenitsky, Daria L
+AU  - Huyck, Heidi L
+AU  - Solleti, Siva Kumar
+AU  - Lunger, Valerie A
+AU  - Metlay, Leon
+AU  - Srisuma, Sorachai
+AU  - Wert, Susan E
+AU  - Mariani, Thomas J
+AU  - Pryhuber, Gloria S
+Y1  - 2012//
+Y2  - 20120621//
+KW  - Animals
+KW  - Autopsy
+KW  - *Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - *Bronchopulmonary Dysplasia/me [Metabolism]
+KW  - *Connective Tissue Cells/me [Metabolism]
+KW  - Disease Models, Animal
+KW  - Gene Expression/ge [Genetics]
+KW  - *Gene Expression Profiling/mt [Methods]
+KW  - Gene Expression Profiling/sn [Statistics & Numerical Data]
+KW  - *Genome-Wide Association Study/mt [Methods]
+KW  - Genome-Wide Association Study/sn [Statistics & Numerical Data]
+KW  - Humans
+KW  - In Vitro Techniques
+KW  - Infant, Newborn
+KW  - Lung/me [Metabolism]
+KW  - *Mast Cells/me [Metabolism]
+KW  - Mice
+KW  - Mice, Mutant Strains
+KW  - Microarray Analysis/mt [Methods]
+KW  - Reverse Transcriptase Polymerase Chain Reaction/mt [Methods]
+T2  - American journal of respiratory and critical care medicine
+VL  - 186
+IS  - 4
+SN  - 1073-449X
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med9&NEWS=N&AN=22723293
+AD  - United States
+AB  - RATIONALE: Bronchopulmonary dysplasia (BPD) is a major complication of premature birth. Risk factors for BPD are complex and include prenatal infection and O(2) toxicity. BPD pathology is equally complex and characterized by inflammation and dysmorphic airspaces and vasculature. Due to the limited availability of clinical samples, an understanding of the molecular pathogenesis of this disease and its causal mechanisms and associated biomarkers is limited., OBJECTIVES: Apply genome-wide expression profiling to define pathways affected in BPD lungs., METHODS: Lung tissue was obtained at autopsy from 11 BPD cases and 17 age-matched control subjects without BPD. RNA isolated from these tissue samples was interrogated using microarrays. Standard gene selection and pathway analysis methods were applied to the data set. Abnormal expression patterns were validated by quantitative reverse transcriptase-polymerase chain reaction and immunohistochemistry., MEASUREMENTS AND MAIN RESULTS: We identified 159 genes differentially expressed in BPD tissues. Pathway analysis indicated previously appreciated (e.g., DNA damage regulation of cell cycle) as well as novel (e.g., B-cell development) biological functions were affected. Three of the five most highly induced genes were mast cell (MC)-specific markers. We confirmed an increased accumulation of connective tissue MC(TC) (chymase expressing) mast cells in BPD tissues. Increased expression of MC(TC) markers was also demonstrated in an animal model of BPD-like pathology., CONCLUSIONS: We present a unique genome-wide expression data set from human BPD lung tissue. Our data provide information on gene expression patterns associated with BPD and facilitated the discovery that MC(TC) accumulation is a prominent feature of this disease. These observations have significant clinical and mechanistic implications.
+LB  - Included by Other
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 70839325
+TI  - Genome-wide expression analysis of human bronchopulmonary dysplasia
+AU  - Bhattacharya S.
+AU  - Gascon J.L.
+AU  - Huyck H.L.
+AU  - Srisuma S.
+AU  - Metlay L.A.
+AU  - Solleti S.
+AU  - Mariani T.J.
+AU  - Pryhuber G.S.
+Y1  - 2010//
+KW  - *human
+KW  - *lung dysplasia
+KW  - *society
+KW  - *genome
+KW  - female
+KW  - prematurity
+KW  - lung
+KW  - gene
+KW  - health care cost
+KW  - sepsis
+KW  - risk
+KW  - gestational age
+KW  - tissue structure
+KW  - baby
+KW  - tissues
+KW  - autopsy
+KW  - risk factor
+KW  - gene expression
+KW  - death
+KW  - cluster analysis
+KW  - patient
+KW  - pregnancy
+KW  - laboratory
+KW  - RNA
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 181
+IS  - 1 MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1073-449X
+AD  - S. Bhattacharya, University of Rochester Medical Center, Rochester, NY, United States. E-mail: soumyaroop_bhattacharya@urmc.rochester.edu
+UR  - http://ajrccm.atsjournals.org/cgi/reprint/181/1_MeetingAbstracts/A1859?sid=8557ffc7-623e-4bd5-9e00-26296af05589
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed11&NEWS=N&AN=70839325
+AB  - Bronchopulmonary Dysplasia (BPD) is a major complication in premature infants, particularly those born at less than 32 weeks of gestation or weighing less than 1500 g. More than 55,000 babies with increased risk of developing BPD are born each year, and an estimated annual health care cost of $26 billion. Due to the complexity of risk factors and limited availability of clinical samples, an understanding of this disease, its potential biomarkers and causal mechanisms are limited. Over the past decade, under an IRB-approved protocol, this laboratory has established a unique biorepository of autopsy tissue samples from human premature babies diagnosed with BPD and non-BPD controls. These lung samples are harvested within 6 hours, following a standardized protocol to retain tissue structure and molecular integrity. Data from this sample collection have been previously published. In order to discover novel BPD biomarkers, 28 of these samples were selected for genome-wide expression profiling, including 11 BPD and 9 control cases, matched for gestational age at birth and at death, as well as 4 cases with culture-positive, acute overwhelming sepsis. Each total lung RNA was demonstrated to meet quality standards and was then subjected to the Affymetrix U133 Plus 2.0 array. Normalized and background corrected data was extracted and non-informative probe sets were excluded. Cluster analysis of samples identified subgroups of patients, consistent with known clinical complications of prematurity. Preliminary analysis using Significance Analysis of Microarrays (SAM) identified novel genes with differential expression between BPD cases and non-BPD controls. Global validation of array-based expression data, demonstrated a significant correlation (p<0.05) with qPCR-based expression data for 16 of 20 genes analyzed. Also, consistent with previous reports, we were able to demonstrate a significant increase in IGF1 expression in BPD samples by qPCR. Additional ongoing analyses are aimed at identifying and validating novel disease biomarkers. These data will significantly expand our knowledge of gene expression patterns in BPD lungs, and may be useful for the development of new therapeutic strategies.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 71667625
+TI  - Genome-wide association study of bronchopulmonary dysplasia
+AU  - Karjalainen M.K.
+AU  - Mahlman M.
+AU  - Huusko J.M.
+AU  - Andersson S.
+AU  - Kari A.
+AU  - Lehtonen L.
+AU  - Sankilampi U.
+AU  - Tammela O.
+AU  - Marttila R.
+AU  - Ramet M.
+AU  - Hallman M.
+Y1  - 2014//
+KW  - *genetic association
+KW  - *lung dysplasia
+KW  - *organization
+KW  - gene
+KW  - population
+KW  - infant
+KW  - university hospital
+KW  - genome
+KW  - single nucleotide polymorphism
+KW  - hypothesis
+KW  - gestational age
+KW  - heredity
+KW  - prematurity
+KW  - premature labor
+KW  - human
+KW  - chronic disease
+KW  - quality control
+KW  - C reactive protein
+KW  - protein tyrosine phosphatase SHP 1
+KW  - DNA
+T2  - Archives of Disease in Childhood
+LA  - English
+VL  - 99
+IS  - SUPPL. 2
+PB  - BMJ Publishing Group
+SN  - 0003-9888
+AD  - M.K. Karjalainen, Department of Pediatrics, University of Oulu, Oulu University Hospital, Oulu, Finland
+UR  - http://adc.bmj.com/content/99/Suppl_2/A498.3.abstract?sid=fa8b37b4-4f3e-47a7-b9fc-6a1c225ba4b3
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed15&NEWS=N&AN=71667625
+DO  - https://dx.doi.org/10.1136/archdischild-2014-307384.1383
+AB  - Background and aims Bronchopulmonary dysplasia (BPD) is the most common chronic disease associated with very preterm birth. BPD has a significant genetic background but the predisposing genes are insufficiently known. The aim is to find genetic factors that predispose to moderate-severe BPD using a hypothesis-free, genome-wide approach. Methods The study populations included preterm infants (gestational age <31 weeks) born during 1997-2013 in Oulu University Hospital and during 2010-2013 in other Finnish University Hospitals (Helsinki, K uopio, Tampere, Turku). DNA samples were genotyped using the Illumina HumanCoreExome BeadChip consisting of approximately 550,000 single-nucleotide polymorphisms (SNPs); after quality control, 60 cases (moderate-severe BPD) and 114 controls (no or mild BPD) remained for a genome-wide association study (GWAS). In the next step, approximately 200 SNPs showing suggestive signals are genotyped in additional infants (n = 116/232) to determine which associations are replicated. Results In GWAS, we detected suggestive association signals (p < 1-4) for several SNPs; many of these SNPs were located within or near genes that can be considered as plausible candidate genes for BPD (e.g. the CRP and PTPN6 genes encoding C-reactive protein and protein-tyrosine phosphatase SHP-1, respectively). Some of the SNPs showing suggestive associations in two previous GWASs of BPD showed weak associations (e.g. those within the PALM2 and CTNNA3 genes). Conclusions In genome-wide association study of BPD, we detected several suggestive associations. These initial results require verification in subsequent studies, including replication in additional populations and functional studies of the arising candidate genes.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Embase
+AN  - 72051307
+TI  - Expression profiling of miRNAs in pediatric bronchopulmonary dysplasia
+AU  - Howrylak J.A.
+AU  - Pham M.
+AU  - Oji-Mmuo C.
+AU  - DiAngelo S.
+AU  - Spear D.
+AU  - Group K.
+AU  - Siddaiah R.
+AU  - Thomas N.
+AU  - Silveyra P.
+Y1  - 2015//
+KW  - *lung dysplasia
+KW  - *American
+KW  - *society
+KW  - human
+KW  - infant
+KW  - lung
+KW  - artificial ventilation
+KW  - prematurity
+KW  - pathogenesis
+KW  - tracheal aspiration procedure
+KW  - child
+KW  - early diagnosis
+KW  - morbidity
+KW  - mortality
+KW  - ventilator
+KW  - United States
+KW  - newborn
+KW  - gene
+KW  - statistical model
+KW  - synthetic bone graft
+KW  - newborn care
+KW  - RNA purification
+KW  - oxygen therapy
+KW  - lung development
+KW  - gene expression
+KW  - respiratory tract disease
+KW  - health
+KW  - comprehension
+KW  - chronic lung disease
+KW  - pediatric hospital
+KW  - *microRNA
+KW  - biological marker
+KW  - RNA
+T2  - American Journal of Respiratory and Critical Care Medicine
+LA  - English
+VL  - 191
+IS  - MeetingAbstracts
+SP  -
+PB  - American Thoracic Society
+SN  - 1073-449X
+AD  - J.A. Howrylak, Penn State, Milton S. Hershey Medical Center, Hershey, PA, United States. E-mail: pzs13@psu.edu
+UR  - http://www.atsjournals.org/doi/pdf/10.1164/ajrccm-conference.2015.191.1_MeetingAbstracts.A3480
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=emed16&NEWS=N&AN=72051307
+AB  - Background: Bronchopulmonary dysplasia (BPD) is a chronic lung disease of preterm infants, affecting 10,000-15,000 children per year in the United States with significant mortality. Oxygen therapy and mechanical ventilation in neonatal care are necessary to assist infants with inadequately-developed lungs but also contribute to the development of BPD. Despite improvements of clinical treatments and new ventilator strategies, BPD has remained the most serious pulmonary morbidity in preterm newborns over the past decade. Therefore, it is essential to identify novel non-invasive biomarkers for early diagnosis of BPD to prevent its progression and later implications of impaired lifelong lung health. In this project, we aimed to identify changes of lung miRNAs involved in the pathogenesis of BPD, as miRNAs- regulators of gene expression- have been shown to control essential mechanisms of lung development. Method(s): Following IRB approval, we collected tracheal aspirates (n=20) from infants diagnosed with mild and severe BPD receiving mechanical ventilation at the Penn State Hershey Children's Hospital NICU and PICU, and controls (Table 1). We purified miRNAs using the miRNA circulating RNA purification mini kit (Norgen Biotek). We reverse transcribed these with the the miScript II RT kit (Qiagen) for subsequent quantitation of 1,066 human miRNAs utilizing the human miRNome miScript miRNA PCR array v.16 (Qiagen). We used the limma package in Bioconductor to develop linear models to detect miRNAs differentially expressed between BPD and control infants. Result(s): Preliminary results demonstrated statistically significant (p<0.05) differential expression of 16 miRNAs among infants with BPD compared to control infants (with no signs of respiratory disease). These included 13 miRNAs up-regulated and 5 miRNAs down-regulated in infants with BPD vs. control. The most significantly differentially expressed miRNAs were miR-628-5p (p=0.0001), miR-541 (p=0.002), and miR-497 (p=0.01). Conclusion(s): This is the first study to identify miRNAs associated with BPD in pediatric tracheal aspirates. The miRNA biomarkers identified may reveal specific candidate gene networks that are affected in BPD, contributing towards the comprehension of BPD pathogenesis and potential preventive and therapeutic strategies. (Table Presented).
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2015>
+TI  - Exome Sequencing of Neonatal Blood Spots and the Identification of Genes Implicated in Bronchopulmonary Dysplasia.
+DO  - https://dx.doi.org/10.1164/rccm.201501-0168OC
+AU  - Li, Jingjing
+AU  - Yu, Kun-Hsing
+AU  - Oehlert, John
+AU  - Jeliffe-Pawlowski, Laura L
+AU  - Gould, Jeffrey B
+AU  - Stevenson, David K
+AU  - Snyder, Michael
+AU  - Shaw, Gary M
+AU  - O'Brodovich, Hugh M
+Y1  - 2015//
+KW  - Animals
+KW  - Blood Specimen Collection
+KW  - *Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - Case-Control Studies
+KW  - *Exome/ge [Genetics]
+KW  - Female
+KW  - Genetic Predisposition to Disease
+KW  - Genome-Wide Association Study
+KW  - Haploinsufficiency
+KW  - Humans
+KW  - Infant
+KW  - Infant, Extremely Premature
+KW  - Infant, Newborn
+KW  - Infant, Premature
+KW  - *Lung/em [Embryology]
+KW  - Male
+KW  - Mice
+KW  - *Morphogenesis/ge [Genetics]
+KW  - Neonatal Screening
+KW  - Sequence Analysis, DNA
+KW  - *Twins, Dizygotic/ge [Genetics]
+KW  - *Twins, Monozygotic/ge [Genetics]
+KW  - *Wnt Signaling Pathway/ge [Genetics]
+T2  - American journal of respiratory and critical care medicine
+VL  - 192
+IS  - 5
+SN  - 1073-449X
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med12&NEWS=N&AN=26030808
+AD  - United States
+AB  - RATIONALE: Bronchopulmonary dysplasia (BPD), a prevalent severe lung disease of premature infants, has a strong genetic component. Large-scale genome-wide association studies for common variants have not revealed its genetic basis., OBJECTIVES: Given the historical high mortality rate of extremely preterm infants who now survive and develop BPD, we hypothesized that risk loci underlying this disease are under severe purifying selection during evolution; thus, rare variants likely explain greater risk of the disease., METHODS: We performed exome sequencing on 50 BPD-affected and unaffected twin pairs using DNA isolated from neonatal blood spots and identified genes affected by extremely rare nonsynonymous mutations. Functional genomic approaches were then used to systematically compare these affected genes., MEASUREMENTS AND MAIN RESULTS: We identified 258 genes with rare nonsynonymous mutations in patients with BPD. These genes were highly enriched for processes involved in pulmonary structure and function including collagen fibril organization, morphogenesis of embryonic epithelium, and regulation of Wnt signaling pathway; displayed significantly elevated expression in fetal and adult lungs; and were substantially up-regulated in a murine model of BPD. Analyses of mouse mutants revealed their phenotypic enrichment for embryonic development and the cyanosis phenotype, a clinical manifestation of BPD., CONCLUSIONS: Our study supports the role of rare variants in BPD, in contrast with the role of common variants targeted by genome-wide association studies. Overall, our study is the first to sequence BPD exomes from newborn blood spot samples and identify with high confidence genes implicated in BPD, thereby providing important insights into its biology and molecular etiology.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2016>
+TI  - Age, Sexual Dimorphism, and Disease Associations in the Developing Human Fetal Lung Transcriptome.
+DO  - https://dx.doi.org/10.1165/rcmb.2015-0326OC
+AU  - Kho, Alvin T
+AU  - Chhabra, Divya
+AU  - Sharma, Sunita
+AU  - Qiu, Weiliang
+AU  - Carey, Vincent J
+AU  - Gaedigk, Roger
+AU  - Vyhlidal, Carrie A
+AU  - Leeder, J Steven
+AU  - Tantisira, Kelan G
+AU  - Weiss, Scott T
+Y1  - 2016//
+KW  - Age Factors
+KW  - Databases, Genetic
+KW  - Female
+KW  - *Fetus/me [Metabolism]
+KW  - Gene Expression Profiling
+KW  - Gene Expression Regulation, Developmental
+KW  - Humans
+KW  - *Lung/em [Embryology]
+KW  - *Lung/pa [Pathology]
+KW  - *Lung Diseases/ge [Genetics]
+KW  - Male
+KW  - Principal Component Analysis
+KW  - *Sex Characteristics
+KW  - Statistics as Topic
+KW  - *Transcriptome/ge [Genetics]
+T2  - American journal of respiratory cell and molecular biology
+VL  - 54
+IS  - 6
+SN  - 1044-1549
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med13&NEWS=N&AN=26584061
+AD  - United States
+AB  - The fetal origins of disease hypothesis suggests that variations in the course of prenatal lung development may affect life-long pulmonary function growth, decline, and pathobiology. Many studies support the existence of differences in the developing lung trajectory in males and females, and sex-specific differences in the prevalence of chronic lung diseases, such as asthma and bronchopulmonary dysplasia. The objectives of this study were to investigate the early developing fetal lung for transcriptomic correlates of postconception age (maturity) and sex, and their associations with chronic lung diseases. We analyzed whole-lung transcriptome profiles of 61 females and 78 males at 54-127 days postconception (dpc) from nonsmoking mothers using unsupervised principal component analysis and supervised linear regression models. We identified dominant transcriptomic correlates for postconception age and sex with corresponding gene sets that were enriched for developing lung structural and functional ontologies. We observed that the transcriptomic sex difference was not a uniform global time shift/lag, rather, lungs of males appear to be more mature than those of females before 96 dpc, and females appear to be more mature than males after 96 dpc. The age correlate gene set was consistently enriched for asthma and bronchopulmonary dysplasia genes, but the sex correlate gene sets were not. Despite sex differences in the developing fetal lung transcriptome, postconception age appears to be more dominant than sex in the effect of early fetal lung developments on disease risk during this early pseudoglandular phase of development.
+LB  - Included by Sara
+ER  -
+TY  - ABST
+DB  - Ovid MEDLINE(R) <2013>
+TI  - A genome-wide association study (GWAS) for bronchopulmonary dysplasia.
+DO  - https://dx.doi.org/10.1542/peds.2013-0533
+AU  - Wang, Hui
+AU  - St Julien, Krystal R
+AU  - Stevenson, David K
+AU  - Hoffmann, Thomas J
+AU  - Witte, John S
+AU  - Lazzeroni, Laura C
+AU  - Krasnow, Mark A
+AU  - Quaintance, Cecele C
+AU  - Oehlert, John W
+AU  - Jelliffe-Pawlowski, Laura L
+AU  - Gould, Jeffrey B
+AU  - Shaw, Gary M
+AU  - O'Brodovich, Hugh M
+Y1  - 2013//
+Y2  - 20130729//
+KW  - *Bronchopulmonary Dysplasia/ge [Genetics]
+KW  - California
+KW  - Exome/ge [Genetics]
+KW  - Female
+KW  - *Genetic Predisposition to Disease/ge [Genetics]
+KW  - Genetic Variation/ge [Genetics]
+KW  - *Genome-Wide Association Study
+KW  - Genotype
+KW  - Gestational Age
+KW  - Humans
+KW  - Infant
+KW  - Infant, Newborn
+KW  - *Infant, Very Low Birth Weight
+KW  - Male
+KW  - Models, Genetic
+KW  - Phenotype
+KW  - *Polymorphism, Single Nucleotide/ge [Genetics]
+KW  - Risk Factors
+T2  - Pediatrics
+VL  - 132
+IS  - 2
+SN  - 0031-4005
+UR  - http://ovidsp.ovid.com/ovidweb.cgi?T=JS&PAGE=reference&D=med10&NEWS=N&AN=23897914
+AD  - United States
+AB  - OBJECTIVE: Twin studies suggest that heritability of moderate-severe bronchopulmonary dysplasia (BPD) is 53% to 79%, we conducted a genome-wide association study (GWAS) to identify genetic variants associated with the risk for BPD., METHODS: The discovery GWAS was completed on 1726 very low birth weight infants (gestational age = 25(0)-29(6/7) weeks) who had a minimum of 3 days of intermittent positive pressure ventilation and were in the hospital at 36 weeks' postmenstrual age. At 36 weeks' postmenstrual age, moderate-severe BPD cases (n = 899) were defined as requiring continuous supplemental oxygen, whereas controls (n = 827) inhaled room air. An additional 795 comparable infants (371 cases, 424 controls) were a replication population. Genomic DNA from case and control newborn screening bloodspots was used for the GWAS. The replication study interrogated single-nucleotide polymorphisms (SNPs) identified in the discovery GWAS and those within the HumanExome beadchip., RESULTS: Genotyping using genomic DNA was successful. We did not identify SNPs associated with BPD at the genome-wide significance level (5 x 10(-8)) and no SNP identified in previous studies reached statistical significance (Bonferroni-corrected P value threshold .0018). Pathway analyses were not informative., CONCLUSIONS: We did not identify genomic loci or pathways that account for the previously described heritability for BPD. Potential explanations include causal mutations that are genetic variants and were not assayed or are mapped to many distributed loci, inadequate sample size, race ethnicity of our study population, or case-control differences investigated are not attributable to underlying common genetic variation.
+LB  - Included by Other
+ER  -

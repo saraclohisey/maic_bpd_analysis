@@ -1,0 +1,14 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Sp1,ENSG00000185591,ortholog_one2one,95.0318,96.5605
+Myc,ENSG00000136997,ortholog_one2one,89.8678,93.3921
+Irf7,ENSG00000185507,ortholog_one2one,61.0338,67.7932
+Usf2,ENSG00000105698,ortholog_one2one,97.9769,98.8439
+Fabp4,ENSG00000170323,ortholog_one2one,91.6667,95.4545
+Yy1,ENSG00000100811,ortholog_one2one,98.7923,99.0338
+Elk1,ENSG00000183960,ortholog_one2one,92.2313,95.664
+Etf,error - retries exceeded,,,
+Isre,error - retries exceeded,,,
+Gabp,error - retries exceeded,,,
+E2f,error - retries exceeded,,,
+Hif1,error - retries exceeded,,,
+Egr,error - retries exceeded,,,

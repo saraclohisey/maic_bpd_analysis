@@ -1,0 +1,16 @@
+Mouse Gene,Human Ortholog Gene Symbol,Type,Identity (%),Positivity (%)
+Mbd4,ENSG00000129071,ortholog_one2one,65.6794,74.216
+Galnt11,ENSG00000178234,ortholog_one2one,87.8289,94.4079
+Mbd4,ENSG00000129071,ortholog_one2one,65.6794,74.216
+Hrh1,ENSG00000196639,ortholog_one2one,78.2341,84.5996
+Man1a2,ENSG00000198162,ortholog_one2one,94.5398,97.1919
+Alox5,ENSG00000012779,ortholog_one2one,92.8783,96.5875
+Vwf,ENSG00000110799,ortholog_one2one,83.363,91.0416
+Atp1a1,ENSG00000163399,ortholog_one2one,96.8719,98.5337
+Plxnd1,ENSG00000004399,ortholog_one2one,91.4805,94.3896
+Zfand4,ENSG00000172671,ortholog_one2one,72.3521,82.2558
+Mapk14,ENSG00000112062,ortholog_one2one,95.5556,97.2222
+Reln,ENSG00000189056,ortholog_one2one,95.1734,98.2948
+Ptprt,ENSG00000196090,ortholog_one2one,97.9875,98.3345
+Itag9,error - retries exceeded,,,
+Pharctr2,error - retries exceeded,,,

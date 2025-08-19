@@ -1,0 +1,15 @@
+RNAseq
+Coarfa_28818871_male_up_day7
+RANKED	
+NAMED_GENES
+mouse
+Cxcl3
+Rfx4
+Nxnl1
+Gdf15
+Drd1a
+Slc39a12
+Capn9
+CxCl5
+Clec5a
+CCr8

@@ -1,0 +1,15 @@
+Transcriptomics
+Leikauf_22447970
+RANKED
+NAMED_GENES
+Slc38a4
+Slco4c1
+Cyp11a1
+Ttk
+Ikbkap
+Aacs
+Tnfrsf1
+Ncor2
+Tns1
+Fry
+Slc35a5
